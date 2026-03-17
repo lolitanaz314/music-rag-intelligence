@@ -1,0 +1,259 @@
+Group Registration of
+Newspapers
+
+This circular is an introduction to 
+
+the U.S. Copyright Office’s group 
+
+registration accommodation for 
+
+newspapers. It covers
+
+•  Eligibility Requirements
+
+•  Registration Procedure
+
+•  Deposit Requirements
+
+1
+
+62A
+
+While the general rule for registration is to submit one 
+application, filing fee, and deposit for each work you want 
+to register, the U.S. Copyright Office has established a 
+group registration option for registering multiple issues 
+of a newspaper. Newspapers are considered periodicals for 
+purposes of registration, meaning that they are intended 
+to be issued on an established schedule in successive parts 
+bearing numerical or chronological designations that are 
+intended to be continued indefinitely.
+
+For the purpose of group registration, a newspaper is a 
+periodical that is mainly designed to be a primary source of 
+written information on current events, either local, national, 
+or international in scope. A newspaper contains a broad 
+range of news on all subjects and activities and is not limited 
+to a specific subject matter. Newspapers are intended either 
+for the general public or a particular ethnic, cultural, or 
+national group.
+
+Multiple newspaper issues may be registered using one 
+application, one filing fee, and the appropriate deposit copies 
+when they meet certain requirements set forth by Office 
+regulations. Otherwise, each issue will need to be registered 
+separately with individual applications, filing fees, and 
+deposits.
+
+Newspaper websites are not eligible for this group 
+registration option because a website is not considered a 
+serial for purposes of registration. For more information 
+on registering a website, see Copyright Registration of 
+Websites and Website Content (Circular 66). However, an 
+electronically printed (ePrint) newspaper may be eligible 
+for a group registration, provided that it satisfies the 
+eligibility requirements listed above. For purposes of group 
+registration, an ePrint newspaper is an issue that is published 
+and distributed online or via email as a self-contained, 
+downloadable work, such as a digital version of a tangible 
+newspaper.
+
+wcopyright.govCIRCULAR NOTE: : If a serial publication does not meet these eligibility requirements, it may be possible to 
+register the issues as a group of serials or as a group of newsletters. For more information, see 
+Group Registration of Serials (Circular 62B) and Help: Newsletters at www.copyright.gov/eco/help-
+newsletters.html. An individual issue may also be registered as a single serial issue. For more 
+information, see Copyright Registration of Single Serial Issues (Circular 62).
+
+Authorship in Newspapers
+
+Newspapers are considered collective works because they contain a number of contributions 
+constituting separate and independent works in themselves that are assembled into a collective 
+whole. A newspaper typically contains two different types of authorship:
+
+•  The authorship in the issue as a whole, including the selection, coordination, or arrangement 
+
+of the separate contributions, as well as editing, annotation, or revision; and
+
+•  The authorship in the separate and independent works that have been included within the 
+
+issue, which may contain literary or artistic expression.
+
+A registration for a group of newspapers covers each issue in the group and each issue is 
+
+registered as a separate collective work. Furthermore, because each issue is registered as a collective 
+work, the registration also covers the articles, photographs, illustrations, or other contributions 
+that appear in each issue, as long as the claimant fully owns the copyright in both the issue and the 
+contributions, and those contributions have not been previously published or registered and are not 
+in the public domain.
+
+Group Registration of Newspapers
+
+To register a claim to copyright in two or more issues of a newspaper, you must (1) complete the 
+Copyright Office’s online application for “daily newspapers”; (2) submit a nonrefundable filing 
+fee; and (3) upload a digital copy of each newspaper issue. This circular highlights issues common 
+to registrations of a group of newspapers. For general registration information, see Copyright 
+Registration (Circular 2).
+
+NOTE: Copyright Office fees are subject to change. For current fees, see Copyright Office Fees  
+(Circular 4), available on the Office’s website at www.copyright.gov or call the Office at (202) 707-3000 
+or 1-877-476-0778 (toll free).
+
+Group Registration Eligibility
+
+Multiple newspaper issues may be registered together as long as they meet the following 
+requirements:
+
+•  Each issue must be an all-new collective work that has not been published before.
+
+NOTE: Earlier editions of a particular issue may be submitted together with the final edition.
+
+•  Each issue must be fixed and distributed as a discrete, self-contained collective work, and the 
+
+claim in each issue must be limited to the collective work.
+
+•  The author and claimant for each issue must be the same person or organization.
+
+2
+
+Group Registration of Newspapers•  Each issue must be a work made for hire.
+
+•  All the issues must be published under the same continuing title.
+
+•  All the issues must be published within the same calendar month and bear issue dates within 
+
+that month.
+
+•  The applicant must identify the earliest and latest date that the issues were published.
+
+Completing the Group Registration Application
+
+The application for registration must be submitted through the Office’s online registration system, 
+and you must use the application designated for “daily newspapers.” Mistakes in applications lead to 
+delays in registration, so it is important to complete the application accurately. Here are some tips 
+regarding common points of confusion.
+
+Title of Newspaper
+
+•  Provide the title, month and year date, or edition number of the newspaper exactly as it 
+
+appears on the issues.
+
+•  Identify the total number of issues submitted for registration.
+
+•  Do not include titles for any contributions that appear in the newspaper.
+
+International Serial Standard Number (ISSN)
+
+•  Provide the International Standard Serial Number (ISSN) that has been assigned to the 
+
+newspaper. As discussed below, you also need to include the ISSN in the file name for each 
+issue you upload to the Copyright Office.
+
+•  If you do not have an ISSN, you may request a number from the U.S. ISSN Center. To do so, 
+
+complete the ISSN Newspaper Application Form and make a PDF copy of the front page of one 
+issue (including the masthead or nameplate) and any internal page that contains the editorial 
+block, masthead, and publisher information. The completed form and PDF copies should be 
+emailed to issngrnp@loc.gov with the subject line “Group Registration of Newspapers.”
+
+Author/Claimant
+
+•  As mentioned above, the newspaper must be a collective work, and the claim in each issue 
+
+must be limited to the collective work. When you submit the application, the term “collective 
+work authorship” will automatically be added to your application. The registration will also 
+cover all of the articles, photographs, illustrations, or other contributions appearing in each 
+issue that are fully owned by the claimant and that have not been previously registered or 
+published.
+
+•  If the copyright in individual contributions is owned by parties other than the owner of the 
+copyright in the issue as a whole, or if the contributions have been previously published or 
+previously registered, you must submit a separate application for each contribution.
+
+Date of Publication for First and Last Issues in the Group
+
+•  Provide the month, day, and year of publication for the earliest and most recent issues in the 
+
+group. The issues must be published within the same month.
+
+3
+
+Group Registration of NewspapersSubmitting the Deposit
+
+To register your group of newspapers, you must upload a digital copy of each issue to the Copyright 
+Office, and you must include all of the issues published during the month identified in the 
+application. The issues must be submitted in PDF form, and you must upload a separate PDF for 
+each issue. The files must be viewable and searchable, contain embedded fonts, and be free from any 
+access restrictions, such as password protection, watermarks, or other Digital Rights Management 
+(DRM). Each file should be named using the following convention:
+
+“GRNP_[ISSN Number]_[Date of Publication YYYYMMDD].pdf ”
+
+NOTE: Be sure to include two digits for both the month and day, such as 01, 02, 03, etc. (not 1, 2, 3, etc.).
+
+For example, the file name for an issue published on March 1, 2018, under ISSN 1236-567X 
+
+should be: “GRNP_1236567X_20180301.pdf ”
+
+If you have applied for an ISSN but have not received it yet, state “pending” in the file name:
+
+Example: “GRNP_Pending_20180301.pdf ”
+
+You must upload each issue as an individual PDF file, and the file size for each PDF must not 
+exceed 500 MB. You may compress the PDF to meet the file size limitation. Do not upload the issues 
+in a compressed file, such as a .cab, .rar, or .zip file.
+
+Once a deposit has been submitted, it becomes part of the public record and cannot be returned. 
+
+The Library of Congress may make newspaper issues available to up to two Library of Congress 
+authorized users at any one time. Authorized users will be able to access these issues via a secure 
+server over a secure network that services Library of Congress premises. In addition, Library staff 
+may access the issues off-site as part of their assigned duties through a secure connection.
+
+As of December 31, 2019, the Copyright Office no longer accepts 35 mm silver halide microfilm.
+
+4
+
+Group Registration of NewspapersNOTE
+1. This circular is intended as an overview of copyright registration of a group of newspapers. The 
+authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United 
+States Code. Copyright regulations are codified in Title 37 of the Code of Federal Regulations. 
+Copyright Office practices and procedures are summarized in the third edition of the Compendium 
+of U.S. Copyright Office Practices, cited as the Compendium. The copyright law, regulations, and the 
+Compendium are available on the Copyright Office website at www.copyright.gov.
+
+5
+
+Group Registration of NewspapersFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 62A  REVISED: 03/2021 
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

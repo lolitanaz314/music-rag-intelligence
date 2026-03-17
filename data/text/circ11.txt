@@ -1,0 +1,493 @@
+ 11
+
+Using the Single Application
+
+The Single Application is a streamlined 
+
+option for registering simple claims in 
+
+one work (not made for hire) by a single 
+
+author who is also the sole owner of all 
+
+rights in the work. It is available only for 
+
+works meeting the Copyright Office’s 
+
+eligibility requirements. This circular 
+
+is intended as a guide for determining 
+
+whether or not a work meets those 
+
+requirements.
+
+The Single Application is a simplified online registration 
+option that allows a single author to register a claim in one 
+work that is solely owned by the same author and is not a 
+work made for hire. Certain types of works are not eligible 
+for the Single Application option, as they create a more 
+complex application that takes additional time to examine. 
+Accordingly, for most works, using the Standard Application 
+to register a copyright claim is most appropriate. The Single 
+Application registration option is available only for works 
+meeting the Copyright Office’s eligibility requirements.1 For a 
+list of representative examples of eligible and ineligible works, 
+please see the table at the end of this circular.
+
+note: The Copyright Office will refuse registration of a 
+copyright claim mistakenly filed with a Single Application. 
+Applicants who mistakenly use the Single Application will 
+need to submit a new claim using the Standard Application 
+and pay the full standard filing fee for registration. Copyright 
+Office fees are subject to change. For current fees, see Copy-
+right Office Fees (Circular 4), available on the Office’s website 
+at www.copyright.gov or call the Office at (202) 707-3000 or 
+1-877-476-0778 (toll free).
+
+Single Application eligibility requirements:
+
+•  The claim must be submitted online using the Office’s 
+electronic registration system, using the application 
+labelled “One Work by One Author.”
+
+•  Only one work can be registered (for example, no col-
+
+lections of individual works).
+
+•  The work must have been created by a single author 
+(for example, no joint works, works made for hire, or 
+derivative works based on another author’s work).
+
+•  All the material contained in the work and in the 
+
+deposit must be by the same individual.
+
+wcopyright.govCIRCULAR •  The author and the owner or claimant must be the same individual.
+
+•  The application must be submitted by the author/claimant, or an authorized third party who 
+
+lists him or herself as the correspondent.
+
+The Single Application Distinguished from Other Registration Options
+
+The Single Application is a registration option to facilitate registration of simple copyright claims. 
+Accordingly, the Single Application may not be used to register claims in architectural works, chore-
+ography, websites, databases, collective works, or secure tests, which are more complex. In addition, 
+the Single Application is distinct from the registration option for units of publication and the group 
+registration options for certain categories of works, such as newspapers and newsletters. If you wish 
+to register multiple works using one application, filing fee, and deposit, please consult Multiple 
+Works (Circular 34).
+
+note: Most motion pictures, audiovisual works, and sound recordings are not eligible for the Single 
+Application.
+
+The One Work Requirement
+
+The Single Application may be used to register one work, generally containing one form of authorship.
+If you want to register a single work that includes interdependent or inseparable elements of 
+
+authorship by the same author (such as an illustrated novel where you are the sole author and owner 
+of the text and illustrations), you may use the Single Application as long as the elements are con-
+tained in the work deposited.
+
+Some examples of works with multiple types of authorship that may be registered with the Single 
+
+Application include:
+
+•  A musical work where you are the sole author and owner of the lyrics and music
+
+•  A children’s book where you are the sole author and owner of the text and illustrations
+
+Works with multiple types of authorship that may not be registered with the Single Application 
+
+include:
+
+•  A novel with excerpts from an upcoming work at the end, even if you are the sole author and 
+
+owner of both the novel and the excerpts
+
+•  A multipart work, such as a series of books or photographs
+
+•  A script and accompanying illustrations by a different person
+
+•  A sound recording track and liner notes
+
+•  A lyric sheet and a separate sound recording containing music without lyrics
+
+The One Author Requirement
+
+The work must have been created by one individual, and that person must be the copyright owner 
+or claimant. The work may not be a work made for hire or a joint work.
+
+2
+
+Using the Single ApplicationCommon examples of works with multiple authors—which must be registered using the Stan-
+
+dard Application instead of the Single Application—include:
+
+•  A nonfiction monograph with an afterword or foreword written by another person
+
+•  A sound recording that includes beats or music purchased or licensed for use on the track
+
+•  A derivative work or adaptation of another author’s work
+
+•  A musical composition with different authors of the words and music
+
+•  A sound recording with multiple performers
+
+•  A recorded dramatic dialogue with two performers
+
+•  A comic book with text and illustrations by two authors
+
+Example: Sam has created two short videos: one video captures an empty meadow with narra-
+tion by Sam, and the other one captures a friend dancing to disco music. Sam may register the 
+first video using the Single Application, but he must use a Standard Application for the second 
+video.
+
+Example: Alex has two sound recordings: one produced by Alex, in which she is the sole 
+performer of her own composition, and the other one produced by Alex, in which she is 
+accompanied by a friend, Jean. Alex may register the first sound recording using the Single 
+Application, but must use a Standard Application for the second sound recording.
+
+Content Requirement
+
+All material within the work and deposit must be created by the same individual in order to use the 
+Single Application. Common examples of works containing material created by other individuals 
+include:
+
+•  Works incorporating stock photographs, family photographs, clip art, or images found online
+
+•  A deposit consisting of a separate lyric sheet and a separate sound recording of music without 
+
+lyrics
+
+•  A video taken by one person featuring another person performing a song
+
+Consistent Author and Claimant Requirement
+
+The Single Application may only be used when the author is the only copyright owner or claimant 
+in the work. Because the author and claimant must be the same individual in order to use the Single 
+Application, the information provided in the “author” and “claimant” fields must be identical.
+
+Example: Sue is the composer and lyricist in “My Song.” Prior to registration, she assigns the 
+exclusive right of publication to ABC Company. To register the work, she will need to use a 
+Standard Application.
+
+3
+
+Using the Single ApplicationRegistration Procedure for the Single Application
+
+After you (or an authorized third party) log into the Copyright Office’s electronic registration 
+system and click on “Register One Work by One Author,” you will be asked to confirm the following 
+information:
+
+1.  You are registering one work (such as one poem, one song, or one photograph).
+
+2.  The work was created by one individual.
+
+3.  All of the material contained within the work was created by the same individual.
+
+4.  The author and the owner/claimant of the work is the same person, and that person owns all 
+
+of the rights in the work.
+
+5.  The work is not a work made for hire.
+
+If you are unable to confirm all of the above information, you should return to the main menu 
+and select a different form. The Standard Application is the most commonly used application, and it 
+allows you to enter multiple titles, authors, and claimants. 
+
+note: If your application is submitted by an authorized third party, the third party must list himself 
+or herself as the correspondent in the application.
+
+Uploading Multiple Files for One Work
+
+To complete an application, you must submit a copy of your work. The Office recommends that, 
+when possible, you upload digital files through the electronic registration system rather than submit-
+ting a physical copy through the mail. In general, works that are eligible for the Single Application 
+should be uploaded in one digital file, such as one .doc file, one .avi file, one .mp3 file, or one .jpg file.
+If you intend to upload more than one file, it is highly unlikely that your claim meets the require-
+ments for the Single Application. As discussed above, this application is limited to one work (i.e., one 
+item), and it cannot be used for one upload that contains multiple works (i.e., two or more items). 
+Applicants should upload multiple files only in limited cases, such as when you must upload “iden-
+tifying material” containing multiple representations of the same work (in such limited cases, a .zip 
+file may be uploaded). 
+
+Example: Jack, the author and claimant, wishes to use a Single Application to register his 
+sculpture. To submit a deposit to the Office, he must submit identifying material, such as pho-
+tographs, that adequately represent the authorship claimed in the sculpture. He may submit 
+multiple photographs to sufficiently show all of the sculpture’s copyrightable elements.
+
+Consequences of Mistakenly Using the Single Application
+
+If you attempt to use the Single Application to register a work that does not meet all of the eligibility 
+requirements, the Copyright Office will refuse to register your claim, and you will need to refile 
+using a Standard Application. This will result in a delayed effective date of registration, additional 
+filing fee, and submission of a new deposit. The Office will review Single Applications to determine 
+
+4
+
+Using the Single Applicationif they meet all the eligibility requirements. Please note that the Office will make the final determi-
+nation on whether or not a work is eligible for registration using the Single Application. 
+
+Application Tips
+
+Mistakes in applications lead to delays in registration, so it is important to complete the application 
+accurately. Instructions for completing an online application appear in the “help” text that accompa-
+nies the application. Here are some tips regarding common points of confusion.
+
+Anonymous and Pseudonymous Works
+
+The author and claimant must be the same person in order to use the Single Application. When 
+submitting an anonymous work or a pseudonymous work, be careful not to inadvertently include 
+the author’s real name in the application, as it will become part of the public record and cannot be 
+changed once the Office has issued a registration. 
+
+The appearance of an author’s real name in the public record may affect the term of copyright 
+protection. For works created on or after January 1, 1978, the copyright in a pseudonymous or anon-
+ymous work expires 95 years from the year of publication or 120 years from the year of creation, 
+whichever is shorter. However, if the legal name of the author is identified in the records of the 
+Copyright Office, then the term of copyright will be the life of the author plus seventy years.
+
+When you complete a Single Application for an anonymous work, you may check the box indi-
+cating that the author did not put his or her real name on the work. The system will automatically 
+add the term “Anonymous” to the name of the author and claimant. 
+
+When you complete a Single Application for a pseudonymous work, you may check the box indi-
+
+cating that the author used his or her pseudonym on the work instead of providing his or her real 
+name. The system will instruct you to enter the pseudonym on the application instead of providing 
+the author’s real name.
+
+Only check the “Anonymous” box if the author’s name does not appear on the deposit copy of 
+
+the work. If you select “Anonymous,” even though the work contains the author’s real name, the 
+Office may communicate with you about the discrepancy, leading to a delay in registration.
+
+Authorship Statement
+
+To register a work with the Single Application, the applicant must select, from a dropdown box list-
+ing works typically registered with the Single Application, the type of new copyrightable authorship 
+that the author created. Instead of identifying the individual elements of the work, applicants are 
+asked to assert a claim in the work as a whole. For example, if the author created a poem or a paint-
+ing, the applicant should select “one poem” or “one painting” from the dropdown box.
+
+Example: Andy, the author and claimant, wishes to use a Single Application to register his 
+children’s book. Andy created both the text and artwork appearing in the book. To describe 
+this work, Andy should select the option for “one short story.”
+
+Example: Andrea, the author and claimant, wishes to use a Single Application to register her 
+logo. Andrea created the logo by herself. To describe this work, Andrea should select the option 
+for “one logo.”
+
+5
+
+Using the Single ApplicationExample: Sam, the author and claimant, wishes to use a Single Application to register his video 
+of an empty field. Sam created both the motion picture of the field and the accompanying 
+narration. To describe this work, Sam should select the option for “one audiovisual work by 
+one author.”
+
+Example: Samantha, the author and claimant, wishes to use a Single Application to register the 
+sound recording of her performing her original composition. Samantha was solely responsible 
+for producing the sound recording as well as performing and writing the music and lyrics. To 
+describe this work, Samantha should select the option for “sound recording and musical work 
+(with or without lyrics) by same author.”
+
+Limitation of Claim
+
+If the work contains an appreciable amount of material that the author created and previously pub-
+lished or registered, you must exclude that material from the claim. To do so, on the “Limitation of 
+Claim” screens, describe in your own words the material that was previously published or previously 
+registered. The Office will assume that you intend to register all other copyrightable aspects of the 
+work.
+
+note: A Single Application cannot be used if the work contains material co-created or co-owned by 
+two or more people. If you intend to use the Limitation of Claim screen to exclude another person’s 
+work from the claim, you likely need to use a Standard Application rather than the Single Application.
+
+Work 
+Category
+
+Eligible for registration  
+using the Single Application
+
+Ineligible for registration  
+using the Single Application
+
+Literary Works
+
+•  one article
+•  one nonfiction monograph
+•  one essay 
+•  one novel 
+•  one poem 
+•  one short story
+
+•  two or more articles
+•  two or more stories
+•  two or more poems
+•  dictionaries 
+•  directories 
+•  encyclopedias 
+•  serials
+
+Motion 
+Pictures and 
+Audiovisual 
+Works
+
+•   one “selfie video” featuring one 
+
+person 
+
+•  one video game
+•   one motion picture created by the 
+only individual shown in the work
+
+•  two or more motion pictures
+•  two or more audiovisual works
+•   more than one version of a motion 
+
+picture 
+
+•   more than one version of an 
+
+audiovisual work
+
+•   one motion picture featuring two or 
+
+more people 
+
+•   one motion picture featuring 
+
+one person who is not the person 
+recording the motion picture
+
+6
+
+Using the Single ApplicationWork 
+Category
+
+Performing 
+Arts Works
+
+Sound 
+Recordings
+
+Visual Arts 
+Works
+
+Eligible for registration  
+using the Single Application
+
+Ineligible for registration  
+using the Single Application
+
+•  two or more songs 
+•  more than one version of a song 
+•  a song and liner notes 
+•  two or more scripts or treatments
+•   more than one version of a script or 
+
+treatment 
+
+•  a musical play, script, and songs
+
+•  two or more sound recordings 
+•   different versions of a sound 
+
+recording
+
+•   one sound recording produced and 
+performed by two or more people 
+•   one sound recording performed by 
+one person who is not the author of 
+the song contained in the recording
+
+•   a collection or set containing 
+multiple pieces of jewelry
+•  a portfolio of photographs
+•   two or more drawings (even on the 
+
+same page) 
+
+•  multiple versions of a logo
+
+•   one song with music and lyrics, if 
+any, fixed in sheet music by the 
+same author
+
+•  one instrumental composition
+•  one screenplay
+•  one script
+•  one treatment
+
+•   one sound recording where the 
+author and owner is the only 
+performer and producer in the 
+recording
+
+•   one song, literary work, or dramatic 
+work and sound recording where 
+the same individual is the author 
+of both the song and the sound 
+recording, and that individual is the 
+only performer and producer of the 
+recording
+
+•  one carpet design 
+•  one drawing
+•  one fabric design
+•  one logo
+•  one photograph
+•  one map
+•  one technical drawing of one object
+•  one piece of jewelry
+•  one poster
+•  one sculpture 
+•  one wallpaper design
+
+note
+1. This circular is intended as an overview of the requirements for using the Single Application. The 
+authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United 
+States Code. Copyright Office regulations are codified in Title 37 of the Code of Federal Regulations. 
+Copyright Office practices and procedures are summarized in the third edition of the Compendium 
+of U.S. Copyright Office Practices, cited as the Compendium. The copyright law, copyright regulations, 
+and the Compendium are available on the Copyright Office website at www.copyright.gov.
+
+7
+
+Using the Single ApplicationFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 11  REVISED: 03/2021 
+
+PRINT: 00/0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

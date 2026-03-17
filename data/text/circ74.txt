@@ -1,0 +1,292 @@
+74
+
+How to Make 
+Statutory License Royalty 
+EFT Payments Using Pay.gov
+
+This circular contains instructions 
+
+about how to use Pay.gov for statutory 
+
+license royalty payments.1 A companion 
+
+tutorial is available on the Copyright 
+
+Office’s website.
+
+The U.S. Copyright Office is responsible for administering 
+the statutory licenses for secondary transmissions of radio 
+and television programs by cable and satellite systems and 
+for importing, manufacturing, and distributing digital 
+audio recording devices or media by digital audio recording 
+technology (DART) manufacturers and importers. To comply 
+with copyright statutory license requirements, cable systems, 
+satellite carriers, and DART manufacturers and importers 
+must file statements of account with the Copyright Office 
+and pay royalty fees using an electronic funds transfer (EFT). 
+Cable systems and satellite carriers are also required to pay a 
+filing fee. 
+
+As of March 31, 2025, remitters are required to use Pay.gov 
+to submit EFT payments for current, past, and future royalty 
+filing fees. Using Pay.gov benefits both remitters and the 
+Copyright Office because it ensures that the Office can receive, 
+reconcile, and post payments in the same transaction. It also 
+provides remitters with the convenience of using a credit or 
+debit card as a form of payment. Most importantly, using  
+Pay.gov eliminates the need for remitters to separately 
+complete the remittance advice form. Instead, remitters 
+provide the remittance advice form through Pay.gov at the 
+same time they submit payments. The instructions below 
+explain how to submit EFT payments and remittance advice 
+form using the relevant Pay.gov form.
+
+Using Pay.gov requires remitters to complete the following 
+
+steps:
+
+1.  All remitters must complete a Pay.gov form designed 
+
+for the specific royalty type (Cable, Satellite, or DART), 
+providing summary information by accounting 
+year and period. Once completed, this form is sent 
+automatically to the Office’s Licensing Section. 
+Remitters are also required to attach a printout of the 
+completed Pay.gov form to corresponding statements 
+of account submitted to the Office.
+
+wcopyright.govCIRCULAR 2.  Cable remitters must also complete and upload a remittance advice form using the appropriate 
+Excel spreadsheet template provided by the Office, which asks for detailed information to allow 
+the Copyright Office to link payments to the corresponding statements of account.
+
+3.  All remitters must submit payment for royalties and filing fees, as applicable, through an 
+
+Automated Clearing House (ACH) transfer, debit card, or credit card.
+
+NOTE: For the best experience with the Pay.gov website, use Google Chrome or Microsoft Edge.
+
+Before Starting an EFT Payment on Pay.gov
+
+•  Retrieve your system identification number, which is a unique number assigned by the 
+
+Licensing Section, to complete the EFT process. If you are a first-time remitter, you may  
+use 00000 or 99999 as the system identification number in the ID Number field during the 
+EFT process; upon receipt of the statement(s) of account, the Licensing Section will assign  
+the identification number(s). Cable system remitters can find their system identification 
+number by visiting the Search LDS database and searching by their company’s legal name  
+or first community. If you need additional assistance, contact the Licensing Section at 
+licensing@copyright.gov or (202) 707-8150.
+
+•  Contact your bank to determine if your account will accept an ACH debit or credit.  
+
+The Federal Reserve Bank of Cleveland, 1455 East 6th St., Cleveland, OH, 44114, processes  
+Pay.gov funds. Some banks require this information.
+
+•  Refer to Circular 76 for current filing fees for cable and satellite statements of account.
+
+Completing the EFT Process Using Pay.gov
+
+To begin the EFT process, remitters need to select the Pay.gov form that corresponds to their type of 
+royalty payment (Cable, Satellite, or DART) and the payment method.
+
+•  Go to the Pay.gov website, www.Pay.gov.
+
+•  Click on Find an Agency and select “Library of Congress (LOC): Copyright Office” or enter 
+
+Copyright Office in the search bar.
+
+•  Click on U.S. Copyright Office (Cable, DART, Satellite). 
+
+1.  Select the type of royalty payment and the method of payment: 
+
+•  Cable companies should click either
+
+ » Library of Congress Cable Royalty Payment (credit card, debit card, or ACH debit 
+
+payments) or 
+
+ » Library of Congress Cable Royalty Payment - ACH credit 
+
+•  Satellite companies should click either
+
+ » Library of Congress Satellite Royalty Payment (credit card, debit card, or ACH debit 
+
+payments) or 
+
+2
+
+How to Make Statutory License Royalty EFT Payments Using Pay.gov » Library of Congress Satellite Royalty Payment - ACH credit 
+
+•  DART manufacturers or importers should click either
+
+ » Library of Congress DART Royalty Payment (credit card, debit card, or ACH debit 
+
+payments) or 
+
+ » Library of Congress DART Royalty Payment - ACH credit 
+
+2.  Complete the appropriate form:  
+
+•  Cable companies should follow the instructions on the Pay.gov form, which will request 
+the following summary information to be filled in by accounting year and period for all 
+submitted statements:
+ » Contact information for your company
+ » Filings per filing year and period
+ » Any system identification number and corresponding first community served (city, 
+
+state)
+
+ » Totals for each type of filing fee
+ » Total royalty fee and interest (if applicable)
+ » Total amendment fee (if applicable) 
+
+Cable companies must also create and upload a remittance advice form to Pay.gov using 
+the appropriate Excel spreadsheet template provided by the Office. The Pay.gov form 
+provides a download link for the Excel template. The remittance advice form template 
+asks for detailed information that allows the Copyright Office to link payments to the 
+corresponding statements of account. In the template, enter the following information for 
+each submitted statement:
+ » Filing year
+ » Filing period
+ » System identification number 
+ » First community served (city, state)
+ » Filing fee and amendment fee (if applicable)
+ » Royalty fee
+ » Interest (if applicable)
+ » Minimum or Base fee (SA3 Only)
+ » 3.75 fee (SA3 Only, if applicable) 
+
+Save the template as a CSV (comma delimited, .csv) file. You will be asked to upload the 
+remittance advice form after first providing the summary information on the Pay.gov form 
+and clicking Continue. 
+
+3
+
+How to Make Statutory License Royalty EFT Payments Using Pay.gov•  Satellite Companies should follow the instructions on the form, which will request the 
+
+following information for each submitted statement:
+ » Contact information for your company
+ » Filing year and period
+ » Identification number
+ » Filing fee
+ » Total royalty fee and interest (if applicable)
+ » Amendment fee (if applicable) 
+
+•  DART manufacturers and importers should follow the instructions on the form, which 
+
+will request following information for each submitted statement:
+ » Contact information for your company
+ » Fiscal year
+ » Filing period/quarter
+ » Identification number
+ » Total royalty fee and interest (if applicable)
+ » Amendment fee (if applicable) 
+
+•  All Remitters should click PDF Preview to review a PDF version of the completed Pay.gov 
+
+form. You should save and print this page for your records before proceeding. 
+
+3.  Submit Payment and Authorization: After completing the relevant Pay.gov form and 
+
+clicking Continue, you will advance to the payment page and have the ability to select a bank 
+account (ACH transfer) or debit or credit card payment.
+NOTE: The Company ID for the ACH debit transactions is:0000798502. 
+
+•  Bank Account (ACH) Payments
+
+ » The payment screen will show the payment amount, the payment date, and the account 
+
+holder’s name. Confirm the information is correct, or update it as needed.
+
+ » Select an account type from the drop-down menu.
+ » Enter the financial institution’s routing and account numbers. Confirm the account 
+
+number.
+
+ » To make changes to your payment information, click Previous.
+ » To cancel the payment, click Cancel.
+ » When you are satisfied that the information is correct, click Review and Submit Payment. 
+
+4
+
+How to Make Statutory License Royalty EFT Payments Using Pay.gov 
+ 
+ 
+•  Debit or Credit Card Payments
+
+ » The payment screen will show the payment amount and cardholder’s name. Confirm 
+
+that the information is correct, or update it as needed.
+
+ » Enter the billing address.
+ » Enter the debit or credit card information.
+ » To make changes, click Previous or Return to Your Form.
+ » To cancel the payment, click Cancel.
+ » When you are satisfied that the information is correct, click Review and Submit 
+
+Payment.
+
+NOTE: The daily maximum limit for credit card transactions is $24,999.99 per card. There 
+is no limit for debit cards. 
+
+Then, go to Payment Authorization:
+ » On the summary page, confirm that the payment and account information is correct.
+ » To receive an email confirmation upon completion of the transaction, check the box 
+
+and provide an email address.
+
+ » Read the Authorization and Disclosure Statement.
+ » If you agree, click I Agree.
+ » To make changes, click Previous or Return to Form.
+ » To complete the transaction, click Submit Payment. 
+
+Confirmation:
+ » On the Payment Confirmation page, print or save a copy of your receipt. If you 
+
+checked the box on the Payment Authorization page, you will receive a confirmation 
+receipt via email. 
+
+NOTE
+1. This circular is intended as an overview of how to make statutory license royalty payments using 
+Pay.gov. The authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 of the 
+United States Code. Copyright regulations are codified in Title 37 of the Code of Federal Regulations. 
+Copyright Office practices and procedures are summarized in the third edition of the Compendium 
+of U.S. Copyright Office Practices, cited as the Compendium. The copyright law, regulations, and the 
+Compendium are available on the Copyright Office website at copyright.gov.
+
+5
+
+How to Make Statutory License Royalty EFT Payments Using Pay.govFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, and related materi-
+als are available from the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send a licensing-related inquiry, email licensing@copyright.gov. To send a general email inquiry, 
+click the Contact Us link on the Copyright Office website. 
+
+By Telephone
+
+For licensing-related information, call the Licensing Section at (202) 707-8150. For general 
+information about copyright, call the Copyright Public Information Office at (202) 707-3000 
+or 1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message.
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office-LS
+101 Independence Avenue, SE #6400
+Washington, DC 20557-6400
+
+CIRCULAR 74  REVISED: 04/2025 
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

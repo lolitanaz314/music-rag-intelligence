@@ -1,0 +1,394 @@
+56
+
+Copyright Registration for
+Sound Recordings
+
+A sound recording is generally a 
+
+recorded performance, often of 
+
+another work. It must be fixed—
+
+captured in a medium from which 
+
+it can be perceived, reproduced, or 
+
+otherwise communicated—in a 
+
+digital track, disc, tape, or other 
+
+format. This circular introduces legal 
+
+concepts and registration issues 
+
+related to sound recordings. It covers
+
+•  Distinction between sound 
+
+recordings and other works
+
+•  Completing an application
+
+•  Deposit requirements
+
+•  Registering multiple sound 
+
+recordings
+
+•  Scope of copyright protection
+
+This circular provides general information about the require-
+ments for registering sound recordings with the U.S. Copy-
+right Office. For specific information about this topic, see 
+chapter 800 of the Compendium of U.S. Copyright Practices, 
+Third Edition.1
+
+What is a Sound Recording?
+
+The Copyright Act defines sound recordings as “works that 
+result from the fixation of a series of musical, spoken, or 
+other sounds but not including sounds accompanying a 
+motion picture or other audiovisual work.” Generally, a 
+sound recording is a recorded performance, often of another 
+work. A sound recording must be fixed, meaning that the 
+sounds must be captured in a medium from which they can 
+be perceived, reproduced, or otherwise communicated. The 
+author may fix the sounds in a digital track, disk, tape, or 
+other format.
+
+Common examples of sound recordings include an audio 
+
+recording of:
+
+•  A person singing a song or playing a musical instrument.
+
+•  A person reading a book or delivering a lecture.
+
+•  A group of persons hosting a podcast or performing a 
+
+radio play.
+
+•  A person speaking, a dog barking, a bird singing, wind 
+
+chimes ringing, or other sounds from the natural world 
+(assuming the recording contains a sufficient amount of 
+production authorship).
+
+A sound recording typically includes the contributions of 
+the parties whose performance is captured in the recording 
+and the parties who captured and processed those sounds to 
+make the final recording. Short sound recordings may lack 
+
+wcopyright.govCIRCULAR a sufficient amount of authorship to warrant copyright protection, just as words and short textual 
+phrases are not copyrightable. Sound recordings captured by purely mechanical means without 
+originality of any kind also lack a sufficient amount of authorship to warrant copyright protection.
+
+Sound Recordings Distinguished from Underlying Creative Works
+
+Sound recordings often contain other separate copyrightable creative works, such as songs, plays, 
+lectures, or readings. The copyright in a sound recording covers the recording itself. It does not cover 
+the music, lyrics, words, or other underlying content embodied in that recording. For example, the 
+song “Rolling in the Deep” authored by Adele and Paul Epworth and a recording of Aretha Franklin 
+singing “Rolling in the Deep” are two distinct works. The underlying music and lyrics are a “musical 
+work,” and a recording of an artist performing that song is a “sound recording.”
+
+This circular focuses on registration issues involving sound recordings. It does not address registra-
+
+tion of the music, lyrics, or other content that may be embodied in the recording itself. For informa-
+tion on registering a song, book, or other content that may be embodied in a sound recording, see 
+Copyright Registration for Musical Compositions (Circular 50) and chapter 700 of the Compendium. For 
+information on registering a sound recording together with the content embodied in that recording, 
+see Copyright Registration of Musical Compositions and Sound Recordings (Circular 56A).
+
+Sound Recordings Distinguished from the Sounds Accompanying a Motion Picture
+
+There is a legal distinction between a sound recording and the soundtrack for a motion picture 
+or other audiovisual work. The Copyright Act states that “sounds accompanying a motion picture 
+or audiovisual work” are not sound recordings. These types of sounds are considered part of the 
+motion picture or audiovisual work.
+
+Common examples of works that do not qualify as sound recordings include:
+
+•  The soundtrack for a cartoon, documentary, or major motion picture.
+
+•  The soundtrack for an online video, music video, or concert video.
+
+•  A musical performance during a scene or during the credits for a motion picture.
+
+Sound Recordings Distinguished from Phonorecords
+
+A sound recording is not the same as a phonorecord. A phonorecord is the statutory term for a 
+physical object that contains a sound recording, such as a digital audio file, a compact disc, or an LP. 
+The term “phonorecord” includes any type of object that may be used to store a sound recording, 
+including digital formats such as .mp3 and .wav files.
+
+Derivative Sound Recordings
+
+A derivative sound recording is an audio recording that incorporates preexisting sounds, such as 
+sounds that were previously registered or published or sounds that were fixed before February 15, 
+1972. The preexisting recorded sounds must be rearranged, remixed, or otherwise altered in sequence 
+
+2
+
+Copyright Registration for Sound Recordingsor character, or the recording must contain additional new sounds. The new or revised sounds must 
+contain at least a minimum amount of original sound recording authorship.
+
+Examples of derivative sound recordings include:
+
+•  A mashup comprising tracks and sounds from multiple sources.
+
+•  Additional tracks added to a previously published album.
+
+Mechanical changes or processes, such as a change in format, declicking, or noise reduction, gener-
+
+ally do not contain enough original authorship to warrant registration.
+
+Registering a Sound Recording
+
+To register a claim to copyright in a sound recording, you must submit the following to the Copyright 
+Office: (1) a completed application form; (2) a nonrefundable filing fee; and (3) the required “deposit ” 
+of your work. This circular highlights some common issues in registering a sound recording with the 
+Copyright Office. For more guidance in registering a sound recording, see chapter 800, section 803.9 
+of the Compendium. For general registration issues, see Copyright Registration (Circular 2).
+
+Completing the Application
+
+When completing an online application, the Copyright Office offers the following tips.
+
+Type of Work 
+
+•  When you begin an application, select the “Sound Recording” option on the “Type of Work” 
+screen. The questions you encounter when filling out the application are based on the choice 
+you make at the beginning of the application. If you select the wrong option you will need to 
+start over.
+
+Title 
+
+•  Provide the title exactly as it appears on the work itself.
+
+Publication
+
+“Publication” occurs when phonorecords of a work are distributed to the public by sale, transfer of 
+ownership, or by rental, lease, or lending. Offering to distribute phonorecords to a group of persons 
+for the purpose of further distribution or publicly performing the work also constitutes publication. 
+Simply performing a sound recording publicly does not constitute publication.
+
+•  If the work has not been published, state that the work is “unpublished.” 
+
+•  If the work has been published, give the month, day, and year that phonorecords were first dis-
+tributed to the public or first offered to a group of persons for further distribution or public 
+performance.
+
+Author 
+
+•  The author of a sound recording is the performer featured in the recording and the producer 
+
+who captured and processed the sounds that appear in the final recording.
+
+3
+
+Copyright Registration for Sound Recordings•  If the performer or producer created the sound recording during the course of his or her 
+
+employment under a typical employment relationship, then the sound recording is a work 
+made for hire, and the employer is the author of the sound recording.
+
+•  If the performer or producer created the sound recording for a third party as a compilation or 
+contribution to a collective work, and if the parties agreed in writing that the sound recording 
+will be a “work made for hire,” then the third party is the author of the work.
+
+For more information on works made for hire, see Works Made for Hire (Circular 30).
+
+Type of Authorship 
+
+•  When registering a sound recording, check the box for “Sound Recording”
+
+•  When registering artwork, photographs, or text of liner notes, include a brief statement to that 
+
+effect in the “Other” field.
+
+•  When registering a compilation or a collective work (see below), state “compilation of sound 
+
+recordings” in the “Other” field.
+
+Limitation of Claim
+
+•  When registering a derivative sound recording, identify the preexisting material in the “mate-
+rial excluded” field and identify the new material in the “new material included” field. If the 
+preexisting material has been registered with the Copyright Office, include the registration 
+number and year.
+
+Submitting the Deposit Copies of the Work
+
+To register your sound recording, you must submit the work to the Copyright Office. Once a deposit 
+has been submitted, it becomes part of the public record and cannot be returned.
+
+When registering a sound recording that is unpublished or published solely in a digital form, the 
+
+Copyright Office strongly encourages you to submit the deposit as a digital file uploaded through 
+the online registration system. Do not also submit a physical phonorecord, such as a CD, flash drive, 
+or other physical storage device. Each file must be uploaded in an acceptable file format and each 
+uploaded file must not exceed 500 MB in size.
+
+When you are registering a sound recording published in a physical format, such as a compact 
+disc or LP, submit the work in the physical format, even if there is a corresponding digital version. 
+To submit a physical copy of your work after completing an online application, print a shipping slip 
+from the bottom of the “Submit Your Work” screen and send the shipping slip and deposit in the 
+same package to the address given on the shipping slip. To submit a physical copy of your work with 
+a paper application, complete Form SR and submit the deposit in the same package with the appli-
+cation and the filing fee.
+
+If your sound recording has been published in the United States, you may need to comply with 
+the “best edition” requirement by sending two copies of the “best” edition that exists at the time of 
+registration. The “best” edition generally is the highest quality edition that has been publicly distrib-
+uted in the United States. The Library of Congress has identified the following list, in descending 
+order, of what it considers to be the best edition for sound recordings:
+
+4
+
+Copyright Registration for Sound Recordings1.  Compact disc
+
+2.  Vinyl disc
+
+3.  Open-reel tape
+
+4.  Cartridge tape
+
+5.  Cassette tape
+
+For example, if the work was published both on compact disc and vinyl disc before the date of 
+the application to register the work, you should submit the compact disc rather than the vinyl disc.
+If your sound recording has not been published in any of the formats listed above, you may 
+
+upload a digital file that contains any published version of the work.
+
+Registering Multiple Sound Recordings
+
+As a general rule, you must submit a separate application, filing fee, and deposit for each work you 
+want to register. It may be possible to register multiple sound recordings with one application if they 
+qualify for one of the following special registration accommodations.
+
+Group Registration of Unpublished Sound Recordings
+
+You may register up to ten unpublished sound recordings using the online group registration option 
+of unpublished works if all of the recordings were created by the same author or authors and all of 
+the authors are named as copyright claimants. For more information, see Multiple Works (Circular 34).
+
+Example
+
+Sue Smith and Joe Jones co-create five unpublished sound recordings, and co-own the 
+copyright. They may register the five unpublished sound recordings on one application. The 
+registration will cover all five sound recordings.
+
+Collective Work
+
+You may register multiple sound recordings as a “collective work” if they have been assembled 
+together into a collective whole, such as a digital album or compact disc. The registration will cover 
+the copyrightable authorship in the selection, coordination, or arrangement of the collective work 
+as a whole. It also may cover each individual sound recording if (1) the collective work and the indi-
+vidual sound recordings are owned by the same party, and (2) the individual sound recordings have 
+not been previously published or previously registered and are not in the public domain.
+
+Examples
+
+This year, the Oldies Recording Company published a “best of ” album titled “Greatest Hits from 
+the Age of Aquarius” featuring sound recordings originally published in the late 1960s. The 
+Oldies Recording Company may register “Greatest Hits from the Age of Aquarius” as a collec-
+tive work. The registration will cover the authorship involved in creating the album as a whole, 
+but will not cover the individual sound recordings because they were previously published.
+
+5
+
+Copyright Registration for Sound RecordingsABC Records, Inc., publishes a new album containing twelve new tracks that were never before 
+published. ABC Records owns the copyright in both the album and the individual tracks. ABC 
+Records may register the album as a collective work. The registration will cover both the album 
+and the sound recordings because the copyright in both the sound recordings and the album 
+are owned by the same party.
+
+Unit of Publication
+
+You may register multiple sound recordings as well as accompanying text and artwork as a “unit of 
+publication,” if they were physically packaged or bundled together and if all of the recordings were 
+first published together as that integrated unit. In addition, the entity that bundles the works together 
+as the integrated unit must be the claimant in all the works that are submitted for registration.
+
+Example
+
+ABC Records bundles ten sound recordings on a CD with an insert containing text and pho-
+tographs, distributes the packaged unit to the general public, and owns the copyright in the 
+sound recordings, text, and photographs. ABC Records may register the sound recordings, text, 
+and photographs with one application as a unit of publication. The registration will cover all 
+copyrightable content in the sound recordings, text, and photographs.
+
+For more information concerning these special registration accommodations, see Multiple Works 
+
+(Circular 34).
+
+Copyright Protection in Sound Recordings
+
+Generally, the owner of a sound recording does not have the exclusive right to publicly perform that 
+work under the Copyright Act. However, the owner of a sound recording does have the exclusive 
+right to publicly perform a sound recording by means of a digital audio transmission. 
+
+Before February 15, 1972, federal copyright law did not protect sound recordings, but common 
+law, or in some cases statutes enacted in certain states, generally did. In 1971, Congress amended the 
+copyright law to provide federal copyright protection for sound recordings fixed and first published 
+with a statutory copyright notice on or after February 15, 1972. All sound recordings created after 
+January 1, 1978, are automatically protected by copyright. A sound recording is considered created 
+when it is “fixed” in a phonorecord for the first time. Neither registration in the Copyright Office 
+nor publication is required for protection under the present law.
+
+Before March 1, 1989, the use of copyright notice was mandatory on all copies or phonorecords 
+of published works, and any work first published before that date should have carried a notice. The 
+copyright notice is optional for works published on and after March 1, 1989. For more information 
+about copyright notice, see Copyright Notice (Circular 3).
+
+The Uruguay Round Agreements Act, which became effective on January 1, 1996, restored copy-
+right protection for certain unpublished foreign sound recordings fixed before February 15, 1972, 
+and certain foreign sound recordings that were published without notice. For further information 
+concerning restored sound recordings, see Copyright Restoration Under the URAA (Circular 38B).
+
+6
+
+Copyright Registration for Sound Recordingsnote
+1. This circular is intended as an introduction to registering sound recordings. The authoritative 
+source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United States Code. Copy-
+right Office regulations are codified in Title 37 of the Code of Federal Regulations. Copyright Office 
+practices and procedures are summarized in the third edition of the Compendium of U.S. Copyright 
+Office Practices, cited as the Compendium. The copyright law, regulations, and the Compendium are 
+available on the Copyright Office website at www.copyright.gov.
+
+7
+
+Copyright Registration for Sound RecordingsFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 56  REVISED: 03 /2021 
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

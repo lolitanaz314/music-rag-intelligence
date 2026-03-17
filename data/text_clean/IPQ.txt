@@ -1,0 +1,1525 @@
+City Research Online
+
+City, University of London Institutional Repository
+
+Citation: McDonagh, L. (2012). Rearranging the roles of the performer and the composer
+in the music industry - the potential significance of Fisher v Brooker. Intellectual Property
+Quarterly, 2012(1), pp. 64-76.
+
+This is the accepted version of the paper.
+
+This version of the publication may differ from the final published
+version.
+
+Permanent repository link:  https://openaccess.city.ac.uk/id/eprint/12596/
+
+Link to published version:
+
+Copyright: City Research Online aims to make research outputs of City,
+University of London available to a wider audience. Copyright and Moral
+Rights remain with the author(s) and/or copyright holders. URLs from
+City Research Online may be freely distributed and linked to.
+
+Reuse: Copies of full items can be used for personal research or study,
+educational, or not-for-profit purposes without prior permission or
+charge. Provided that the authors, title and full bibliographic details are
+credited, a hyperlink and/or URL is given for the original metadata page
+and the content is not changed in any way.
+
+City Research Online:            http://openaccess.city.ac.uk/            publications@city.ac.uk
+
+--- PAGE BREAK ---
+
+(First published in Intellectual Property Quarterly 1 (2012), 64-76.)1
+
+Rearranging the Roles of the Performer and the Composer in the Music Industry – the
+
+Potential Significance of Fisher v Brooker
+
+Introduction
+
+The composer has historically been at the top of the tree in the music industry; most royalties
+
+due to artists  flow  back to composers/songwriters rather than performers. Over the  last  few
+
+decades,  the  enactment  of  stronger  performers‟  rights  has  sought  to  redress  this  historical
+
+imbalance  by  providing  performers  with,  amongst  a  number  of  economic  and  moral  rights,
+
+the right to receive equitable remuneration for the exploitation and use of their performances.
+
+However,  this  article  explores  the  fact  that  there  may  be  cases  where  performers  may  be
+
+„authors‟ for the purpose of copyright, as opposed to performers‟ rights. Some original works
+
+of  joint authorship  –  musical  arrangements –  may  not have  been traditionally  recognised as
+
+such within the music industry. For instance, with regard to the making of arrangements by a
+
+group of musicians, it appears from recent UK case law that as long as a performing musician
+
+makes  an  original  contribution  to  the  creation  of  an  arrangement,  he  or  she  will  be  a  joint
+
+author of  the  resulting  work.  As  a  result  of  this,  the  performing  musician  is  deserving  of  a
+
+share of copyright in that arrangement, and by analogy, a share of licensing revenue from the
+
+exploitation of the arrangement. However, this conclusion appears to be slightly at odds with
+
+historical  practices  within  the  music  industry.  Furthermore,  this  raises  further  a  question
+
+concerning  whether  it  ought  to  be  the  case  that  performers  are  potentially  seen  as  joint
+
+authors in return for their creative contributions.
+
+1 Luke McDonagh, LSE Fellow, London School of Economics – l.t.mcdonagh@lse.ac.uk
+
+Electronic copy available at: http://ssrn.com/abstract=2034899
+
+--- PAGE BREAK ---
+
+In order to assess these  issues  in detail, this article  first outlines the concept of the  musical
+
+work under the CDPA, including analysis of the distinction between the composition and the
+
+arrangement.  The  article  also  discusses  the  historical  hierarchy  of  musicians  in  the  music
+
+industry, exploring the reasons why the composer  of the work has traditional received more
+
+royalties  than  the  performer  of  the  work.  An  assessment  of  the  originality  of  compositions
+
+and  arrangements  is  also  detailed  over  the  course  of  this  article.  Furthermore,  in  order  to
+
+properly assess the issues, the important UK cases in this area are examined, with a particular
+
+focus on the case of Fisher v Brooker, a case which clarifies to some degree the law on the
+
+making of musical arrangements, and which also deals with the complex licensing issues that
+
+can arise from finding that a band member is in fact a joint author of a recorded arrangement.
+
+Ultimately, this  article argues that the  law  on authorship and  joint authorship  in this area  is
+
+clear  -  any  musician  who  adds  sufficient  creative  originality  to  a  musical  work  during  the
+
+performance and recording  process  is a  joint author of the resulting arrangement.  However,
+
+although the law is clear, the traditional practices of the music industry may not take account
+
+of this. For this reason, it is important that musicians in groups place their legal relationship
+
+to each other, and the works they create, in writing before they begin the artistic process.
+
+Assessing  the  Nature  of  the  Musical  Work  under  the  CDPA  –  Compositions  and
+
+Arrangements
+
+This  article  primarily  focuses  on  copyright  law  issues  in  relation  to  musical  works  and  the
+
+authorship  and  ownership  of  these  works.  Within  the  music  industry,  the  copyright  in  the
+
+original  musical  work,  which  is  sometimes  referred  to  as  copyright  in  the  musical
+
+Electronic copy available at: http://ssrn.com/abstract=2034899
+
+--- PAGE BREAK ---
+
+„composition‟, is often a highly valuable copyright.2 However, with respect to musical works,
+
+the copyright in the composition is not the only potentially significant copyright; in addition
+
+to  the  copyright  in  the  original  musical  composition  there  may  also  be  copyright  in  a
+
+subsequent  original  „arrangement‟  of  that  composition.  Before  the  issues  of  authorship,
+
+ownership and licensing can be examined in this article,  it is first necessary to undertake an
+
+analysis  of  the  distinction  between  these  two  different  types  of  musical  work.  Moreover,
+
+before the distinction between these two distinct musical works can be properly assessed, it is
+
+necessary to discuss the definition of „musical work‟ under UK law.
+
+It is generally acknowledged that what amounts to a piece of „music‟ is undoubtedly difficult,
+
+and  perhaps  impossible,  to  define.3  Regarding  the  definition  of  „music‟  for  the  purposes  of
+
+copyright law, it has been stated that a „reasonably liberal interpretation is called for‟.4 In line
+
+with  this,  Rahmatian  has  remarked  that  it  is  „wise‟  that  the  legislature  did  not  attempt  to
+
+define  „music‟  when  enacting  the  CDPA.5  As  detailed  below,  it  is  clear  that the  UK  courts
+
+take  a  broad  interpretation  of  what  amounts  to  „music‟  and  what  is  encompassed  by  the
+
+„musical work‟.
+
+2 See discussion of this copyright at „PRS for Music‟, one of the major copyright collecting societies; accessible
+
+at http://www.prsformusic.com/aboutus/pages/default.aspx
+
+3 C. L. Saw, „Protecting the sound of silence in 4`33`` - a timely revisit of basic principles in copyright law,‟
+
+European Intellectual Property Review 27(12) (2005), 467, 469.
+
+4 Laddie also remarked that an original musical work is usually „a combination of sounds appreciated by the ear
+
+for reasons other than linguistic content‟. H. Laddie, P. Prescott and M. Vitoria, The Modern Law of Copyright
+
+and Designs (3rd ed.), (London: Butterworths, 2000), 79.
+
+5 A. Rahmatian, „Music and Creativity as Perceived by Copyright Law,‟ Intellectual Property Quarterly 3
+
+(2005), 267, 268.
+
+--- PAGE BREAK ---
+
+The  Court  of  Appeal  decision  in  Sawkins  v  Hyperion6  is  the  most  recent,  authoritative
+
+decision  on  the  nature  of  the  musical  work  under  the  CDPA.  In  Sawkins,  the  claimant
+
+successfully argued that he owned the copyright in performing editions that he had prepared
+
+of  public  domain  works  originally  composed  by  Michel-Richard  Lalande.  In  this  case,
+
+Mummery  L.J.  stated  that  „the  essence  of  music  is  combining  sounds  for  listening  to‟.7
+
+Mummery L.J. also remarked:
+
+“Music is not the same as mere noise. The sound of music is intended to produce effects of
+
+some  kind  on  the  listener‟s  emotions  and  intellect.  The  sounds  may  be  produced  by  an
+
+organised  performance  on  instruments  played  from  a  musical  score,  though  that  is  not
+
+essential  for  the  existence  of  the  music  or  of  copyright  in  it...  There  is  no  reason  why,  for
+
+example,  a  recording  of  a  person‟s  spontaneous  singing,  whistling  or  humming  or
+
+improvisations  of  sounds  by  a  group of  people  with  or  without  musical  instruments  should
+
+not be regarded as „music‟ for copyright purposes.”8
+
+It  is  clear  that  this  notion  of  music  is  broad9;  it  is  not  limited  to  harmony  or  melody.
+
+Mummery  L.J.  further  stated that  it  would  be  incorrect to  „single  out the  notes  as  uniquely
+
+6 Sawkins v Hyperion Records Ltd [2005] EWCA Civ 565; [2005] 1 W.L.R. 3281.
+
+7 Sawkins v Hyperion Records Ltd [2005] 1 W.L.R. 3281, para. 53.
+
+8 Sawkins v Hyperion Records Ltd [2005] 1 W.L.R. 3281, para. 53.
+
+9 L. Bently, „Authorship of Popular Music under Copyright Law‟ Information, Communication and Society
+
+12(2) (2009), 179, 184. S. Ricketson and J. Ginsburg, International Copyright and Neighbouring Rights- The
+
+Berne Convention and Beyond (2nd ed.), (Oxford, Oxford University Press, 2006), 426 and J. Pila, „Copyright
+
+and its Categories of Original Works,‟ Oxford Journal of Legal Studies 30(2) (2010), 229, 236-242. For further
+
+discussion of this point see A. Barron, „Copyright Law‟s Musical Work,‟ Social and Legal Studies 15(1) (2006),
+
+101, 105-106 and 123-4.
+
+--- PAGE BREAK ---
+
+significant for copyright purposes and to proceed to deny copyright to the other elements that
+
+make  some  contribution  to  the  sound  of  the  music  when  performed,  such  as  performing
+
+indications,  tempo  and  performance  practice  indicators‟.10  Therefore,  it  is  clear  that  the
+
+„musical  work‟  under  the  CDPA  can  encompass  not  only  notes  of  music,  but  also  other
+
+elements of musical practice and performance. Nonetheless, in Coffey v Warner11, it was held
+
+that a musical  work cannot exist where  it consists of  mere „extractions‟  from another work.
+
+Thus, to exist as a  musical work  in  itself12, a smaller work must be separable  from a  larger
+
+work.
+
+Originality of Musical Works - Compositions
+
+Under the CDPA, in addition to the requirement of fixation13, the requirement of originality is
+
+must  be  satisfied  before  a  musical  work  is  protected  under  copyright  law.14  A  composition
+
+10 Sawkins v Hyperion Records Ltd [2005] 1 W.L.R. 3281, para. 56.
+
+11 Coffey v Warner/Chappell Music [2005] FSR (34) 747.
+
+12 A song lyric is protected separately from an accompanying musical work. CDPA s 3(1) states that a literary
+
+work „means any work, other than a dramatic or musical work, which is written, spoken or sung‟. In addition, it
+
+has been noted that even though the human voice is an instrument, sung lyrics are not part of the musical work.
+
+Peter Hayes v Phonogram Ltd [2003] ECDR 110, see views of Blackburne J.
+
+13 CDPA s 3(2). Fixation is a basic requirement for copyright protection in the UK. See Merchandising
+
+Corporation of America Inc v Harpbond Inc [1983] FSR 32. The musical work must be fixed in a tangible form
+
+for copyright to subsist; until a melody is recorded or written down, it will not have copyright protection .
+
+Nonetheless, it has been held that a „musical work‟ can exist before it is „fixed‟ , as noted by Park J. in Hadley v
+
+Kemp [1999] E.M.L.R. 589.  As Mummery L.J.. stated in in Sawkins v Hyperion Records Ltd [2005] EWCA Civ
+
+565, at para. 53, it is necessary that music be „distinguished from the fact and the form of its fixation as a record
+
+of a musical composition... fixation in the written score or on a record is not itself the music in which copyright
+
+subsists‟.
+
+--- PAGE BREAK ---
+
+will  only  be  protected  as  a  musical  work  to  the  extent  that  it  is  sufficiently  original.  As
+
+discussed  below,  following  the  Infopaq15  judgment  of  the  European  Court of  Justice,  it  has
+
+been  argued  that  the  originality  standard  has  now  been  effectively  harmonised  in  the  EU,
+
+which has potential significance for copyright in the UK.16 On the other hand, even if this is
+
+the  case,  the  traditional  UK  view  of  originality,  as  based  upon  „origination‟  and  „skill,
+
+judgment and labour‟ may still be of relevance. With respect to the traditional view, Peterson
+
+J. stated in University of London Press v University Tutorial Press17:
+
+“The originality which is required relates to the expression of thought. But the Act does not
+
+require  that  the  expression  be  in  an  original  or  novel  form,  but  that  the  work  must  not  be
+
+copied from another work – that it should originate from the author”.18
+
+It  appears  from  Peterson  J.‟s  remarks  that  the  traditional  view  of  „originality‟  in  UK
+
+copyright law is broadly defined.19 In line with this, it has been noted that it is not necessary
+
+14 CDPA s 1(1)(a).
+
+15 Infopaq International A/S v Danske Dagblades Forening (C-5/08) [2009] ECDR 16.
+
+16 E. Declaye, „Wonderful or Worrisome? The Impact of the ECJ Ruling in Infopaq on UK Copyright Law,‟
+
+European Intellectual Property Review 5 (2010), 247. C. Handig, „Infopaq International A/S v Danske
+
+Dagblades Forening (C-5/08): is the term "work" of the CDPA 1988 in line with the European Directives?‟
+
+European Intellectual Property Review 32(2) (2010), 53.
+
+17 University of London Press Ltd v University Tutorial Press Ltd [1916] 2 Ch 601.
+
+18 University of London Press Ltd v University Tutorial Press Ltd [1916] 2 Ch 601, at 608-609. This case was
+
+cited in Ladbroke (Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273 by Reid J. at 277.
+
+19 With respect to Peterson J.‟s remark on the notion of „expression of thought‟, the idea/expression dichotomy
+
+was discussed in the case of LB (Plastics Ltd v Swish Products Ltd [1979] RPC 551 at 619, 633, where it was
+
+noted that it is original skill in expression, rather than thought, that is protected by copyright. However, there is
+
+no mention of „idea/expression‟ dichotomy in the CDPA. For further discussion see H. Laddie, P. Prescott and
+
+--- PAGE BREAK ---
+
+that work be „unprecedented‟.20 Indeed, the threshold for originality has traditionally not been
+
+high.21 In Ladbroke v William Hill22, Lord Reid noted that „skill, judgment and labour‟ on the
+
+part of the author are the necessary requirements for establishing originality.23
+
+At this point, it must be stated that the ECJ judgment in Infopaq24 appears to point towards
+
+using the notion of „intellectual creation‟ as a standard of originality for all copyright works
+
+within the EU. Previous to this  case, this standard was  mainly of  significance  in the UK as
+
+the  standard  for  computer  programs/databases  following  the  coming  into  effect  of  the  EU
+
+Information  Society  Directive.25  However,  this  standard  of  „intellectual  creation‟  is  now
+
+potentially of great importance in relation to originality of musical works under copyright in
+
+M. Vitoria, The Modern Law of Copyright and Designs (3rd ed.), (London: Butterworths, 2000), 98 and W.
+
+Cornish, D. Llewelyn and T. Aplin, Intellectual Property: Patents, Copyright, Trade Marks and Allied Rights
+
+(7th ed.), (London, Sweet and Maxwell, 2010), 448.
+
+20 H. Laddie, P. Prescott and M. Vitoria, The Modern Law of Copyright and Designs (3rd ed.), (London:
+
+Butterworths, 2000), 84.
+
+21 Redwood Music Ltd v Chappell & Co Ltd [1982] RPC 109 (QBD). See also Sawkins v Hyperion Records Ltd
+
+[2005] 1 W.L.R. 3281.
+
+22 Ladbroke (Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273.
+
+23 Ladbroke (Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273, 278. This principle of copyright
+
+protection, as founded upon the skill and labour of the author in creating the work, was further reflected in the
+
+court‟s decision in Designers Guild Limited v Russell Williams (Textiles) Limited [2001] FSR 113. However, not
+
+every case that features „skill and labour‟ has resulted in a copyright work. See also Exxon Corporation v Exxon
+
+Insurance Consultants [1982] RPC 69, where it was held that despite skill and labour expounded, one word
+
+could not amount to a literary work.
+
+24 Infopaq International A/S v Danske Dagblades Forening (C-5/08) [2009] ECDR 16.
+
+25 Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of
+
+certain aspects of copyright and related rights in the information society, Official Journal L 167, 22/06/2001;
+
+accessible at http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0029:EN:HTML
+
+--- PAGE BREAK ---
+
+the UK. To some commentators this presents a challenge to the standard of originality as it is
+
+applied  in the  national  courts of the EU,  including the courts of the UK.26 In this  view, the
+
+traditional  Ladbroke  requirements  of  „skill,  judgment  and  labour‟  have  seemingly  been
+
+replaced with a requirement based on the notion of „intellectual creation‟. Indeed, Handig has
+
+argued  that  the  harmonised  Infopaq  standard  is  probably  higher  than  the  previous  UK
+
+standard under the CDPA.27
+
+Furthermore,  in the recent case of  Newspaper Licensing Agency v Meltwater28 the Court of
+
+Appeal upheld the ruling of Proudman J. in the High Court that the Infopaq test of intellectual
+
+creation was the test for originality in the UK. However, the Court of Appeal argued that this
+
+was not a change to the classic idea of originality under UK law, as expressed in the case of
+
+University of London Press v University Tutorial Press29, as being  based on the  idea of the
+
+work „originating‟ with the author. In other words, the Court of  Appeal was of the opinion
+
+that  Infopaq  did  not  change  the  standard  of  originality  under  UK  copyright  with  regard  to
+
+issues of requisite merit or novelty.30
+
+26 E. Declaye, „Wonderful or Worrisome? The Impact of the ECJ Ruling in Infopaq on UK Copyright Law,‟
+
+European Intellectual Property Review 5 (2010), 247, 248. C. Handig, „Infopaq International A/S v Danske
+
+Dagblades Forening (C-5/08): is the term "work" of the CDPA 1988 in line with the European Directives?‟
+
+European Intellectual Property Review 32(2) (2010), 53, 56.
+
+27 C. Handig, „Infopaq International A/S v Danske Dagblades Forening (C-5/08): is the term "work" of the
+
+CDPA 1988 in line with the European Directives?‟ European Intellectual Property Review 32(2) (2010), 53, 56.
+
+28 Newspaper Licensing Agency v Meltwater [2011] EWCA Civ 890; see also High Court of Newspaper
+
+Licensing Agency v Meltwater [2010] EWHC 3099 (Ch).
+
+29 University of London Press Ltd v University Tutorial Press Ltd [1916] 2 Ch 601.
+
+30 It is interesting to note, however, made no reference to „skill, judgment and labour‟, despite the fact that
+
+Ladbroke was cited in the judgment. Newspaper Licensing Agency v Meltwater [2011] EWCA Civ 890 para. 19.
+
+--- PAGE BREAK ---
+
+Nonetheless, even if the standard of originality had been changed by Infopaq, this may have
+
+had  little  relevance  to the  originality  standard  with  respect to  musical  works.  On  this  point
+
+Derclaye  has  remarked  that  the  standard  of  intellectual  creation  merely  illustrates  that
+
+„creativity  is  the  criterion  of  originality‟.31  Therefore,  with  respect  to  the  originality  of
+
+musical  works  even  if  the  originality  standard  had  been  altered  by  Infopaq,  the  classic
+
+understanding  of  originality,  as  discussed  in  Sawkins32,  would  arguably  still  be  highly
+
+relevant since, as Declaye has stated, it is arguable that most, if not all, „musical works‟ can
+
+be described as „creative‟ to some extent.33
+
+Originality of Musical Works - Arrangements
+
+As noted above, analysis of the distinction between the „composition‟ and the „arrangement‟
+
+is  of  vital  importance  to  this  article.  In  line  with  this,  it  is  clear  that  under  the  CDPA  a
+
+separate copyright can exist in an „arrangement‟ of a composition as long as the arrangement
+
+31 E. Declaye, „Wonderful or Worrisome? The Impact of the ECJ Ruling in Infopaq on UK Copyright Law,‟
+
+European Intellectual Property Review 5 (2010), 247, 248.
+
+32 Sawkins v Hyperion Records Ltd [2005] 1 W.L.R. 328 at para. 28-36. For an assessment of this aspect of the
+
+case see A. Rahmatian, „The Concepts of 'Musical Work' and 'Originality' in UK Copyright Law - Sawkins v.
+
+Hyperion as a Test Case,‟ International Review of Intellectual Property and Competition Law 40 (5), 560.
+
+33 E. Declaye, „Wonderful or Worrisome? The Impact of the ECJ Ruling in Infopaq on UK Copyright Law,‟
+
+European Intellectual Property Review 5 (2010), 247, 249. Furthermore, if one takes the „intentional view‟
+
+advocated by J. Pila, „An Intentional View of the Copyright Work,‟ Modern Law Review 71 (2008), 535, then if
+
+one intends to create a musical work and it accords with the broad Sawkins definition, then this arguably shows
+
+sufficient intellectual creativity to satisfy the Infopaq standard with respect to musical works. It is arguable that
+
+Dr. Sawkins did intend to create a musical work in the form of a performing edition that could be played by
+
+modern performers. In addition, the process of editing and filling in the gaps in the musical score was arguably
+
+an example of „intellectual creativity‟.
+
+--- PAGE BREAK ---
+
+is sufficiently original34 and the requisite originality comes from the arranger.35 The owner of
+
+the original copyright in the composition is not the owner of the new arrangement copyright,
+
+which  vests  in  the  arranger.36  The  arranger  has  the  same  ownership  rights  under  copyright
+
+over his or her arrangement as the composer has  in relation to his or her composition, with
+
+the  caveat  that  the  arrangement  would  require  a  license  for  the  use  of  the  underlying
+
+composition. It is clear, therefore, that potentially copyright can recognise rights in multiple
+
+arrangements of the same composition.37
+
+With  respect  to  originality,  it  can  be  said  that  the  same  low  threshold  of  „originality‟  is
+
+sufficient in relation to answering the question of whether an adaptation of a work results in a
+
+34 Austin v Columbia [1917-1923] Mac. CC 398. See also Robertson v Lewis [1976] RPC 169. Further see Lover
+
+v Davidson (1856) 1 CBNS 182 (involving musical accompaniment to an old air) and Wood v Boosey (1868) LR
+
+3 QB 223 (involving an operatic pianoforte score). In line with this, Arnold has remarked that it is clear that
+
+very little is actually required on the part of the arranger „by way of changes to an antecedent musical work‟ for
+
+the arrangement to be sufficiently „original, and thus capable of attracting a fresh copyright‟. R. Arnold,
+
+„Reflections on “The Triumph of Music”: Copyrights and Performers‟ Rights in Music,‟ Intellectual Property
+
+Quarterly 2 (2010), 153, 158. See also L. Abramson and T. Bamford of Harbottle & Lewis in the June 2008
+
+edition of The In-House Lawyer, 42; accessible at
+
+http://www.harbottle.com/hnl/upload/documents/Music%20Copyright.pdf.
+
+35 Redwood Music Ltd v Chappell & Co Ltd [1982] RPC 109 (QBD). However a straightforward „cover‟ of a
+
+work may lack sufficient originality. On this point see also comments of Lewison J. in section 6 of „Copyright
+
+Claims‟ in Aston Barrett v. Universal Island Rec. Ltd [2006] EWHC 1009 (Ch).
+
+36 This would usually be the case unless an alternative has been agreed between the two parties.
+
+37 It must be noted that the effective use of this copyright is subject to licensing requirements and the copyright
+
+in the new arrangement does not replace or nullify the copyright in the underlying work. An arranger of a
+
+copyright work must have obtained a licence from the owner of the underlying copyright work in order to
+
+release and publish the new arrangement because the right to make „adaptations‟ is one of the rights of the
+
+copyright owner, as is clear from CDPA s 21.
+
+--- PAGE BREAK ---
+
+new  copyright  work  i.e.  a  new,  original  „arrangement‟  of  the  antecedent  compositional
+
+work.38  Nevertheless,  where  the  distinction  between  two  different  musical  works  i.e.  the
+
+„composition‟  and  the  „arrangement‟  has  not  been  clearly  maintained,  potential  difficulties
+
+may arise, particularly in relation to cases involving joint authorship of musical arrangements
+
+and any related subsequent licensing disputes. In order to assess the significance of licensing
+
+in  this  context,  it  is  necessary  to  discuss  the  various  rights  that  apply  to  „composers‟  and
+
+„performers‟  in  the  context  of  the  music  industry,  as  well  as  to  briefly  outline  the  way
+
+composers and performers earn royalties from the exploitation of these rights.
+
+Comparing the Positions of the Composer and the Performer in the Music Industry
+
+During  the  20th  century,  the  music  industry  expanded  rapidly.  Indeed,  by  the  end  of  the
+
+1990s, the global music industry was a huge part of the world economy. 39 There is little doubt
+
+that the commercialisation of music, and the consequent expansion of the music industry over
+
+the  course  of  the  20th  century,  could  not  have  occurred  without  the  enactment  and
+
+enforcement of copyright law.40 The music industry still largely operates on the basis that the
+
+38 Redwood Music Ltd v Chappell & Co Ltd [1982] RPC 109 (QBD). See also Aston Barrett v. Universal Island
+
+Rec. Ltd [2006] EWHC 1009 (Ch), comments of Lewison J. at para. 10 of the „Copyright Claims‟ section. This
+
+standard would arguably satisfy the Infopaq „intellectual creation‟ standard since the making of musical
+
+arrangements requires some degree of creativity.
+
+39 The peak year of global recorded music sales was 1996, with a figure of approximately US $39 billion in
+
+sales; accessible at http://news.bbc.co.uk/1/hi/business/3622285.stm - See further G. Lopes and K. Jopling
+
+(eds.), The Recording Industry in Numbers (London: IFPI, 2003).
+
+40 For instance, the Monopolies and Mergers Commission noted in 1994 that copyright is vital for the music
+
+industry; see generally Monopolies and Mergers Commission, The Supply of Recorded Music: A Report by the
+
+Monopolies and Mergers Commission on the Supply in the UK of Pre-recorded Compact Discs, Vinyl Discs and
+
+Tapes Containing Music Cm 2599 (London: HMSO, 1994); accessible at http://www.competition-
+
+--- PAGE BREAK ---
+
+first  owner  of  copyright  in  the  musical  work  and/or  the  sound  recording  will  assign,  or
+
+license,  the  relevant  economic  rights  to  a  publisher,  record  company,  and/or  collecting
+
+society  for the purpose of  exploitation. In particular, the role of the  „collecting  societies‟  is
+
+crucial to music licensing. There are a number of music collecting societies operating within
+
+the UK and Ireland. These organisations collect and distribute copyright royalties on  behalf
+
+of  composers,  performers  and  record  companies.41  For  present  purposes  the  important
+
+composers‟  collecting  societies  in  the  UK  are  the  Mechanical  Copyright  Protection  Society
+
+(MCPS)  and  the  Performing  Rights  Society  (PRS).  „PRS  for  Music‟  is  the  umbrella
+
+organisation  that  represents  the  interests  of  both  PRS  and  MCPS.42  These  organisations
+
+operate  in  the  UK,  but  generally  these  organisations  maintain  reciprocal  agreements  with
+
+equivalent organisations in other states.43
+
+The  composer,  or  in  a  pop  band  context,  the  „songwriter‟,  is  typically  the  author  of  the
+
+original  musical work.44 By  way of  assignment or licence, a composer can either register a
+
+commission.org.uk/rep_pub/reports/1994/356recordedmusic.htm#full
+
+41 It is generally acknowledged that SACEM in France in 1851 was the first composers‟ collecting agency. R.
+
+Wallis, „Copyright and Composers‟ in S. Frith and L. Marshall (eds.), Music and Copyright (Edinburgh:
+
+Edinburgh University Press, 2005, 2nd ed.), 103, 103.
+
+42 http://www.prsformusic.com/Pages/default.aspx
+
+43 K. Garnett, G. Davies and G. Harbottle, Copinger and Skone James on the Law of Copyright (London: Sweet
+
+& Maxwell Ltd, 2010, 16th ed.), 1656. It is noted that while „public performance and national broadcast rights‟
+
+would normally be licensed „from the society in which the public performance or broadcast takes place,
+
+collecting societies (particularly within the EU) compete with each other to offer favourable terms to the major
+
+international record companies for reproduction rights‟ therefore a record company can choose to deal with only
+
+one EU society for all of its EU „manufacturing licences‟.
+
+44 Nevertheless, it has been said that the composer has traditionally been in a „vulnerable‟ position within the
+
+music industry. R. Wallis, „Copyright and the Composer,‟ in S. Frith and L. Marshall (eds.), Music and
+
+--- PAGE BREAK ---
+
+composition with a collecting society or sign with a publisher „who then retains a share of the
+
+revenues  in  return  for  assistance  in  promoting  the  work‟.45  Licensing  is  one  of  the  primary
+
+ways  that  composers  can  earn  money  in  the  music  industry.  For  example,  although  a  large
+
+amount  of  music  industry  income  is  generated  from  the  „exploitation  of  recordings  of
+
+performances  of  musical  compositions‟,  composers  often  earn  more  than  performers.46  In
+
+addition,  a  composer  will  receive  two  possible  streams  of  royalty  income;  one  based  on
+
+mechanical royalties, via MCPS, and one based on performance royalties, via PRS. It may be
+
+the case that a performer will only receive one stream, as discussed below.47
+
+Indeed,  it  is  partially  due  to  the  rationale  that  copyright  should  reward  authors,  i.e.
+
+composers, that performers were traditionally given very few rights under copyright. This is
+
+no  longer  the  case.  During  the  last  two  decades  performers‟  rights  have  been  gradually
+
+expanded.48  Of  particular  importance  is  the  fact  that  performers  are  entitled  to  „equitable
+
+Copyright (Edinburgh, Edinburgh University Press, 2004), 103.
+
+45 R. Wallis, „Copyright and the Composer,‟ in S. Frith and L. Marshall (eds.), Music and Copyright (Edinburgh,
+
+Edinburgh University Press, 2004), 104.
+
+46 N. Parker, „A Raw Deal for Performers: Part 1 – Term of Copyright,‟ Entertainment Law Review 17(6) (2006),
+
+161, 161.
+
+47 The exact terms of the performer‟s contract will depend on the circumstances. J. Barnard, „Performers Rights‟
+
+(October 2005); article accessible at http://www.musiclawupdates.com/wp-content/uploads/pdf-articles/Article-
+
+Performers_Rights.pdf.
+
+48Rome Copyright Convention (1928); Accessible at
+
+http://www.efc.ca/pages/law/canada/rome.copyright.1928.html
+
+Dramatic and Musical Performers’ Protection Act, 1958; accessible at
+
+http://www.opsi.gov.uk/acts/acts1958/pdf/ukpga_19580044_en.pdf
+
+International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting
+
+Organisations, 1961(hereafter known as the „Rome Convention‟); accessible at
+
+--- PAGE BREAK ---
+
+remuneration‟  when  their  performances  are  broadcast  or  played  on  radio.  The  collecting
+
+society  that  distributes  the  „equitable  remuneration‟  to  performers  is  Phonographic
+
+Performance Limited (PPL).49
+
+Nonetheless, it has been noted that while the strength of performers‟ rights has increased over
+
+the last few decades, performers do not have equivalent rights to composers.50 Furthermore,
+
+session  musicians  are  commonly  asked  to  sign  a  consent  form  detailing  the  limits  of  their
+
+rights over the works on which they perform,  which is usually authorised by the Musician‟s
+
+Union  or  an  equivalent  union.51  For  this  reason,  a  session  musician  will  generally  only  be
+
+given a one off performance  fee rather than a royalty over the recording.52 Nonetheless, the
+
+CDPA53  provides  performers  with  the  right  to  „equitable  remuneration‟  when  sound
+
+recordings  of  their  performances  are  broadcast  e.g.  on  radio.54  Depending  on  their  record
+
+contracts,  high  profile  performers  may  receive  other  income  streams  as  well.  Furthermore,
+
+performers,  even  if  they  are  not  composers,  can  still  potentially  earn  large  sums  of  money
+
+http://www.wipo.int/treaties/en/ip/rome/trtdocs_wo024.html
+
+Performances (Moral Rights) Regulations, 2006; accessible at http://www.opsi.gov.uk/si/si2006/20060018.htm
+
+49 http://www.ppluk.com/
+
+50 R. Arnold, „Are Performers Authors? Hadley v Kemp,‟ European Intellectual Property Review 21(9)(1999),
+
+464, 464-465.
+
+51 N. Parker, „A Raw Deal for Performers: Part 1 – Term of Copyright,‟ Entertainment Law Review 17(6) (2006),
+
+161, 163.
+
+52N. Parker, „A Raw Deal for Performers: Part 1 – Term of Copyright,‟ Entertainment Law Review 17(6) (2006),
+
+161, 163.
+
+53 This is the case following the 1996 and 2003 Regulations which amended the CDPA; accessible at
+
+http://www.legislation.gov.uk/uksi/1996/2967/contents/made;
+
+http://www.legislation.gov.uk/uksi/2003/2498/contents/made
+
+54 CDPA s 182CA . A performer also holds an „equitable remuneration‟ right for „rental‟. CDPA s 191G.
+
+--- PAGE BREAK ---
+
+within  the  music  industry,  though  a  substantial  portion  of  this  income  often  comes  from
+
+earnings  arising  from  live  gigs.  Nevertheless,  it  must  be  noted  that  even  in  the  case  of  a
+
+performer  who  produces  a  unique  and  transcendent  performance  of  a  composition,  the
+
+performer will still be required to pay a licensing fee to the composer of the work.
+
+For  the  purposes  of  this  article,  it  is  also  necessary  to  consider  the  position  of  a  musical
+
+„arranger‟  under  copyright.55  As  noted  above,  copyright  in  an  „arrangement‟  can  exist
+
+separately to the copyright  in the underlying  musical composition. In  many types of  music,
+
+„arrangers‟  are  often  simultaneously  the  composers  and/or  performers  of  works,  and  thus,
+
+they  sometimes  do  not  claim  a  separate  „arrangement‟  copyright  for  their  own  released
+
+version of the composition, as this is arguably unnecessary. Nonetheless,  in the case of joint
+
+authorship,  maintaining  a  clearer  demarcation  between  composition  and  „arrangement‟
+
+copyright could actually help to resolve some disputes. In addition, in certain forms of music
+
+such as blues, jazz and other forms of traditional music, it is quite common to claim copyright
+
+in the arrangement of a public domain work or a copyright work.56 Further to this, in the pop
+
+music world there are some well known arrangers, such as Nelson Riddle, who are not major
+
+songwriters or performers, but are skilled arrangers.57
+
+55 See -
+
+http://www.prsformusic.com/creators/memberresources/how_it_works/arrangements/pages/arrangements.aspx
+
+56 As noted above, where copyright is claimed over an arrangement of a copyright work, a licence will have to
+
+be paid to the owner of the copyright in the underlying work, and respect to moral rights should normally be
+
+made.
+
+57 http://www.nelsonriddlemusic.com/nr_bio.htm ; http://www.amazon.com/September-Rain-Life-Nelson-
+
+Riddle/dp/0823076725
+
+--- PAGE BREAK ---
+
+For  the  purposes  of  this  article,  it  is  notable  that  „performers‟  can  sometimes  also  be
+
+„arrangers‟. However, if a performer is credited as the author of a particular arrangement, and
+
+this arrangement  is then  covered  by  another artist, the performer would rely on the rules of
+
+authorship under copyright, rather than performers‟ rights, in order to secure a licence for use
+
+of  the  arrangement.  Crucially,  due  to  the  fact  that  a  composition  is  often  created  by  one
+
+songwriter,  but  the  final  released  version  is  performed  by  a  full  band  in  the  studio,  it  is
+
+possible that a  legal dispute can  arise, subsequent to the creation of a  musical arrangement,
+
+about  the  authorship  and  ownership  of  that  arrangement.  If  the  arrangement  is  highly
+
+valuable,  in  terms  of  the  potential  for  generating  licensing  revenue,  this  might  provide  an
+
+incentive to bring a case before the courts. In fact, as discussed below, a number of cases in
+
+this area have occurred along these lines in the UK.
+
+Exploring  the  Distinction  between  the  Composition  and the  Arrangement  in  UK  Case
+
+Law
+
+There  have  been a  number of UK cases where  a  particular copyright arrangement has  been
+
+the subject of a legal dispute. For instance, as outlined below, in both Godfrey v Lees58 and
+
+Beckingham  v  Hodgens59  the  disputes  centred  on  the  joint  authorship  of  the  particular
+
+copyright arrangements in question. One reason that these kinds of disputes can occur many
+
+years subsequent to the recording and release of the musical work  is that it is sometimes the
+
+case that the band members or musicians involved in the creation of the work did not discuss
+
+or come to an agreement regarding the distribution of rights in the work before they entered
+
+the  recording  studio.  Furthermore,  once  a  distinction  is  made  by  courts  between  an
+
+58 Godfrey v Lees [1995] E.M.L.R. 307 (Ch D).
+
+59 Beckingham v Hodgens [2002] EWHC 2143 (Ch); [2002] E.M.L.R. 45.
+
+--- PAGE BREAK ---
+
+arrangement  and  an  underlying  work,  previously  unforeseen  licensing  complications  may
+
+arise. As previously stated, the relevant issues of joint authorship are not considered in detail
+
+in  this  article.  However,  for  the  purposes  of  this  article  is  necessary  to  note  a  number  of
+
+issues concerning the cases and the particular arrangements in question.
+
+In  Godfrey  v  Lees,  the  dispute  concerned  the  copyright  in  recorded  „arrangements‟  of  a
+
+number  of  songs  by  the  band  Barclay  James  Harvest.  The  producer  of  the  band  had
+
+contributed string arrangements and other musical elements to the eventual released versions
+
+of  the  songs  i.e.  the  musical  works  in  question.  The  copyrights  in  the  arrangements  were
+
+correctly  identified  as  being  distinct  from  the  copyright  in  the  underlying  works  and  the
+
+producer was awarded a share of joint authorship in the arrangements. However, the producer
+
+was  estopped  from  claiming  royalties  as  the  court  held  that  he  had  impliedly  given  a
+
+gratuitous licence to the defendants regarding the works in question.
+
+In Beckingham v Hodgens, the dispute concerned the well known version of the song „Young
+
+At Heart‟ released by the band „The Bluebells‟. The  work in question was again recognised
+
+as an arrangement of the underlying work. It was found that the session musician, a violinist
+
+known as  „Bobby Valentino‟,  had  contributed the  famous  violin  „hook‟ to the arrangement.
+
+The court stated that he was entitled to be rewarded with a share in the joint authorship of the
+
+arrangement.  Furthermore,  unlike  in  Godfrey,  the  joint  author  in  Beckingham  was  not
+
+prevented by the court from claiming royalties.
+
+Despite the clarity found on these issues in the above judgments, it appears that when musical
+
+works are first composed and recorded, the distinction between the underlying work and the
+
+recorded  arrangement  of  that  work  can  often  blur.  It  is  further  arguable  that  courts  have
+
+--- PAGE BREAK ---
+
+sometimes  found  it  difficult  to  clarify  the  distinction.  For  instance,  in  Hadley  v  Kemp60,  a
+
+number of the band members of „Spandau Ballet‟ took a case against a fellow band member
+
+Gary Kemp, arguing for a share in the copyright of a number of Spandau Ballet songs. Gary
+
+Kemp  was  the  principal  songwriter  of  the  group.  He  wrote  the  lyrics,  chords  and  basic
+
+melody to the song „True‟, which was one of the group‟s biggest hits, and one of the works
+
+under dispute. One of the disputes over the song concerned its famous saxophone solo, which
+
+was played by Steve Norman, a band member. The solo lasted for 16 bars, approximately 9%
+
+of  the  song.  Norman  devised  this  solo  around  the  chords  that  Kemp  presented  to  him.  The
+
+court  ultimately  held  that  the  creation  of  the  solo  was  not  a  „significant  and  original
+
+contribution‟ to the work. Analysis of this notion of „significant and original‟ with regard to
+
+joint  authorship  is  not  the  subject  of  this  article.  For  the  purposes  of  this  article  it  is
+
+interesting to note that with regard to the actual „musical work‟ at issue in Hadley it is unclear
+
+as to whether the musical work, as composed and recorded in „demo‟  form  by  Gary  Kemp,
+
+was  the  same  „work‟  as  the  eventual  version  of  „True‟,  as  recorded  by  the  entire  band,  or
+
+whether the eventual band recording was an original „arrangement‟ of Kemp‟s composition.61
+
+Furthermore, Park J. did not make such a distinction in his judgment, which may indicate that
+
+the other band members were „claiming co-authorship of the works themselves‟.62 Arnold has
+
+argued  that  either  outcome  could  have  been  possible,  had  it  been  fully  considered  by  the
+
+court.63 It has further been noted that „in assessing claims to co-authorship of musical works,
+
+60 Hadley v Kemp [1999] E.M.L.R. 589 (Ch D).
+
+61 R. Arnold, „Reflections on “The Triumph of Music”: Copyrights and Performers‟ Rights in Music,‟
+
+Intellectual Property Quarterly 2 (2010), 153, 159.
+
+62 L. Bently, „Authorship of Popular Music in UK Copyright Law,‟ Information, Communication and Society
+
+12(2) (2009), 179, 191.
+
+63 R. Arnold, „Are Performers Authors? Hadley v Kemp‟ European Intellectual Property Review 21(9) (1999),
+
+464, 467-468.
+
+--- PAGE BREAK ---
+
+the  vital  first  step  is  for  the  court  correctly  to  identify  the  work  the  subject  of  the  claim  to
+
+copyright and to distinguish it from any antecedent work‟.64 The fact that the court failed to
+
+do so arguably  makes the judgement problematic65. Nevertheless, it has been stated that the
+
+judgment of the High Court in Fisher v Brooker,66 the facts of which are broadly comparable
+
+with  Hadley,  did  resolve  some  of  these  difficulties,  particularly  with  regard  to  recognising
+
+joint authorship of arrangements among bandmembers.67 This important case is discussed in
+
+detail below.
+
+Fisher v Brooker in the High Court – Recognition of a Work but not an Arrangement?
+
+In  Fisher,  the  facts  were  similar  in  some  respects  to  the  Hadley  case.  In  this  case  the
+
+circumstances surrounding the authorship of the famous song „A Whiter Shade of Pale‟ were
+
+in dispute. This song became a huge hit in the 1960s, and it remains commercially valuable
+
+today, due in no small part to its popularity in the  market for „ringtones‟. Gary Brooker had
+
+always been credited with the copyright in the musical work because he wrote the chords and
+
+melody  of  the  song.  The  song  lyric,  protected  under  the  CDPA  as  a  literary  work,  was
+
+authored  by  Keith  Reid.  According  to  Gary  Brooker,  this  basic  version  was  originally
+
+64 R. Arnold, „Reflections on “The Triumph of Music”: Copyrights and Performers‟ Rights in Music,‟
+
+Intellectual Property Quarterly 2 (2010), 153, 159.
+
+65 R. Arnold, „Reflections on “The Triumph of Music”: Copyrights and Performers‟ Rights in Music,‟
+
+Intellectual Property Quarterly 2 (2010), 153, 159.
+
+66 Fisher v Brooker [2006] EWHC 3239 (Ch); [2007] E.M.L.R. 9, on appeal to the Court of Appeal in Fisher v
+
+Brooker [2008] EWCA Civ 287 and on appeal to House of Lords in Fisher v Brooker [2009] UKHL 41; [2009]
+
+1 W.L.R. 1764.
+
+67 This point is made by L. Abramson and T. Bamford of Harbottle & Lewis in the June 2008 edition of The In-
+
+House Lawyer, 42-43; accessible at http://www.harbottle.com/hnl/upload/documents/Music%20Copyright.pdf
+
+--- PAGE BREAK ---
+
+recorded as a bare „demo‟. This  „demo‟ version, referred to by Blackburne J. as „the Song‟,
+
+was  presented  to  the  other  band  members,  who  then  performed  on  the  final  recorded  and
+
+released track „A Whiter Shade of Pale‟, referred to by Blackburne J. as „the Work‟.
+
+„A Whiter Shade of Pale‟ is perhaps most famous for its organ instrumental sections, which
+
+were created by band member Matthew Fisher during the performance and recording process.
+
+In  this  case,  as  with  Hadley,  the  instrumental  sections  in  question  were  created  by  a  band
+
+member in response and counterpoint to a chord structure devised by the main songwriter of
+
+the group.68
+
+Abramson and Bamford have asserted that since copyright in a song exists from the time it  is
+
+reproduced  in  a  material  form,  the  original  demo  version  created  by  Brooker  and  Reid  i.e.
+
+„the Song‟, was  in  fact the „original work‟  in the case. The released  version of the song  i.e.
+
+„the  Work‟,  which  featured  Fisher‟s  organ  solo,  should  therefore  be  regarded  as  an
+
+„arrangement‟ of the original „work‟. The commentators noted that the High Court judgment
+
+in Fisher did not appear to agree that the demo „version‟ of „A White Shade of Pale‟ was a
+
+„work‟ for the purpose of copyright. In fact the court appeared to consider the earlier version
+
+as a draft or something akin to that.69 This has been described as a „wrong‟ interpretation of
+
+the law by Abramson and Bamford.70
+
+68 Interestingly, both „the Song‟, as apparently initially presented to the band members in demo form by Gary
+
+Brooker, and the organ solo featured in „the Work‟, which was devised by Matthew Fisher, were inspired and
+
+adapted to some extent from separate musical pieces originally composed by Bach i.e. musical works which
+
+reside in the public domain. Fisher v Brooker [2007] E.M.L.R. 9 at para. 36
+
+69 L. Abramson and T. Bamford of Harbottle & Lewis in the June 2008 edition of The In-House Lawyer, 42-43;
+
+accessible at http://www.harbottle.com/hnl/upload/documents/Music%20Copyright.pdf. See also comments of
+
+Blackburne J. in Fisher v Brooker [2007] E.M.L.R. 9 at para. 52-55.
+
+--- PAGE BREAK ---
+
+In  fact, as detailed  further below, a number of  licensing  complexities could  have arisen had
+
+Blackburne J. held that the work in question was the „arrangement‟ of Brooker‟s antecedent
+
+composition. It is possible that these licensing concerns may have influenced the decision of
+
+the  court  in  finding  that  there  was  no  antecedent  „work‟.71  The  arguments  of  Mr.  Fisher‟s
+
+counsel, Mr Sutcliffe, were summarised by Blackburne J. in his judgment on this point:
+
+“He  submitted  that  an  approach  whereby  each  musician  contributing  to  the  arrangement,
+
+provided  his  contribution  is  significant  (i.e.  non-trivial)  and  original,  can  share  in  the
+
+copyright  of  the  arrangement  gives  rise  to  practical  problems.  Thus,  if  a  work  exists  in
+
+multiple  versions, each entitling  its authors to share  in the publishing royalties arising  from
+
+the  exploitation  of  that  version,  the  work  will  require  multiple  registrations  with  the
+
+collecting  societies  and  sophisticated  monitoring  to  ensure  that  royalties  are  paid  to  the
+
+correct parties. Second, he said, if the author of the original work is not one of the arrangers,
+
+steps  will  have  to  be  taken  to  ensure  that  a  share  of  the  arranger's  copyright  is  paid  to  the
+
+owner of that original work. Third, he said, if all the band members are in principle entitled to
+
+a  publishing  royalty,  the  result  will  inevitably  be  a  drastic  paring  down  of  the  share  of
+
+royalties  payable  to  the  writer  and  publisher  of  the  original  work,  especially  if  there  is  a
+
+70 L. Abramson and T. Bamford of Harbottle & Lewis in the June 2008 edition of The In-House Lawyer, 42-43;
+
+accessible at http://www.harbottle.com/hnl/upload/documents/Music%20Copyright.pdf.
+
+71 Fisher v Brooker [2007] E.M.L.R. 9 at para. 52-58. See also A. Barron, „Introduction: Harmony or
+
+Dissonance? Copyright Concepts and Musical Practice,‟ Social and Legal Studies 15(1) (2006), 25, 47. Barron
+
+noted that the fact that joint authors are generally held to be tenants-in-common i.e. holding equal shares, means
+
+that courts may be wary of multiplying the number of potential owners from whom licence must be obtained for
+
+various transactions.
+
+--- PAGE BREAK ---
+
+multiplicity of versions. In those circumstances, he said, it was hardly surprising that this is
+
+not something to which writers and publishers have generally agreed.”72
+
+It is clear from the above argument that Mr. Sutcliffe considered that a finding that Matthew
+
+Fisher  was  actually  a  joint  author  of  an  „arrangement‟  would  lead  to  huge  difficulties  in
+
+practice,  in  particular  regarding  the  distribution  of  licensing  royalties.  Nonetheless,  his
+
+statement arguably reflects the legal reality – „each musician contributing to the arrangement,
+
+provided  his  contribution  is  significant  (i.e.  non-trivial)  and  original,  can  share  in  the
+
+copyright of the arrangement‟.73
+
+Ultimately, in Blackburne J.‟s opinion Fisher was a joint author of „the Work‟.74 However in
+
+light of the above statement it is arguable that Blackburne J. sought to avoid dealing with the
+
+licensing  complexities  that  would  have  arisen  had  he  found  that  „the  Work‟  was  an
+
+arrangement of „the Song‟. As discussed  below the  Court of  Appeal explicitly clarified this
+
+point, albeit without stating that Blackburne J. had erred in his finding.
+
+72 Fisher v Brooker [2007] E.M.L.R. 9 at para. 50.
+
+73 Fisher v Brooker [2007] E.M.L.R. 9 at para. 50.
+
+74 This article does not deal with the issue of „joint authorship‟ in relation to the Fisher case, a subject that has
+
+been dealt with comprehensively by other commentators. R. Arnold, „Reflections on "The Triumph of Music":
+
+copyrights and performers' rights in Music,‟ Intellectual Property Quarterly 2 (2010), 153, 161-164. See also L.
+
+Bently, „Authorship of Popular Music in UK Copyright Law,‟ Information, Communication and Society 12(2)
+
+(2009), 179, 191.
+
+--- PAGE BREAK ---
+
+Fisher v Brooker in the Court of Appeal – the Arrangement Clarification
+
+When judgment was handed down in the Court of Appeal, the court took the view that „the
+
+Work‟  was,  definitively,  an  original  copyright  arrangement  of  the  original  copyright  work
+
+referred to in the High Court judgment as „the Song‟.75 However Mummery L.J., giving the
+
+majority  view,  took  this  view  without  reference  to  the  fact  that  the  original  trial  judge,
+
+Blackburne  J.  did  not  correctly  maintain  the  above  distinction  between  „the  Song‟  and  „the
+
+Work‟  i.e. the underlying compositional work and the arrangement of that work. Mummery
+
+L.J. merely began his judgment with the presumption that „the Work‟ was an arrangement of
+
+„the Song‟ (which was also recognised as a „work‟ in itself).76
+
+Mummery  L.J.  also  clarified  the  exact  rights  in  question  in  the  case.  He  made  a  clear
+
+distinction between the rights in „the Song‟ i.e. the underlying musical work, the rights in the
+
+„the  Work‟  i.e. the arrangement‟ of that work, the rights  in the eventual  sound recording of
+
+the arrangement that was produced by the band, and the rights of the performers in relation to
+
+their  performances  on  the  recorded  and  released  „A  Whiter  Shade  of  Pale‟.  Mummery  L.J.
+
+categorically stated that the case concerned the rights over „the Work‟77 i.e. the arrangement.
+
+It  is  clear  that  Mummery  L.J.  realised  the  full  legal  ramifications  of  recognising  that  „the
+
+Work‟ was an arrangement of „the Song‟.78
+
+75 Fisher v Brooker [2008] Bus. L.R. 1123 at para. 34, comments of Mummery L.J.
+
+76 Fisher v Brooker [2008] Bus. L.R. 1123 at para. 16, comments of Mummery L.J.
+
+77 Fisher v Brooker [2008] Bus. L.R. 1123 at para. 34, comments of Mummery L.J.
+
+78 Fisher v Brooker [2008] Bus. L.R. 1123 at para. 34, comments of Mummery L.J.
+
+--- PAGE BREAK ---
+
+Crucially, in order for the arrangement to not amount to an infringement of the copyright in
+
+„the Song‟, „the Work‟ would need to have been correctly licensed by the copyright holders.
+
+In  other  words, once  the  Court of  Appeal  had  correctly  recognised  that  „the  Work‟  was  an
+
+arrangement, it became  necessary  and unavoidable for the court to deal adequately with the
+
+crucial licensing issues that sprung from this recognition. Interestingly, Mummery L.J. dealt
+
+with the complicated licensing difficulties that arose from the finding that „the work‟ was an
+
+arrangement  by  conveniently  finding  numerous  implied  licences  which  at  various  times
+
+involved  the  implied  consent  of  Brooker,  Fisher  and  Essex  Music,  and  which  covered  the
+
+making  of  the  arrangement  and  its  subsequent  exploitation.  While  the  finding  of  these
+
+implied licences is arguably not a fait accompli, it is nonetheless arguable that the approach
+
+of  Mummery  L.J.  is  preferable  to  that  of  Blackburne  J.  on  this  issue,  since  Blackburne  J.
+
+largely avoided the importance of the issue of licensing of arrangements.79
+
+It is hard not to conclude that there was a teleogical element to Mummery L.J.‟s reasoning in
+
+finding  the  implied  licences.  For  example,  Mummery  L.J.  was  clear  that  in  his  opinion  a
+
+finding which resulted in „split‟ licensing rights was not in the interests of any of the parties
+
+involved,  and  he  went  on  to  emphasise  that  in  finding  that  the  implied  licences  existed,  he
+
+was doing what was logical and necessary in light of the facts.80 For instance, a fundamental
+
+question in the case concerned whether there existed an implied licence between the owners
+
+of  copyright  in  „the  Song‟  and  the  makers  of  the  arrangement  known  as  „the  Work‟  which
+
+allowed  for  the  making  of  and  exploitation  of  the  arrangement.  In  light  of  the  facts  of  the
+
+case, the court accepted that there was an implied licence from Essex Music that authorised
+
+79 Fisher v Brooker [2008] Bus. L.R. 1123 at para. 101, comments of Mummery L.J.
+
+80 Fisher v Brooker [2008] Bus. L.R. 1123 at para. 102, comments of Mummery L.J.
+
+--- PAGE BREAK ---
+
+the  creation  of  „the  Work‟.81  It  appears  that  Mummery  L.J.  relied  on  the  „necessity‟  of  the
+
+existence of the implied licence in order to find that the licence did in fact exist.82 However, it
+
+was also of crucial importance to the case to establish what exactly the effective terms of the
+
+licence  were.  On  this  point,  the  court  found  that  in  impliedly  granting  licence  to  make  the
+
+arrangement,  Essex  Music  were  not  attaching  a  condition  that  prevented  Matthew  Fisher
+
+from  obtaining  an  interest  in  the  jointly  authored  arrangement.83  However,  Mummery  L.J.
+
+also held that although Fisher was entitled to be recognised as author of the arrangement i.e.
+
+„the Work‟, he was not entitled to claim royalties as it was found that he had given an implied
+
+irrevocable  licence  to the  defendants  to  exploit  „the  Work‟.  This  issue  was  appealed  to the
+
+House of Lords, which ruled on point in 2009, as outlined below.
+
+The House of Lords – The Final Word on the Royalty Question
+
+The House of Lords in 200984 reversed the decision of the Court of Appeal in relation to the
+
+royalty question, concluding that Matthew Fisher was entitled to royalties. However, on this
+
+point  it has  been  noted that the House of  Lords decision  may  have  an effect on the type of
+
+royalties that Matthew Fisher can claim:
+
+“While judgment was given in favour of Fisher, the Law Lords' suggestion that the recording
+
+contract  granted  a  royalty-free  licence  to  Essex  to  exploit  the  song  in  the  medium  of  the
+
+original  recording  takes  some  of  the  sheen  off  Fisher's  victory.  He  will  still  be  entitled  to
+
+81 Fisher v Brooker [2008] Bus. L.R. 1123 at para. 94-97.
+
+82 Fisher v Brooker [2008] Bus. L.R. 1123 at para. 103, comments of Mummery L.J.
+
+83 Fisher v Brooker [2008] Bus. L.R. 1123 at para. 100, comments of Mummery L.J.
+
+84 Fisher v Brooker [2009] UKHL 41; [2009] 1 W.L.R. 1764.
+
+--- PAGE BREAK ---
+
+royalty  income  from  cover  recordings  and  live  performances,  but,  if  the  court  is  right,
+
+royalties from the song as it appears on the iconic first recording will be beyond his reach.” 85
+
+Nonetheless, Baker and Lawson concluded that the case may have the effect of encouraging
+
+„a stream of vexatious lawsuits‟ taken by former pop band members and session musicians in
+
+the near future.86 With respect to the licensing of music within the industry, the Fisher saga is
+
+revealing in that with every judgment, from the High Cout to the House of Lords, a slightly
+
+different  licensing  arrangement  was  considered.  From  the  High  Court  case  it  appeared  that
+
+the  court only  recognised  one  copyright,  „the  Work‟,  of  which  Matthew  Fisher  was  a  joint
+
+author.  The  High  Court  also  acknowledged  that  he  was  potentially  entitled  to  licensing
+
+royalties governing the work. The Court of Appeal however stated that Matthew Fisher was a
+
+joint author of the „arrangement‟, not the underlying composition, and furthermore the court
+
+held that he was not entitled to royalties for use of the arrangement because he had impliedly
+
+given  a  licence  in  this  regard  to the  other  relevant  parties,  Gary  Brooker  and  Essex  Music.
+
+Moreover,  in  the  House  of  Lords,  the  court  decided  that  Matthew  Fisher  was  entitled  to
+
+receive royalties for some of the rights concerning the „arrangement‟, but that he had granted
+
+a  royalty-free  licence  to  the  other  parties  governing  the  rights  to  the  arrangment  on  the
+
+original  released  sound  recording.  The  fact  that three  varying  interpretations  were  given  to
+
+the  licensing arrangements  in the above  judgments  illustrates the complexity of the  issue of
+
+licensing in this context.
+
+85 J. Baker and E. Lawson, „Case Comment - Fisher v Brooker: “Whiter Shade of Pale” organist Matthew Fisher
+
+wins case in the House of Lords – but with a sting in the tail,‟ Entertainment Law Review 20(8) (2009), 296,
+
+297-298.
+
+86 J. Baker and E. Lawson, „Case Comment - Fisher v Brooker: “Whiter Shade of Pale” organist Matthew Fisher
+
+wins case in the House of Lords – but with a sting in the tail,‟ Entertainment Law Review 20(8) (2009), 296,
+
+297-298.
+
+--- PAGE BREAK ---
+
+Reconsidering  the  Role  of  Performers  in  the Music  Industry  –  Should  they be  seen  as
+
+‘Authors’ of Arrangements?
+
+It is quite possible that  in the  near  future other „unsung‟ performers, session  musicians and
+
+other  musical  contributors  will  make  copyright  claims  regarding  other  famous  hit  songs  of
+
+the past – songs that from a copyright perspective may actually be most accurately described
+
+as jointly authored „arrangements‟ distinct from the underlying musical works. Nonetheless,
+
+considering the fact that „performers‟ rights‟ has largely developed to compensate performers
+
+for the  fact that they generally do  not benefit  from  „authors‟ rights‟,  is  it  now possible that
+
+some performers could end up with more rights than some composers? If this is the case, then
+
+the  traditional  music  industry  model  has  been  slightly  turned  on  its  head.  In  fact,  some
+
+performers i.e. those who can claim joint authorship of arrangements, could potentially begin
+
+to move towards the top of the revenue tree, with multiple streams of revenue coming from
+
+both  performers‟  rights  and  copyright.  A  musician  who  is  concurrently  an  arranger  and
+
+performer would potentially be in a stronger position than a mere „performer‟.
+
+In  light of this, the question arises  as to whether it  ought to be the case that performers  are
+
+potentially  seen  as  joint  authors  in  return  for  their  creative  contributions.  In  other  words,
+
+given  the  increasing  scope  and  value  of  performers‟  rights  in  recent  decades,  should
+
+performers be able to claim a right over jointly authored arrangements as well?
+
+If  copyright  is  envisaged  as  a  way  of  encouraging  and  rewarding  creativity  in  the  musical
+
+context,  copyright  should  surely  encourage  and  reward  the  creative  contributions  of
+
+musicians  in  this  way.  Furthermore,  it  is  these  final  arrangements  that  are  released  to  the
+
+public, embodied in the original sound recordings, which are often the best and most valuable
+
+--- PAGE BREAK ---
+
+versions of the „songs‟. In fact, a particular musician‟s creative contribution may be the most
+
+recognisable  part  of  a  song,  as  was  arguably  the  case  with  respect  to  the  organ  part  in  „A
+
+Whiter Shade of Pale‟, as described in Fisher. With this in mind, it seems fair that performers
+
+are entitled to be joint authors of the arrangements to which they add sufficient originality.
+
+Nonetheless,  even  if  such  a  position  is  legally  and  morally  justifiable,  if  it  is  the  case  that
+
+performers  are  often  joint  authors  of  arrangements,  this  clearly  has  significant  potential
+
+consequences for licensing within the music industry. For example, a musician who is a joint
+
+author of an arrangement is entitled, as a joint author of the work, to a royalty both in relation
+
+to subsequent recorded cover versions of that particular arrangement, via mechanical rights,
+
+and  with  regard  to  subsequent  performances  of  that  particular  arrangement,  via  performing
+
+rights.  As  previously  stated,  and  acknowledged  by  the  courts,  this  would  appear  to  add
+
+several layers of complexity to the licensing system. Due to the fact that the subsequent cover
+
+version  of  the  arrangement  would  be  derivative  of  both  the  original  composition  and  the
+
+particular arrangement, a  licence would  be required  from  both the composer of the original
+
+work, and the arranger of the arrangement of that work. If there are multiple joint authors of
+
+the arrangement, because a number of group members have added creative contributions, all
+
+the joint authors would need to license the work. For the licensee this would not necessarily
+
+result in a more complex procedure, since a blanket licence fee is typically available for both
+
+mechanical rights and performing rights. However, the complexities would become apparent
+
+when the rights are distributed by the collecting societies among both the copyright owner of
+
+the original composition, and the original arrangement. It has traditionally been the case that
+
+the  composer  has  received  the  lion‟s  share  of  this  royalty  revenue.  However,  if  there  are
+
+additional  rights  licensed  over  an  original  arrangement,  the  copyright  owner  of  the
+
+arrangement copyright would also be due a royalty.
+
+--- PAGE BREAK ---
+
+Some  of  these  considerations  are  acknowledged  in  music  industry  practices.  As  previously
+
+noted, it is often the case that session musicians sign a musician‟s union contract stating that
+
+they are to receive a one-off fee rather than a royalty right resulting from their performances
+
+and  contributions.87  Band  members  may  also  sign  an  agreement  with  the  principal
+
+songwriters  in  the  band  covering  such  issues.88  However,  in  a  case  where  there  is  no
+
+agreement otherwise  between the members of a group, it would appear following the Fisher
+
+case that the de facto position is that a musician who adds sufficient originality to an existing
+
+composition  during  the  performance  and  recording  process  will  be  a  joint  author  of  the
+
+resulting  arrangement.  Given  the  low  threshold  for  originality,  this  is  probably  a  more
+
+common  occurrence  than  has  traditionally  been  recognised  in  the  music  industry.  It  is  no
+
+wonder  that  in  the  judgment  of  the  Court  of  Appeal  in  Fisher  Mummery  L.J.  warned
+
+musicians to put their relationship to each other in writing before commencing recording. 89
+
+87 Performances (Moral Rights) Regulations, 2006; accessible at
+
+http://www.opsi.gov.uk/si/si2006/20060018.htm. A number of sample draft contracts are accessible via the
+
+internet; http://theoryofmusic.wordpress.com/2009/02/24/draft-of-a-session-musicians-contract/;
+
+http://www.docstoc.com/docs/14855654/Musician-Work-for-Hire-Agreement;
+
+http://basschat.co.uk/index.php?s=e99eb19ff0ae8b4ea2c5f44f98e34b02&showtopic=2508&st=20&start=20;
+
+http://www.musiccontracts101.com/docs/sample/
+
+88 See discussion of music industry practices and the kinds of agreements that typically relate to these kinds of
+
+circumstances in Fisher v Brooker [2007] E.M.L.R. 9 at para. 61-62. Such an agreement was lacking in the case
+
+of Joyce v Morrisey & Ors [1998] EWCA Civ 1711; [1999] EMLR 233, which involved the defunct band „The
+
+Smiths‟. The principal songwriters, Johnny Marr and Stephen Morrissey were successfully sued by their fellow
+
+former band member, Michael Joyce, for a share in the songwriting royalties of the group.
+
+89 Fisher v Brooker [2008] Bus. L.R. 1123 at para. 105, comments of Mummery L.J.
+
+--- PAGE BREAK ---
+
+Conclusion
+
+Cases  involving  jointly  authored  arrangements  potentially  require  courts  to  make  difficult
+
+choices regarding  how  licensing revenue should  be  split  in a case where a composition  has
+
+been authored by one songwriter, but other members of a group have added creativity to the
+
+final recorded arrangement of the song. As discussed over the course of this article, the courts
+
+have not always decided these issues in a uniform way. However, despite the complexity that
+
+may  arise,  this  article  argues  that  the  courts  ought  to  be  primarily  guided  by  the  tenets  of
+
+copyright law, not by the traditional licensing practices of the music industry. These findings
+
+may  in  some  cases  lead  to  licensing  considerations,  and  courts  may  have  to  stretch  to  find
+
+implied  licences  in order to take account of these considerations. Nonetheless, the way that
+
+licensing revenues are distributed is something for the music industry itself to deal with, not
+
+the  courts.  Furthermore,  there  has  been  much  recent  criticism  of  the  collective  licensing
+
+system90, and particularly the  inability of the  music collecting societies to adapt sufficiently
+
+to the digital age, if an overhaul of the collecting societies does take place in the near future,
+
+it might be useful for the societies to consider whether the system can be tweaked to make it
+
+more flexible and accessible to musicians and users, with the licensing of both compositions
+
+and arrangements in mind.
+
+90 See generally W. J. Cardi, „Uber-Middleman: Reshaping the Broken Landscape of Music Copyright,‟ Iowa
+
+Law Review 92 (2007), 835, S. Liebowitz and R. Watt, „How to Best Ensure Remuneration for Creators in the
+
+Market for Music? Copyright and its Alternatives,‟ Journal of Economic Surveys 20(4) (2006), 513, P.
+
+Gyertyanfy, „Collective Management of Music Rights in Europe after the CIASC decision,‟ International
+
+Review of Intellectual Property and Competition Law 41(1) (2010), 59.

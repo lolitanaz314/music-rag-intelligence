@@ -1,0 +1,402 @@
+4  Recordation System
+
+Frequently Asked Questions
+
+    General
+
+   What document types are supported by the Recordation System?
+
+The Recordation System supports all documents pertaining to a copyright under section 205 of title 17. At this time, 
+however, documents that pertain to more than 10,000 works must be submitted using the paper process. When submitting 
+your document for recordation, you will be prompted to select a document category on the “Document” tab from the 
+following list:
+
+•  Affidavit/declaration/certification
+•  Assignment
+•  Change of address
+•  Change of name
+•  Counter-notice
+•  Court order
+•  Exclusive license
+•  Mortgage/security agreement
+•  Non-exclusive license
+•  Will
+•  Other
+
+Please use the “Other” selection if your document type is not listed as a selection but is allowed under section 205 of Title 17. 
+Once you select “Other,” you will be prompted to provide details on the type of document you are trying to record.
+
+    Login.gov
+
+   I lost my codes for Login.gov. How do I regain access to my account?
+
+Login.gov is a third-party authentication system outside the control of the Copyright Office. Please follow these steps to 
+regain access to your account:
+
+1.  You will need to delete the Login.gov account. This may take up to twenty-four hours according to Login.gov.
+
+2.   Once you have deleted your account, please notify us at copyinfo@copyright.gov, and we will clear the 
+
+authentication token from our system.
+
+3.   After you hear back from us, you can recreate the Login.gov account with the same email address used to establish 
+
+the original Recordation System account. Once the account is recreated, log in using the recreated account but STOP 
+once you see a screen with an online form.
+
+      Please contact copyinfo@copyright.gov once you have completed this step. We will reconnect your Recordation 
+
+System account with the newly created Login.gov account.
+
+4.   Once we have confirmed that the connection step is complete, you can then use the recreated Login.gov account 
+
+with the same email address to regain access to the Recordation System and filings.
+
+This whole process will not affect saved information in the system. This process only resets the authentication tokens.
+
+    Deposit Accounts
+
+    Can I use my existing deposit account for the Recordation System?
+
+You cannot link existing deposit accounts to the Recordation System. You must create a new deposit account through Pay.
+gov for system submissions. You can also make credit card or ACH payments through Pay.gov.
+
+    Can I replenish my deposit account using a W-9 or submit payment to the Office using a check?
+
+The Recordation System does not support auto-replenishment or check payment for deposit accounts. We only allow 
+replenishments through Pay.gov, which allows you to make ACH and credit card payments.
+
+recordation system frequently asked questions                                                                                  
+
+page 1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Can I transfer funds from our existing Copyright Office deposit account to the new Recordation System deposit account?
+
+We cannot transfer funds between existing deposit accounts and the Recordation System. You can request that specific 
+funds from your existing deposit account be refunded to you and then add those funds to your Recordation System deposit 
+account by using Pay.gov. Please send your refund request to depositaccts@copyright.gov.
+
+    I have questions about my deposit account statement. Whom should I contact?
+
+Please reach out to depositaccts@copyright.gov.
+
+    Automated Clearing House (ACH)
+
+    I initiated payment for our deposit account, but it still says “Pending.” Why is this?
+
+ACH payments made with Pay.gov can take up to five days to clear depending on the authorizing bank. Once Pay.gov has 
+cleared the funds and we receive confirmation of the completed transaction, the funds will be available in your deposit 
+account.
+
+    Fees
+
+    Will the fee for recording additional works and alternate identifiers with my document be the same if I use the 
+
+Recordation System?
+
+The Recordation System uses the fee schedule published on the Copyright Office’s website at copyright.gov/about/fees.html.  
+Recordation of documents through the system is considered “Electronic” for purposes of calculating the base fee and 
+number of additional works and alternate identifiers. The system will automatically calculate the fee based on the 
+information you provide.
+
+    Forms
+
+    Is the document cover sheet (Form DCS) still a requirement when uploading the document for recordation? Can I use page 
+
+3 of the document cover sheet (Form DCS) for the certifications since the language is the same?
+
+Your Recordation System submission will be rejected if you use Form DCS, so please do not use it. The system captures the 
+necessary information for recording and certifying documents. 
+
+If you cannot make either or both of the required document certifications, the Recordation System includes downloadable 
+certification forms for you to use.
+
+    Where are the Recordation System forms located?
+
+All required forms are found within the system, which includes the following items:
+
+•  True and Correct Copy Certification
+•  Recordation Eligibility Certification
+•  Multi-Work Upload Spreadsheet
+
+Do not use Form DCS when using the system. Submissions including Form DCS will be rejected.
+
+    Documents
+
+    Can I change the document file after it has been submitted?
+
+You must review your document before submission. You only can change your document in a submitted service request when 
+it is waiting for examination in “Pending” status.
+
+Once your service request reaches an examiner, you can no longer change the document. The only items you will be able to 
+change are indexing information. If the examiner finds that the document file is incorrect, the service request will be rejected.
+
+Since “Special Handling” skips the “Pending” status and goes straight to an examiner, you will not have any window to change 
+your document if you select “Special Handling.”
+
+recordation system frequently asked questions                                                                                  
+
+page 2
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Do I need to include the document’s “Attachment” or “Exhibit” sections in the uploaded PDF if I list the works in the Multi-
+
+Works Upload Spreadsheet?
+
+The Copyright Office will reject any submission that does not meet the completeness requirement. If the document 
+uploaded to the Recordation System does not include a particular schedule or exhibit, then it cannot stand on its own terms 
+and fails to meet that requirement.
+
+The Multi-Work Upload Spreadsheet is provided to allow for bulk uploading of indexing information, but it is not part of the 
+document recorded by the Office.
+
+Section 6 (Indexing Information) and Section 8 (Corrections, Amplifications, and Withdrawals) of the Special Pilot Program 
+Rules detail information pertaining to indexing information and when the document may or may not be changed in the 
+submission process.
+
+  Can I upload any file ending with a PDF extension?
+
+Please only upload single PDF files. Do not upload PDF portfolio files. When combining PDF files, please combine them into a 
+single PDF document rather than placing them in a PDF portfolio. 
+
+The Copyright Office does not provide technical support for PDF tools. You will need to reference your application’s support 
+content to determine how to combine PDFs into one PDF document.
+
+You can view Adobe Acrobat’s online support pages here:  
+helpx.adobe.com/acrobat/how-to/combine-merge-split-extract-pdf-files.html
+
+    Works
+
+    How do I identify works that are pending registration?
+
+The Recordation System does not have a field to enter service request (SR) numbers for in-progress registration applications. 
+Once you have obtained a registration number, you may update your recordation to add this number with a post-recordation 
+correction.
+
+    How do I know if I need to break something out as an alternate title?
+
+In some situations, a single work may be known as multiple titles. If the work has more than one title, choose one of them to 
+be the “primary title.” The other titles for the work are “alternative titles.”
+
+For example, the document may list “Star Wars,” “Episode IV,” and “A New Hope” as titles for the same work. In this situation, 
+the primary title of the work could be “Star Wars” and alternative titles could be “Episode IV” and “A New Hope.”
+
+    Special Handling
+
+    Can I add special handling to a Recordation System service request?
+
+Yes. Special handling options are found on the “Pay and Submit” tab, and you can add them at the time of submission. 
+
+    Review Process
+
+    If documents are submitted electronically, will the Office review them more quickly than physical submissions?
+
+Recordation staff will review documents submitted electronically through the system as they are received. Paper documents 
+follow a different workflow process. Please note that the Special Pilot Program Rules generally prohibit dual submissions, 
+stating that “[n]o submission may be made both electronically and in paper form unless approved by the Copyright Office.”
+
+recordation system frequently asked questions                                                                                  
+
+page 3
+
+ 
+ 
+ 
+    Status
+
+   What does “Pending Approval” mean?
+
+“Pending Approval” means that your submission has been approved and is queued up for publication in the Copyright Office’s 
+Public Catalog.
+
+    Corrections
+
+   Will corrections entail a new filing fee, and will they affect the original filing’s date of recordation?
+
+Although the Copyright Office intends to establish a fee to make corrections and amplifications, there is currently no fee for 
+most changes. Corrections will only incur an updated fee if the changes modify how the filing fees are calculated. For example, 
+a remitter may index additional transfers or works during corrections, resulting in a higher overall fee than previously paid for 
+the original filing. 
+
+In that case, the remitter would be required to pay the difference when submitting the corrected application. In addition, 
+because the date of recordation is determined, in part, by when the Office receives payment, if a correction results in a fee 
+difference, then the date of recordation will be the date when the difference is paid.
+
+   How do I resubmit my service request (SR) after the examiner sent it back to me?  
+
+If you receive correspondence from the Copyright Office asking you to make corrections in your submitted service request (SR), 
+please locate and open your SR from your "Draft" tab on your dashboard and make the requested changes. Once the changes 
+are made, proceed to the Pay and Submit page to make payments (if needed), recertify, and resubmit.
+
+If you received correspondence from the Office asking you to make corrections in your SR but later discovered that no changes 
+are required (for example, through further conversations or correspondence with the Office), please locate and open your SR 
+from your "Draft" tab on your dashboard, navigate directly to the Pay and Submit page without making any changes, recertify, 
+and resubmit. 
+
+    I only made minor corrections or amplifications. Do I still need to go through the Pay and Submit page when no payment 
+
+should be involved?  
+
+Yes. To resubmit your service request, you must go through the Pay and Submit page. If your correction or amplifications does 
+not result in a fee change, you will not be required to make a payment on the Pay and Submit page. You will still be required to 
+complete the required resubmission steps on the Pay and Submit tab.
+
+    Certificate and Numbered Document
+
+   Where do I find my certificate of recordation and numbered document?
+
+Once your submission is approved and in “Closed” status, you will be able to find your certificate and numbered document on 
+the Application Review page.
+
+    Will the Office send the certificate of recordation and numbered document by email, or must I access them directly from 
+
+the recordation system?
+
+The Office will not send the certificate and numbered document by email. You can access the numbered document and 
+certificate directly from the recordation system on the Application Review page for an approved submission once it is in 
+“Closed” status.
+
+recordation system frequently asked questions                                                                                  
+
+page 4
+
+ 
+ 
+ 
+    Refund
+
+   Will I get a refund if my service request is rejected?
+
+The Copyright Office retains the base fee and refunds the remaining amount, if any. Refunds are not immediate. If there are 
+fees to be refunded for the rejected service request, the system will automatically put in a refund request with our finance 
+department, and they will review and process the refund. The refund will go back to the original source of payment.
+
+    Withdraw
+
+   Will I get a refund when withdrawing my application?
+
+If your submission is in “Pending” status, then a refund request will be submitted on your behalf if you withdraw within 
+seven calendar days.
+
+If your submission is in “In Review” status, you are not eligible for a refund if you withdraw your submission.
+
+    Correction/Withdraw Timing
+
+Are you trying to correct, amplify, or withdraw a service request (SR)? Use this helpful guide to determine when it 
+is okay to correct, amplify, or withdraw a document.
+
+If the Copyright Office  
+has not started reviewing  
+your service request…
+
+If the Copyright Office  
+is in the process of reviewing 
+your service request…
+
+If the Copyright Office 
+has approved and closed  
+your service request…
+
+While the SR is in “Pending” status, 
+you can make any changes to the 
+service request. 
+
+•  CAN  replace certification 
+
+statements
+
+• CAN replace document
+
+• CAN  update proof of signature 
+within the document
+
+Once your SR is under review, 
+corrections can only be initiated 
+by the Copyright Office. If you 
+found errors within your SR, you 
+may submit a correction request 
+for the Office’s consideration. 
+
+The SR is now in “Closed” status. 
+If you initiate a correction, 
+information from the original 
+SR will be copied into a new 
+“correction” SR for you to 
+update. 
+
+• CANNOT  update proof of 
+
+• CANNOT  make changes to  
+
+signature within the 
+document
+
+the original SR
+
+• CANNOT  withdraw the  
+
+original SR 
+
+• CAN update indexing information
+
+• CANNOT replace document
+
+• CAN withdraw the SR
+
+• CAN  replace certification 
+
+• CAN  replace or update 
+
+statements
+
+• CAN  update indexing 
+information
+
+• CAN withdraw the SR
+
+certification statements  
+in the new correction SR
+
+• CAN  replace document in the 
+new correction SR
+
+• CAN  update indexing 
+
+information in the new 
+correction SR
+
+recordation system frequently asked questions                                                                                  
+
+updated january 2023
+
+page 5
+
+ 
+ 
+

@@ -1,0 +1,521 @@
+56A
+
+Copyright Registration of
+Musical Compositions  
+and Sound Recordings
+
+This circular explains the difference, for 
+
+copyright purposes, between musical 
+
+compositions and sound recordings 
+
+and provides information on 
+
+registering both types of works either 
+
+separately or on one application. 
+
+For specific information about 
+
+this topic, see Chapter 800 of the 
+
+Compendium of U.S. Copyright 
+
+Practices, Third Edition.1 For 
+
+registration of sound recordings that 
+
+do not contain musical compositions, 
+
+or for registration of sound recordings 
+
+on a separate application from musical 
+
+compositions, see Circular 56.
+
+Sound recordings and musical compositions are considered 
+two separate works for copyright purposes. Even though 
+a sound recording is a derivative work of the underlying 
+musical composition, a copyright in a sound recording is not 
+the same as, or a substitute for, copyright in the underlying 
+musical composition. The chart that follows demonstrates 
+the differences between these two types of works.
+
+Musical  
+Compositions
+
+Sound  
+Recordings
+
+Fixation of a 
+series of sounds 
+(e.g., a particular 
+performance)
+
+Performers 
+Producers
+Sound Engineers
+
+Phonorecord 
+(mp3, CD, LP)
+
+What  
+is it?
+
+Music  
+(melody, rhythm, and/
+or harmony expressed 
+in a system of musical 
+notation) and 
+accompanying words 
+(lyrics)
+
+Who is the 
+author?
+
+Composers 
+Lyricists
+Songwriters
+
+How is it 
+fixed?
+
+Copy  
+(sheet music, either 
+print or digital such 
+as pdf)
+
+Phonorecord  
+(mp3, CD, LP)
+
+wcopyright.govCIRCULAR Does the owner have the exclusive right to…
+
+Musical  
+Compositions
+
+Sound  
+Recordings
+
+reproduce the work?
+
+prepare derivative works?
+
+distribute the copies or phonorecords of the work to the 
+public by sale or other transfer of ownership, or by rental, 
+lease, or lending?
+
+perform the work publicly?
+
+display the work publicly?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Only by means 
+of a digital audio 
+transmission
+
+No
+
+A registration for a musical composition covers the music and lyrics (if any) embodied in 
+that composition, but it does not cover a recorded performance of that composition. Likewise, 
+a registration for a sound recording of a performance does not cover the underlying musical 
+composition. For example, the composition “Respect” and a recording of Aretha Franklin singing 
+“Respect” are two distinct works. The composition itself (i.e., the music and lyrics) is a musical 
+composition, and a recording of an artist performing that composition is a sound recording.
+
+Determining Whether a Musical Composition and a Sound Recording Can Be 
+Registered with One Application
+
+Since a musical composition and a sound recording are distinct works, separate registration 
+applications generally should be submitted for each work. However, you may use one standard 
+application to register a sound recording and an underlying musical composition when (1) the 
+musical composition and sound recording are embodied in the same phonorecord and (2) the 
+claimant for both the musical composition and sound recording are the same.  
+
+Examples
+
+•  When an artist performs and records a composition owned by someone else, the artist or 
+
+artist’s label (if appropriate) would submit an application for the recording only. For specific 
+guidance, see Copyright Registration of Sound Recordings (Circular 56).
+
+•  When a songwriter creates a composition that someone else records, the songwriter or 
+songwriter’s publisher (if appropriate) would submit an application for the musical 
+composition only. For specific guidance, see Copyright Registration of Musical Compositions 
+(Circular 50).
+
+•  When a songwriter performs and records the songwriter’s own composition, the songwriter 
+
+may submit one application for both the composition and recording.
+
+•  When a record company owns both a composition and a recording of that composition, it may 
+
+submit one application for both the composition and recording.
+
+•  When a record company owns both a composition and a recording of that composition, 
+
+2
+
+Copyright Registration of Musical Compositions and Sound Recordings 
+and distributes the works to the public as both sheet music and an album at the time of 
+registration, it should submit two separate applications, with a sheet music deposit for the 
+music composition and a recording deposit for the sound recording. 
+
+Even though it is possible for some applicants described above to register the musical 
+
+composition and sound recording on one application, it is very important to follow the instructions 
+below in order to make sure both works are included on the application. Applicants may always 
+choose to register sound recordings and musical compositions on separate applications.
+
+note: You may register one sound recording and the underlying musical composition using the 
+Single Application, a streamlined version of the Standard Application, but only if you meet all three 
+of the following conditions: (1) the composition and the sound recording are embodied in the same 
+phonorecord, (2) the author is the only performer featured in the recording, and (3) the author 
+is the only copyright owner of both works. For more information about these requirements and 
+procedures, see Using the Single Application (Circular 11).
+
+Example: Anne Smith submits a Single Application to register the sound recording and musical 
+composition as the sole owner of copyright of both works. The deposit she submits is a 
+recording of her solo performance of the composition.
+
+Completing the Online Application for Musical Compositions and Sound Recordings
+
+Mistakes in applications lead to delays in registration, so it is important to complete the application 
+accurately. Instructions for completing the Standard Application appear in the “help” text that 
+accompanies the application. Here are some tips regarding common points of confusion when an 
+application includes both a sound recording and a musical composition.
+
+Type of Work 
+
+At the beginning of the application, select the 
+“Sound Recording” option on the “Type of 
+Work” screen. The questions presented in the 
+application are based on the type of work you 
+select, and if you select the wrong option you 
+will need to start over.
+
+Title
+
+Provide each title exactly as it appears on the work itself, identifying album and track titles using the 
+title types as shown above. If you are registering one sound recording or one musical composition, 
+enter one title as “Title of work being registered.”
+
+3
+
+Copyright Registration of Musical Compositions and Sound Recordings 
+Publication
+
+•  Publication occurs when phonorecords of a work are distributed to the public by sale; transfer 
+of ownership; or by rental, lease, or lending. Offering to distribute phonorecords to a group 
+of persons for the purpose of further distribution or the purpose of publicly performing the 
+work also constitutes publication. A public performance does not—in and of itself—constitute 
+publication.
+
+•  If the work has not been published, answer “no” to the publication question.
+
+•  If the work has been published, answer “yes” to the publication question and give the date 
+
+when and nation where the phonorecords were first distributed to the public or first offered to 
+a group of persons for further distribution or public performance.
+
+Year of Creation
+
+•  The year of creation is the year in which the version of the work to be registered was first fixed 
+or recorded in any other tangible form. When a work is written or recorded over a period of 
+time or constitutes a new version of an earlier work, give the year of completion of the final 
+work or new version.
+
+Author 
+
+•  On the Author screen, name the author(s) of the sound recording(s) and musical 
+
+composition(s) being registered. The author of a sound recording is the performer(s) featured 
+in the recording and/or the producer(s) who captured and/or manipulated or edited the 
+sounds that appear in the final recording. The author of a musical composition is the person 
+who created the music and/or lyrics.
+
+•  There is also the possibility that the sound recording (and/or musical composition) were works 
+made for hire. The applicant, not the U.S. Copyright Office, must determine whether a work 
+meets the statutory definition of a work made for hire. The two types of works that can be 
+considered a work made for hire are: (1) works prepared by an employee within the scope of 
+his or her employment; or (2) certain types of specially commissioned works, outlined in the 
+statute, where the parties signed a written agreement that the work was a “work made for hire.” 
+If the work was created as a work made for hire, give the name of the employer, not the person 
+who actually created the music and/or lyrics and sound recording. For more information on 
+works made for hire, see Works Made for Hire (Circular 30).
+
+Claimant
+
+•  A sound recording and musical composition can only be registered together if the same person 
+or entity is named as the copyright claimant for both works. For purposes of registration, the 
+claimant may be the author of both the musical composition and the sound recording, or a 
+party that owns the copyright in both works.
+
+•  If the claimant is not the author of either the musical composition or the sound recording, the 
+applicant must also provide a transfer statement by checking one of the boxes (e.g., by written 
+agreement, by inheritance, etc.) or by explaining how the claimant obtained the rights in the 
+work in the space provided.
+
+4
+
+Copyright Registration of Musical Compositions and Sound RecordingsType of Authorship 
+
+Check this box 
+to describe your 
+sound recording 
+authorship.
+
+Use this space to describe 
+the musical composition 
+authorship (“music,” “lyrics,” 
+musical arrangement,” etc.)
+
+Limitation of Claim
+
+•  Complete this space if the work being registered contains an appreciable amount of material that
+
+ » was previously published
+
+ » was previously registered with the U.S. Copyright Office
+
+ » is in the public domain
+
+ » is not owned by the claimant named in the application
+
+Leave this space blank if the work does not contain an appreciable amount of any of this kind of 
+
+material.
+
+Submitting the Works to the Copyright Office
+
+To register your sound recording and musical composition, you must send the works to the 
+Copyright Office. Once a deposit has been submitted, it becomes part of the public record and 
+cannot be returned.
+
+When registering a sound recording and musical composition that are unpublished or published 
+
+solely in a digital form, the Copyright Office strongly encourages you to upload the deposit as a 
+digital file through the online registration system instead of submitting a physical phonorecord, 
+such as a CD, flash drive, or other physical storage device. Each file must be uploaded in an 
+acceptable file format, and each uploaded file must not exceed 500 MB in size. You may compress 
+the files to fit within that size limit.
+
+When registering a sound recording and musical composition published in a physical format, 
+such as a compact disc or LP, you should submit two copies of the work in the physical format, even 
+if there is a corresponding digital version. To submit physical copies of your work after completing 
+an online application, you should print a shipping slip from the bottom of the “Submit Your Work” 
+screen and send the shipping slip and deposits in the same package to the address given on the 
+shipping slip. To submit a physical copy (or copies) of your work with a paper application, complete 
+Form SR and submit the deposit in the same package with the application and the filing fee.
+
+If the sound recording has been published in the United States in multiple physical formats at the 
+time of registration, you will need to comply with the “best edition” requirement by sending the two 
+copies of the “best” edition. The “best” edition generally will be the highest quality edition that has 
+been publicly distributed in the United States. The Library of Congress has identified hierarchical 
+criteria for what constitutes the highest quality edition for sound recordings:
+
+5
+
+Copyright Registration of Musical Compositions and Sound Recordings1.  Compact disc
+
+2.  Vinyl disc
+
+3.  Open-reel tape
+
+4.  Cartridge tape
+
+5.  Cassette tape
+
+For example, if the work was published both on compact disc and vinyl disc before the date of 
+
+the deposit, you should submit two CDs rather than vinyl discs.
+
+Registering Multiple Musical Compositions and Sound Recordings  
+on One Application
+
+To register multiple sound recordings and musical compositions together on one application, they 
+must qualify for group registration, as a collective work, or unit of publication. This section provides 
+specific guidance for registering musical compositions and sound recordings using these methods. 
+For more general information regarding multiple work registration, see Multiple Works (Circular 34).
+
+Group Registration of Unpublished Works 
+
+An applicant may register up to ten unpublished sound recordings and the underlying musical 
+works using the online group registration option, provided that the musical compositions and 
+sound recordings were created by the same author or authors and all of the authors are named as 
+copyright claimants.
+
+When registering multiple musical works and sound recordings using the group registration 
+
+option, provide a title for each of the individual works within the collection.
+
+Example One
+Three unpublished compositions were written and performed by Jim, Pam, and Dwight. 
+Assuming there was no transfer of ownership, the authors and owners of all three 
+compositions and sound recordings are the same, and the compositions may be registered 
+using the group registration option.
+
+Example Two
+Three unpublished compositions were written by Jim and Dwight: Composition 1 was 
+performed by Jim; Composition 2 was performed by Jim; Composition 3 was performed 
+by Dwight. Jim and Dwight may register the three unpublished compositions, but not the 
+three sound recordings, on one group application. Jim may register the sound recordings 
+for Composition 1 and Composition 2 on one group application, while Dwight registers the 
+sound recording for Composition 3 on a separate application. 
+
+Collective Work
+
+A collective work is a compilation in which a number of contributions, constituting separate 
+and independent works in themselves, are assembled into a collective whole. The “authorship” 
+in a collective work comes from the original selection, coordination, and arrangement of the 
+independent works included in the collective work.
+
+6
+
+Copyright Registration of Musical Compositions and Sound RecordingsUnder the Copyright Act, a collective work is considered one work for purposes of registration. A 
+registration for a collective work covers the copyrightable authorship in the selection, coordination, 
+or arrangement of the work. A registration for a collective work also covers the individual 
+copyrightable works that are contained within the collective work if (1) the collective work and the 
+individual works are owned by the same party, (2) the individual works have not been previously 
+published or previously registered, and (3) the individual works are not in the public domain.
+
+Accordingly, an applicant may use one application to register a number of musical compositions 
+and sound recordings as a collective work if the applicant owns the musical compositions and sound 
+recordings, selected and arranged the musical compositions and sound recordings into a collective 
+whole, and the musical compositions and sound recordings have not been previously published or 
+previously registered.
+
+For example, a CD album with multiple tracks that embody musical compositions and sound 
+
+recordings is considered a collective work. If the person or entity selecting, coordinating, or 
+arranging the musical compositions and sound recordings on the album also owns the sound 
+recordings, which were not previously published or registered, then the album and sound 
+recordings may be registered with one application as a collective work. If that party also owns the 
+musical compositions, which were not previously published or registered, then the collective work 
+registration would also extend to the musical compositions.
+
+By contrast, if the copyright owner of the musical composition is not the copyright owner of the 
+
+sound recordings, the musical compositions and sound recordings must be registered separately. 
+If an author only selects or arranges the songs on an album, but is not the copyright owner of the 
+component sound recordings or the musical compositions, or if those recordings or compositions 
+were previously published or registered, that author may still file an application for a collective 
+work covering only the selection, coordination, and arrangement of the songs on the album. This 
+might occur, for example, in the case of a “best of ” album or a movie soundtrack album. But in 
+this situation, the registration in the collective work would not extend to the individual sound 
+recordings or the musical compositions on the album.
+
+Example
+An artist wrote and performed multiple tracks for a published album and determined how to 
+arrange the compositions on the album. The artist can register this work on one application 
+as a collective work. The claim may include the individual musical compositions and sound 
+recordings as well as the selection, coordination, and arrangement of the tracks on the album.
+
+Unit of Publication
+
+The Copyright Office has a narrow registration accommodation for units of publication. A unit of 
+publication is a physical package that contains a number of separately fixed works that have been 
+physically bundled together for distribution to the public as a single, integrated unit. The unit of 
+publication accommodation is meant to solve a very particular problem: the burdens that would 
+arise if applicants were required to submit, and the Office were required to process, multiple copies 
+of the same product in order to register different copyrightable elements of that product.
+
+An applicant may register a number of works as a unit of publication only if:
+
+•  All of the copyrightable elements are recognizable as self-contained works.
+
+•  All of the works claimed in the application are first published as a single unit on the same date.
+
+•  The copyright claimant for all of the works claimed in the unit is the same.
+
+7
+
+Copyright Registration of Musical Compositions and Sound Recordings•  The unit and all of the works within the unit are distributed in a physical format.
+
+•  The unit contains an actual physical copy or phonorecord of all the works.
+
+•  The unit is distributed to the general public.
+
+In the context of music albums, a registration relying on the unit of publication option may also 
+extend to the copyrightable text, artwork, and photographs that appear in the liner notes for the unit. 
+When registering these types of works, include a brief statement describing the works in the “Other” 
+field on the Author screen using the specific terms, such as “artwork,” “photographs,” and “text of 
+liner notes.” Please note that names and titles of tracks are not copyrightable so the applicant should 
+not assert a claim in “text of liner notes” if the names and titles of tracks are the only text present in 
+the unit of publication.
+
+All of the above-mentioned conditions must be met for an applicant to use the unit of publication 
+option. If any of the compositions were published individually, and not within the unit of publication, 
+then the unit of publication option cannot be used to register those works. Similarly, an applicant 
+cannot use the unit of publication option if the tracks, cover art, and/or liner notes are owned by 
+different parties, or if one or more of the works was published on a different date or in a different 
+unit of publication.
+
+Example
+A CD album with two tracks that embody musical compositions and sound recordings along 
+with an insert containing text and artwork is considered a unit of publication when they are 
+distributed to the general public as a single, integrated unit. If the copyright owner of the text 
+and artwork is the same as the copyright owner of the two musical compositions and sound 
+recordings, the musical compositions, sound recordings, text and artwork may be registered 
+together with one application.
+
+8
+
+Copyright Registration of Musical Compositions and Sound Recordingsnote
+1. This circular is intended as an overview of the distinction between musical compositions and 
+sound recordings. The authoritative source for U.S. copyright law is the Copyright Act, codified in 
+Title 17 of the United States Code. Copyright Office regulations are codified in Title 37 of the Code of 
+Federal Regulations. Copyright Office practices and procedures are summarized in the third edition 
+of the Compendium of U.S. Copyright Office Practices, cited as the Compendium. The copyright law, 
+regulations, and the Compendium are available on the Copyright Office website at www.copyright.gov.
+
+9
+
+Copyright Registration of Musical Compositions and Sound RecordingsFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 56A  REVISED: 03/2021 
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

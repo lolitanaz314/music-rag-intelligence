@@ -1,0 +1,660 @@
+Copyright Restoration
+Under the URAA
+
+Congress passed the Uruguay Round Agreements Act (URAA) in 1994 to
+implement U.S. obligations under the Agreement on Trade-Related Aspects of
+Intellectual Property Rights (TRIPS) of the World Trade Organization (WTO).
+TRIPS incorporates by reference many obligations under the Berne Convention
+for the Protection of Literary and Artistic Works.
+
+The United States signed the Berne Convention in 1989, committing itself to
+grant the same level of copyright protection to works from other Berne countries
+that it provides to works of U.S. nationals.
+
+The United States acceded to TRIPS in 1995 when it joined the WTO. TRIPS
+independently mandates compliance with most Berne provisions and provides
+additional obligations regarding enforcement that are subject to dispute resolution at the WTO.
+
+Several provisions of the URAA amend U.S. copyright law.¹ This circular
+
+focuses on amendments to section 104a.
+
+The URAA amended section 104a of the copyright law to restore U.S. copy-
+
+right to certain foreign works that were in the public domain in the United
+States but protected by copyright in their countries of origin.
+
+Restoration of Copyrights
+
+Ownership of a restored copyright vests initially in the author or initial rightholder, as determined by the law of the restored work’s source country or by the
+owner of an exclusive right in the United States.
+
+Eligibility Requirements
+
+To be eligible, a work must meet all of the following requirements:
+
+1  At the time the work was created, at least one author (or rightholder in the
+case of a sound recording) must have been a national or domiciliary of an
+eligible source country. An eligible source country is a country, other than
+the United States, that is a member of the WTO, a member of the Berne
+Convention for the Protection of Literary and Artistic Works, or subject to
+a presidential proclamation restoring U.S. copyright protection to works of
+that country on the basis of reciprocal treatment of the works of U.S. nationals or domiciliaries.²
+
+2  The work is not in the public domain in the eligible source country through
+
+expiration of the term of protection.
+
+3  The work is in the public domain in the United States because it did not
+comply with formalities imposed at any time by U. S. law, lacked subject
+matter protection in the United States in the case of sound recordings fixed
+before February 15, 1972, or lacked national eligibility in the United States.³
+
+wCircular 38b2 38b.0113
+
+--- PAGE BREAK ---
+
+4  If published, the work must have been first published in
+
+Notice of Intent to Enforce
+
+Copyright Restoration Under the URAA  ·  2
+
+an eligible country and not published in the United States
+during the 30-day period following its first publication in
+the eligible country.
+
+Effective Date of Restoration
+
+January 1, 1996, was the effective date of restoration of copyright for works from countries that were members of the
+WTO or the Berne Convention on that date. Subsequently,
+the effective date of restoration is the date a newly eligible
+country accedes to the WTO or the Berne Convention or the
+date of a presidential proclamation restoring U.S. copyright
+protection to works of that country.
+
+Term of Copyright
+
+The copyright in any work in which copyright is restored will
+last for the remainder of the term of copyright that the work
+would have enjoyed if the work had never entered the public
+domain in the United States.
+
+Generally, the U. S. copyright term for works published
+before January 1, 1978, lasts for 95 years from the year of first
+publication. Although sound recordings fixed before 1972
+were not then protected by federal copyright, those sound
+recordings will receive the remainder of the term they would
+have received had they been protected by such copyright
+when published. For example, a sound recording published
+in 1925 will be protected until 2020. For works published on
+or after January 1, 1978, the term of copyright is the life of
+the author plus 70 years. For example:
+•  A French short story that was first published with-
+
+out copyright notice in 1935 will be treated as if it had
+both been published with a proper notice and properly
+renewed, meaning that its restored copyright will expire
+on December 31, 2030 (95 years after the U. S. copyright
+would have come into existence).
+
+•  A Chinese play from 1983 will be protected until December 31 of the 70th year after the year in which its author
+dies.
+
+•  A Mexican sound recording first published in Mexico in
+
+1965 will be protected until December 21, 2060.
+
+For details about the duration of copyright protection in
+
+the United States, see Circular 15a, Duration of Copyright.
+
+Automatic Restoration
+
+Eligible copyrights are restored automatically and no further
+steps need to be taken to make a restored copyright fully
+enforceable against any party other than a reliance party.
+
+Although copyright is restored automatically in eligible
+works, the URAA directs the owner of a restored work to
+notify reliance parties if the owner of the rights in a restored
+work plans to enforce those rights.
+
+A reliance party is typically a business or individual
+who, relying on the public domain status of a work, was
+using it before the enactment of the URAA on December
+8, 1994. For works from any country that was not eligible
+under the URAA as of December 8, 1994, reliance parties are
+those using the work before the date on which the country
+becomes eligible by joining the WTO or the Berne Convention or as a result of a presidential proclamation.
+
+The URAA authorizes the owner of a right in a restored
+
+work to either
+
+•  provide actual Notice of Intent to Enforce (NIE) a
+
+Restored Copyright by contacting a reliance party directly,
+
+•  provide constructive notice by filing an NIE with the
+
+Copyright Office.
+
+The URAA further directs the Copyright Office to publish
+in the Federal Register, the U. S. government’s publication for
+official agency notices, a list identifying restored works and
+their ownership when NIEs are recorded with the Office. For
+inspection and copying by the public, the Office maintains a
+list identifying all NIEs. See “Public Record” below for details
+about searching NIEs.
+
+Dates for Filing Notices
+
+Owners of restored works can file NIEs directly with reliance
+parties at any time after the date of restoration. Owners of
+restored works from countries that become eligible source
+countries after January 1, 1996, and who want to file NIEs
+with the Copyright Office have two years from the date of
+eligibility to do so. Owners of works whose source countries were members of the Berne Convention or the WTO
+as of January 1, 1996, and who wanted to file NIEs with the
+Copyight Office had to do so between January 1, 1996, and
+December 31, 1997.⁴ The Office published the first listing of
+NIEs on May 1, 1996 (61 Fed. Reg. 19371), and published lists
+at four-month intervals over the following two years. All of
+the notices are available on the Copyright Office website at
+www.copyright.gov/gatt.html.
+
+--- PAGE BREAK ---
+
+Grace Period for Use of Restored Works
+
+A reliance party has a 12-month grace period to sell off previously manufactured stock, perform or display the relevant
+work publicly, or authorize others to conduct these activities.
+The grace period begins when the reliance party receives
+notice that the owner is enforcing the copyright in the
+restored work. The date runs from either the date of receipt
+of the actual notice or the date of publication of the Federal
+Register issue identifying the work. If notice is provided both
+by Federal Register publication and service on the reliance
+party, the period runs from whichever date is earlier. Except
+for certain reliance parties who created derivative works, a
+reliance party must cease using the restored work when
+the 12-month grace period expires unless the reliance party
+reaches a licensing agreement with the copyright owner for
+continued use of the restored work.
+
+Subsection (d)(3) of the amended section 104a of the
+Copyright Act contains special rules for certain derivative
+works created before December 8, 1994, based on underlying
+restored works. Examples include the translation of a restored
+work or a motion picture based on a restored book or a play.
+A reliance party can continue to exploit such derivative works
+if the reliance party pays the owner of the restored copyright
+reasonable compensation.
+
+Notices Filed in Copyright Office
+
+The following information describes how to file an NIE with
+the Copyright Office. Filing actual notice on a reliance party
+is described later in this circular.
+
+Format
+
+The Copyright Office does not provide a form for filing an
+NIE. However, the final page of this circular and the regulations published in the Federal Register and the Code of Federal Regulations contain a sample format that can be used to
+file notices. This format is also available on the Copyright
+Office’s website at www.copyright.gov/forms/formnie.txt.
+
+The format includes both required and optional information. The Copyright Office strongly recommends use of
+this format. An NIE filed with the Copyright Office should
+be typed or printed legibly by hand on 8 ½" × 11" (or a4, i.e.,
+210 × 297 mm) white paper with a 1" (or 3 cm) margin.
+
+Content
+
+The URAA specifies the minimum content of an NIE. The
+notice must be signed by the copyright owner or the owner’s
+agent and must contain the title of the work or a brief
+
+Copyright Restoration Under the URAA  ·  3
+
+description of the work if it is untitled; an English-language
+translation of the title if the title is in a foreign language;
+any other alternative titles known to the owner by which the
+restored work can be identified; the name of the copyright
+owner of the restored work or owner of an exclusive right
+therein; and the address and telephone number at which the
+owner can be contacted. Although the Copyright Office can
+ask for additional information, failure to provide it will not
+invalidate the NIE.
+
+The Copyright Office has identified certain information
+that is not required by the URAA but is important for proper
+identification of a restored work. It includes:
+
+1  type of work (for example, painting, sculpture, music,
+
+motion picture, sound recording, or book)
+
+2  name of author(s)
+
+3  source country
+
+4  approximate year of first publication
+
+5  additional identifying information (for example, for
+
+movies: director, leading actors, screenwriter, animator; for
+photographs: subject matter; for books: editor, publisher,
+contributors)
+
+6  rights owned by the party on whose behalf the NIE is filed
+(for example, the right to reproduce, distribute, publicly
+display, or publicly perform the work or to prepare a
+derivative work based on the work)
+
+7  email address and fax number at which the owner, exclu-
+
+sive rights holder, or agent can be reached
+
+Multiple Works
+
+Multiple works can be included on a single NIE provided
+that (a) each work is identified by title or a brief description
+if untitled; (b) all the works have the same author; (c) all the
+works are owned by the same copyright owner or the owner
+of the exclusive rights therein; and (d) the rights owned by
+the party on whose behalf the notice is being filed are the
+same.
+
+Signature and Certification
+
+The NIE must be signed by the owner of the restored copyright, the owner of an exclusive right therein, or an agent of
+the owner. The agency relationship must be established in
+writing and signed by the owner before the NIE is filed.
+
+The NIE must include a certification statement indicating
+that the information given is correct to the best of the filer’s
+knowledge. Any material false statement knowingly made
+with respect to any restored copyright identified in an NIE
+shall void all claims and assertions against reliance parties
+
+--- PAGE BREAK ---
+
+made about such restored copyright. The sample format on
+the final page of this circular includes a certification
+statement.
+
+Fee
+
+The nonrefundable fee for filing an NIE covers a notice in cluding one work. For a notice covering multiple works, there is
+an additional fee for each group of 10 titles. The fee includes
+the cost of acknowledging a recordation by mail after the
+Copyright Office records the NIE.
+
+ See Circular 4, Copyright Office Fees, for details about
+current fees and acceptable payment methods. The fee applicable to NIEs is listed under the subheading Recordation of
+Documents. Note that credit cards are accepted for filings
+under the URAA, even though the Copyright Office does not
+accept credit cards for other filings on paper forms. To pay
+by credit card, a filer must provide in a separate letter the
+name on the credit card being used, the credit card number,
+the expiration date of the credit card, the total amount
+authorized to be charged, and a signature authorizing the
+Copyright Office to charge the fees to that account. To protect
+the security of the credit card number, the credit card number
+must not appear on the NIE, since the notice becomes part of
+the public record.
+
+Filers should ensure that sufficient fees accompany an
+NIE. Filing with insufficient fees can delay the effective date
+of notice.
+
+note: Copyright Office fees are subject to change.
+
+For current fees, please check the Copyright Office website
+
+at www.copyright.gov, write the Copyright Office, or call
+
+(202) 707-3000.
+
+Address
+
+Send NIEs to the following address:
+
+GC / I&R
+P .O. Box 70400, Southwest Station
+Washington, DC 20024 USA
+
+Do not mail them to the Copyright Office.
+
+Notice Filed Directly on Reliance Party
+
+The Copyright Office does not provide a form for serving
+an NIE directly on a reliance party. Filers who wish to do
+so should note that the URAA requires additional information for notices served directly on reliance parties compared
+with notices filed with the Copyright Office. Therefore, if a
+filer uses the Copyright Office’s NIE format as a guide for
+
+Copyright Restoration Under the URAA  ·  4
+
+serving notice directly on a reliance party, the notice will be
+incomplete unless additional details are supplied. The URAA
+specifications follow, with italic type inserted to show the
+additional requirements for serving notice directly:
+
+Notices of Intent to Enforce a Restored Copyright served on a reliance party shall be signed by
+the owner or the owner’s agent, shall identify the
+restored work and the work in which the restored
+work is used, if any, in detail sufficient to identify
+them, and shall include an English translation
+of the title, any other alternative titles known to
+the owner by which the work may be identified,
+the use or uses to which the owner objects, and an
+address and telephone number at which the reliance party may contact the owner. If the notice is
+signed by an agent, the agency relationship must
+have been constituted in writing and signed by
+the owner before service of the notice. [Section
+514 of the URAA as found in 17 U.S.C. section
+104a(e)(2)(B) of the URAA]
+
+Direct notice can be served on a reliance party at any time
+after copyright in the work is restored.
+
+Restoration of Copyright Claims
+
+The URAA directs the Copyright Office to provide procedures for registering copyright claims; however, copyright
+owners of restored works need not register their works.
+Copyright law provides that the author or copyright owner
+of a work that is not considered a Berne Convention work
+must register the work or seek registration before he or she
+can bring a copyright infringement action in federal court.⁵
+The owner of rights in a Berne Convention work, however, does not have to register before initiating a copyright
+infringement suit.
+
+Registration of Claim in Berne Convention Work
+
+A claim in a restored work can be registered only in the name
+of the owner(s) of the U. S. copyright on the date that the
+application is submitted, that is, in the name of the owner(s)
+of all U. S. rights in that work. A licensee or party whose ownership extends only to certain exclusive rights in a work is
+not permitted to register a claim in a restored work in his or
+her name.
+
+--- PAGE BREAK ---
+
+Registration Form
+
+Form GATT must be used to register copyright claims in
+works restored under the URAA. To obtain it, go to the Copyright Office’s website at www.copyright.gov/forms or call (202)
+707-9100 and leave a recorded message. Alternatively, write to:
+
+Copyright Office—COPUBS
+
+Publication
+
+The following guidelines may help in determining required
+publication information for restored works for which registration is sought.
+
+•  For works published on or after January 1, 1978: Publication is the distribution anywhere in the world of copies
+or phonorecords of a work to the public by sale or other
+transfer of ownership or by rental, lease, or lending. The
+offering to distribute copies or phonorecords to a group
+of persons for purposes of further distribution, public
+performance, or public display constitutes publication. A
+public performance or display of a work does not in itself
+constitute publication. (17 U.S.C. 101)
+
+•  For works published before January 1, 1978: General publication may be defined as the act of making one or more
+copies of a work available to the general public, usually
+by the sale, placing on sale, or public distribution of one
+or more copies or sound recordings without express or
+implied restrictions as to future use. Limited publication
+may be defined as the act of making a work available to a
+limited audience for a limited purpose and with express
+or implied restrictions as to future use. Recordings of
+musical compositions were not considered copies of
+recorded music before January 1, 1978. A distribution of a
+recording before that date would constitute publication of
+the sound recording but not the music contained on the
+recording.
+
+Registration Fee
+
+The basic registration fee also applies to a series of works
+published during a calendar year under a single title in episodes, installments, or issues. Copyright Office fees are subject to change. For current fees, check the Copyright Office
+website at www.copyright.gov, write the Copyright Office, or
+call (202) 707-3000.
+
+Copyright Restoration Under the URAA  ·  5
+
+Public Record
+
+The information contained in NIEs filed with the Copyright
+Office and in copyright registrations and related documents
+catalogued since January 1, 1978, is available on the Copyright Office website at www.copyright.gov/gatt.html and open
+to the public for searching .
+
+Online Searches
+
+Information accessible on the website includes the title of
+a work or a brief description of it if untitled; an English
+translation of the title; the alternative titles, if any; the name
+of the copyright owner or the owner of an exclusive right;
+the author; the type of work, if given; the date of receipt of
+the NIE in the Copyright Office; the date of publication of
+NIE details in the Federal Register; the rights covered by the
+notice, if given; and the address, telephone, and fax number,
+if given, of the copyright owner. Online records are searchable by the title of a work, the copyright owner or the owner
+of an exclusive right, and the author.
+
+Office Searches
+
+The Copyright Office’s Public Records Reading Room is
+located in Room lm-404 of the James Madison Memorial
+Building of the Library of Congress. Public records of NIEs
+can be searched Monday through Friday, 8:30 am to 5:00 pm,
+eastern time, except federal holidays. Public terminals are
+available.
+
+Upon payment of a fee, the Copyright Office staff will
+search the records and provide a written report. For details,
+see Circular 22, How to Investigate the Copyright Status of a
+Work, or contact:
+
+Copyright Office—RRC
+Washington, DC 20559 USA
+tel: (202) 707-6850 or 1-877-476-0778 (toll free)
+fax: (202) 252-3485
+email: copysearch@copyright.gov
+
+Relationship to NAFTA
+
+Under the North American Free Trade Agreement (NAFTA)
+Implementation Act, some Mexican motion picture owners
+filed timely statements of intent to restore copyright in
+the United States with the Copyright Office.⁶ These works
+continue to enjoy copyright protection, but the protection
+is now governed by section 104a of the Copyright Act as
+
+--- PAGE BREAK ---
+
+amended by the URAA. Copyright owners of these works
+need not file an NIE under the URAA.
+
+However, other works from NAFTA countries that are in
+
+the public domain in the United States, including motion
+pictures for which no NAFTA restoration was sought, are
+subject to copyright restoration under the amended section
+104a. NAFTA works that have not been registered can be
+registered using the URAA registration procedures, including
+GATT forms and deposit preferences.
+
+For Further Information
+
+By Internet
+
+Circulars, announcements, regulations, application forms,
+and other related materials are available from the Copyright
+Office website at www.copyright.gov.
+
+By Telephone
+
+For general information about copyright, call the Copyright
+Public Information Office at (202) 707-3000 or 1-877-476-
+0778 (toll free). Staff members are on duty from 8:30 am to
+5:00 pm, Monday through Friday, eastern time, except federal
+holidays. Recorded information is available 24 hours a day.
+To request paper application forms or circulars, call (202)
+707-9100 or 1-877-476-0778 and leave a recorded message.
+
+By Regular Mail
+
+Write to:
+
+Copyright Office–COPUBS
+
+Copyright Restoration Under the URAA  ·  6
+
+Notes
+
+1. The URAA is contained in Pub. L. No. 103-465, 108 Stat. 4809. See also
+
+House Document 103-316, 103d Congress, 2d Session, September 27,
+
+1994, and Statement of Administrative Action Id. 656, 981. The URAA
+
+amends U. S. copyright law at 17 U.S.C. section 104A, 109 (b). The URAA
+
+also adds a new chapter 11 to title 17 and a new section 2319A to title 18.
+
+2. The United States has bilateral relations with certain countries, some
+
+of which may have extended copyright protection to some of their colo-
+
+nies or territories. In addition, the definition of a “United States work”
+
+has been expanded since the URAA was enacted to include countries
+
+that are members of the Copyright Treaty of the World Intellectual
+
+Property Organization (WIPO) and the WIPO Performances and Phono-
+
+grams Treaty.
+
+3. Works in the public domain because of a failure to comply with one
+
+or more of the formalities required by U. S. copyright law include those
+
+for which the copyright owner may, for example, have published the
+
+work without a proper copyright notice, failed to renew the copyright,
+
+or failed to comply with the manufacturing clause or ad interim provi-
+
+sions of the copyright law.
+
+4. Although a country can become a source country through a presiden-
+
+tial proclamation, only one such proclamation has been issued to date.
+
+That proclamation has to do with Viet Nam.
+
+5. The legislation did not specifically address the question whether a
+
+work from a country that is a member of the WTO but not Berne must
+
+be registered. But one can assume that works that do not come under
+
+the definition of “Berne Convention work” found in 17 U.S.C. 101 would
+
+have to be registered before the owner could initiate a suit.
+
+6. The NAFTA Implementation Act is contained in Pub.L. No. 103-182,
+
+107 Stat. 2057. See 60 Fed. Reg. 8252 (February 13, 1995) for a list of the
+
+works affected by the statements of intent to restore.
+
+--- PAGE BREAK ---
+
+5  Notice of Intent to Enforce (NIE) a Copyright Restored
+
+Under the Uruguay Round Agreements Act (URAA)
+
+1  Title:
+
+  Brief description of work:
+
+  2  English translation of title (if any):
+
+  3  Alternative title(s) (if any):
+
+  4  Type of work:
+
+  5  Name of author(s):
+
+  6  Source country:
+
+  7  Approximate year of publication:
+
+  8  Additional identifying information:
+
+  9  Name of copyright owner:
+
+If you are not the owner of all rights,
+
+specify the rights you own:
+
+11  Address at which copyright owner
+
+can be contacted:
+
+12  Telephone number of owner:
+
+13  Telefax number of owner:
+
+14  Certification and signature:
+
+(If this work does not have a title, state “No title.”)
+
+(for untitled works only)
+
+(e.g., painting, sculpture, music, motion picture, sound recording, book)
+
+(e.g., for movies: director, leading actors, screenwriter, animator; for photographs: subject matter; for books: editor,
+publisher, contributors, subject matter)
+
+(Statements can be filed in the name of the owner of the restored copyright or the owner of an exclusive right therein.)
+
+(e.g., the right to reproduce/distribute/publicly display/publicly perform the work or to prepare a derivative work based
+on the work)
+
+(Give the complete address, including the country, and an “attention” line, or “in care of” name, if necessary.)
+
+I hereby certify that, for each of the work(s) listed above, I am the copyright owner, or the owner of an exclusive right, or the
+
+owner’s authorized agent, the agency relationship having been constituted in a writing signed by the owner before the filing
+
+of this notice, and that the information given herein is true and correct to the best of my knowledge.
+
+Signature:
+
+Name (printed or typed):
+
+As agent for (if applicable):
+
+Date:
+
+note: Notices of Intent to Enforce should be in English, except for the original title, and either be typed or printed
+
+legibly by hand in dark, preferably black, ink. They should be on 8 ½" × 11", (or a4, 210 × 297 mm) white paper of good
+
+quality, with at least a 1" (or 3 cm) margin.
+
+circular 38b  reviewed:  01/2013  Printed on recycled paper
+
+u. s. government printing office: 2013-xxx-xxx ⁄ xx,xxx
+
+U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · www.copyright.gov

@@ -1,0 +1,246 @@
+57
+
+Pre-1972  
+Sound Recordings
+
+This circular provides an introduction1 
+
+to the federal remedies available 
+
+for owners of U.S. pre-1972 sound 
+
+recordings. Topics covered include:
+
+•  Who qualifies as the owner of a  
+
+pre-1972 sound recording
+
+•  What constitutes unauthorized use
+
+•  Exceptions and limitations to 
+
+unauthorized use
+
+•  Remedies available for  
+
+unauthorized use
+
+•  Term
+
+•  Submitting sound recording 
+
+schedules
+
+The Office’s online database of indexed 
+
+pre-1972 sound recording schedules is 
+
+located on the Classics Protection and 
+
+Access Act website.
+
+Sound recordings are the fixation of a series of sounds, 
+often of musical performances. Copyright law treats sound 
+recordings differently depending on whether they were first 
+fixed before, on, or after February 15, 1972. U.S. copyright law 
+protects sound recordings fixed on or after February 15, 1972. 
+For more information, see Copyright Registration of Sound 
+Recordings (Circular 56). Additionally, U.S. sound recordings 
+fixed prior to February 15, 1972 (pre-1972 sound recordings) 
+are protected, but in a slightly different way. While owners of 
+pre-1972 U.S. sound recordings have the same remedies for 
+unauthorized use as all copyright owners, there are unique 
+considerations for pre-1972 sound recordings regarding own-
+ership, term of protection, unauthorized use, and establishing 
+full remedies. This circular focuses on the protection of U.S. 
+pre-1972 sound recordings, provides an introduction to these 
+concepts, and links to additional resources.
+
+note: The Uruguay Round Agreements Act (URAA) granted 
+copyright protection in the United States to certain for-
+eign pre-1972 sound recordings. Any copyright protection 
+afforded to foreign pre-1972 sound recordings runs parallel 
+to protection granted to U.S. pre-1972 sound recordings. For 
+more information about the protection of foreign pre-1972 
+sound recordings, see Copyright Restoration Under the URAA 
+(Circular 38B).
+
+note: A sound recording is distinct from a musical composi-
+tion for copyright purposes. For more information, see Copy-
+right Registration of Music Compositions and Sound Recordings 
+(Circular 56a).
+
+wcopyright.govCIRCULAR Ownership of a Pre-1972 Sound Recording
+
+The rights owner of a pre-1972 sound recording is the person who, on October 10, 2018, had the 
+exclusive right to reproduce a sound recording under the laws of any U.S. state.
+
+A rights owner may also be a person or entity who acquired these rights from the original owner 
+
+after October 10, 2018. A person may acquire ownership by any means of conveyance or by opera-
+tion of law, including by will or passed as personal property by the applicable laws of intestate suc-
+cession. When ownership has not previously been transferred voluntarily, the rights of the pre-1972 
+sound recording cannot be involuntarily transferred.
+
+Unauthorized Use
+
+An unauthorized use occurs when the pre-1972 sound recording is reproduced, distributed, adapted, 
+or publicly performed by means of a digital audio transmission without the authorization of the 
+rights owner.
+
+The user of a pre-1972 sound recording, however, does not need authorization from the owner if 
+
+engaged in activity that:
+
+•  constitutes fair use;
+
+• 
+
+• 
+
+• 
+
+• 
+
+falls under the libraries and archives exception;
+
+falls under the first sale doctrine;
+
+is a specific statutorily defined public performance or ephemeral copy; or
+
+is covered by a statutory license.
+
+In addition, the law provides an exception for engaging in certain noncommercial uses of pre-
+1972 sound recordings that are not being commercially exploited. To qualify for this exemption, a 
+user must file a notice of noncommercial use with the Copyright Office after conducting a good 
+faith reasonable search and determining the sound recording is not being commercially exploited, 
+and the rights owner of the sound recording must not object to the use within ninety days of the 
+notice being indexed in the Copyright Office’s public record. For more information, including how 
+to file a notice of noncommercial use, see the Copyright Office’s website.
+
+Term
+
+Remedies are available to rights owners of pre-1972 sound recordings until ninety-five years after the 
+year of first publication of the recording, subject to additional periods. These additional periods are:
+
+•  For recordings first published before 1923, the additional time period ends on December 31, 2021.
+
+•  For recordings first published from 1923 through 1946, the additional time period is five years 
+
+after the general ninety-five-year term.
+
+•  For recordings first published from 1947 through 1956, the additional time period is fifteen 
+
+years after the general ninety-five-year term.
+
+•  For all remaining recordings first fixed prior to February 15, 1972, the additional transition 
+period shall end on February 15, 2067. Unpublished sound recordings fall into this category.
+
+2
+
+Pre-1972 Sound RecordingsSecuring Remedies
+
+The owner of a pre-1972 sound recording is eligible for the same remedies for unauthorized use as 
+copyright owners: actual damages, statutory damages, attorneys’ fees, and injunctive relief. Rights 
+owners are automatically eligible for actual damages and injunctive relief; however, to be eligible for 
+statutory damages and attorneys’ fees, U.S. rights owners must file a schedule with the Copyright 
+Office listing their pre-1972 sound recordings. 
+
+The Copyright Office then indexes the schedule into its online database, which sets the “index 
+date.” This date governs eligibility for statutory damages and attorneys’ fees, as these remedies are 
+only available for unauthorized uses that have occurred more than ninety days after indexing. While 
+this is the general rule, the next two sections highlight how the timing of statutory damage and 
+attorneys’ fees eligibility can be affected by amendments, supplements, and a notice of contact infor-
+mation filed by a transmitting entity.
+
+Full instructions on submitting a schedule are available on the Office’s website. In brief, to file a 
+
+schedule you must:
+
+1. 
+
+complete a schedule using the Office’s template, including at least the owner’s name, title, and 
+featured artist for each recording. If known and practicable, include the International Stan-
+dard Recording Code (ISRC);
+
+2.  complete a cover sheet;
+
+3.  calculate payment. For current fees, see Copyright Office Fees (Circular 4).
+
+4. 
+
+indicate payment by credit card or deposit account; and
+
+5.  email the completed materials to pre72schedules@copyright.gov.
+
+Amendments, Supplements, and Deletions
+
+A schedule may be corrected or supplemented if the information was incorrect or omitted at the 
+time it was submitted to the Office. The operative index date for a given pre-1972 recording will 
+change only in the event that information in one of the statutorily required fields (title, featured 
+artist(s), and rights owner) is changed or amended. 
+
+In limited situations, a rights owner may request that the Copyright Office delete a pre-1972 
+sound recording from its database. The Office may delete a pre-1972 sound recording if (1) there 
+was a substantive defect about the sound recording in the pre-1972 schedule when it was filed; or 
+(2) upon a showing of good cause, at the discretion of the Office. The Office will keep a record of 
+removed pre-1972 sound recordings and a timestamp of when each deletion occurs.
+
+Once the Copyright Office removes a pre-1972 sound recording from the Office’s database, it is 
+no longer considered “indexed” for purposes of eligibility to recover statutory damages and attor-
+neys’ fees for the unauthorized use of that sound recording, or included in the Office’s database to 
+prevent a user from taking advantage of the noncommercial use exception.
+
+3
+
+Pre-1972 Sound RecordingsNotices of Contact Information and Transmitting Entities
+
+On or after October 16, 2018 and before April 10, 2019, entities publicly performing pre-1972 sound 
+recordings by means of digital audio transmission as of October 11, 2018, could file notices of 
+contact information with the Copyright Office. If a transmitting entity filed a valid notice of contact 
+information during this time, to become eligible for statutory damages, a rights owner must send 
+the entity a notice that it is not legally authorized to use the pre-1972 sound recording. Statutory 
+damages then become available for any unauthorized use that occurs at least 90 days after receipt of 
+notice. For more information, see the Office’s website.
+
+note
+1. This circular is intended as an introduction to the legal remedies for owners of U.S. pre-1972 sound 
+recordings. The authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 
+of the United States Code. Copyright Office regulations are codified in Title 37 of the Code of Federal 
+Regulations. Copyright Office practices and procedures are summarized in the third edition of the 
+Compendium of U.S. Copyright Office Practices, cited as the Compendium. The copyright law, regula-
+tions, and the Compendium are available on the Copyright Office website at www.copyright.gov.
+
+4
+
+Pre-1972 Sound RecordingsFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 57  REVISED: 03/2021
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

@@ -1,0 +1,767 @@
+64
+
+Copyright Registration of
+Secure Tests and Test Items
+
+This circular provides general 
+
+information about registering a 
+
+discrete secure test or a group  
+
+of secure test items with the  
+
+U.S. Copyright Office.1
+
+For the purposes of copyright registration, a secure test is a 
+nonmarketed test administered under supervision at specified 
+centers where test takers are assembled on scheduled dates, 
+and where all copies of the test are accounted for and either 
+destroyed or returned to restricted locked storage or secure 
+electronic storage following each administration. 
+
+note: As discussed below, the Office has established an 
+interim procedure allowing some tests to be considered a 
+secure test even if they are administered online instead of 
+in-person at specified centers. 
+
+The Office has established two special accommodations 
+for registering the copyrightable authorship in a secure test: 
+(1) a procedure for registering a discrete secure test and (2) a 
+separate procedure for registering a group of secure test items 
+(that is, test items prepared for use in a secure test). These 
+procedures provide a means for registering a secure test or a 
+group of secure test items while protecting the confidential 
+nature of these works.
+
+While the administration of any test involves some level 
+of security, only a fraction of tests and test items are eligible 
+for these procedures. The Office reserves discretion to 
+determine whether any particular test or group of test items 
+meets all of the eligibility requirements for these procedures. 
+To register a work that does not satisfy these requirements, 
+applicants must submit one complete, unredacted copy of 
+the work under normal (that is, non-secure test) registration 
+procedures.
+
+note: A claim involving a secure test or a group of secure 
+test items will be reviewed in the order it is received and will 
+not be given priority over other claims with an earlier filing 
+date. If you would like expedited review of your application, 
+you may request special handling. For more information, see 
+Special Handling (Circular 10).
+
+wcopyright.govCIRCULAR Key Characteristics of a Secure Test
+
+A test is considered “nonmarketed” if the copies are not sold, but instead are distributed and used in 
+such a manner that the test sponsor or publisher retains ownership and control of the copies. A test is 
+administered “under supervision” when test proctors or the equivalent supervise the administration 
+of the test. A “specified center” is a place where test takers are physically assembled at the same time.
+Tests taken on a computer may satisfy the definition of a secure test, but only if the test takers are 
+physically assembled at a test center on scheduled dates and the test is administered under supervision.
+
+Examples of secure tests include high school equivalency tests; tests used for admission to 
+an educational institution; tests used to grant advanced credit for undergraduate or graduate 
+coursework; and tests used to determine eligibility for scholarships, entry into state or government-
+licensed trades or professions, and professional certifications.
+
+note: The Office has issued an interim rule allowing some tests that are administered online to 
+qualify as a secure test. Specifically, a test that was normally administered at specified centers prior 
+to May 8, 2020, that is now being administered online may be eligible for secure test examination, 
+provided the test administrator employs measures to maintain the security and integrity of the test 
+that it reasonably determines to be substantially equivalent to the security and integrity provided 
+by in-person proctors. For more information, see the Secure Tests Rulemaking webpage. 
+
+Registration of a Secure Test Compared To Group Registration of Secure Test Items
+
+A secure test consists of a specific set of questions, answers, and other material that has been selected 
+and arranged in a particular manner. Often these items are stored in—or pulled from—a database 
+or test bank. If the specific set of test items is administered under supervision at specified centers on 
+scheduled dates, the set may be registered as a discrete secure test.
+
+While a database or test bank does not qualify as a “secure test,” the Office has created a group 
+registration option allowing registration of individual test items as separate copyright-protected 
+works if certain requirements have been met. For purposes of registration, a “test item” comprises 
+a question (or “stem”), the correct answer to that question, any incorrect answer choices (or 
+“distractors”), and any associated material, such as a narrative passage or diagram. A narrative, 
+diagram, or other prefatory material, followed by multiple sets of related questions and correct and 
+incorrect answers are considered a single test item.
+
+Test items may be stored in a database or test bank, but in all cases, they must be prepared for use 
+
+in a specified secure test. Specifically, the items may be prepared for use in the same secure test or 
+multiple versions of the same test.
+
+To compare the options for registering a secure test and a group of secure test items, please see 
+
+the table at the end of this circular.
+
+The Scope of a Registration for a Secure Test or a Group of Secure Test Items
+
+A registration for a discrete secure test generally covers the authorship involved in creating the test 
+as a whole. In other words, it may cover the authorship involved in selecting, coordinating, and/
+or arranging the individual questions, answers, and other test items that make up the test, if the 
+selection, coordination, and/or arrangement of those items is sufficiently creative.
+
+2
+
+Copyright Registration of Secure Tests and Test ItemsA registration for a secure test may also cover the individual items within the test, but only if the 
+copyright claimant owns all of the exclusive rights in those items as of the date the claim is received 
+and if they have not been previously published or previously registered.
+
+A group registration of secure test items covers each individual item in the group, but only if 
+the item is determined to be copyrightable in itself. Claims in the selection, coordination, and/or 
+arrangement of the group as a whole are not permitted, because a group registration is merely an 
+administrative classification created solely for the purpose of registering multiple secure test items as 
+separate copyright-protected works with one application and filing fee.
+
+Overview of the Registration Process
+
+There are two stages to the registration process for secure tests and groups of secure test items. 
+To register a secure test or a group of secure test items, applicants must first submit an online 
+application and filing fee and upload a brief questionnaire and a redacted copy of the work(s). An 
+examiner will review the entire submission to confirm the work is a secure test or a group of secure 
+test items prepared for use in a secure test and to identify the type of materials you should present 
+to the Office. If the work(s) appear to be eligible for examination, the examiner will contact you to 
+schedule an appointment to present an unredacted copy of the actual test or the actual test items 
+(and the other materials discussed below) to the Office.
+
+Online Application and Preliminary Examination
+
+To begin the registration process for a secure test or a group of secure test items, you need to submit 
+a Standard Application, questionnaire, filing fee, and redacted deposit through the Office’s electronic 
+registration system.
+
+The Application
+When completing the application for a secure test, you should include the term “SECURE TEST” 
+in the “Title” field. When completing an application for a group of secure test items, you should 
+provide a title for the group in the “Title of this work” field. The title should include the term 
+“GRSTQ” followed by the name of the secure test that contains or is expected to contain those items. 
+(Upon request, the examiner will remove the terms “SECURE TEST” or “GRSTQ” from the title 
+field before the claim is approved.)
+
+Examples:
+
+Application to register a secure test: “SECURE TEST: February 2017 LSAT,” “SECURE TEST: 
+FINRA Series 7 Exam for the 3rd quarter of 2017,” or “SECURE TEST: GRE August 2017.”
+
+Application to register a group of secure test items: “GRSTQ: Test items for February 2017 
+LSAT,” “GRSTQ: Test items added to the FINRA Series 7 Exam item bank in the 3rd quarter of 
+2017,” or “GRSTQ: SAT reading comprehension test items.”
+
+When examining a discrete secure test, the examiner will review the test as a whole to determine 
+whether the work is eligible for the secure test procedure and whether the test contains a sufficient 
+amount of creative expression. When completing the online application you may assert a claim in 
+
+3
+
+Copyright Registration of Secure Tests and Test Itemsthis type of authorship by stating “compilation of test items” in the “Author Created” field. If you 
+also want to assert a claim in the individual test items, you may check the box marked “text” or 
+you may state “test items” in the field marked “Other.” If you want to register a revised version of a 
+preexisting test, you may state “revised compilation of test items” in the “Author Created” and “New 
+Material Included” fields.
+
+When applying to register a group of secure test items using one application, filing fee, 
+
+questionnaire, and deposit, keep in mind the following requirements:
+
+•  The test items must have been prepared for use in a specified secure test. A database or test 
+
+bank does not qualify as a “secure test” in and of itself.
+
+•  The test items in the group must either be all published or all unpublished. The Copyright 
+Office will not accept a claim containing both published and unpublished test items in the 
+same group.
+
+•  If the test items are published, they must have been published within a three-calendar-month 
+period as part of the same secure test or multiple versions of the same test. On the application, 
+provide the earliest date of publication for the items in the group.
+
+•  The test items must have been created by the same author or coauthors.
+
+•  The copyright claimant must be the same for all of the test items.
+
+Under this registration accommodation, each test item constitutes its own copyright-protected work. 
+Currently, there is no limit to the number of test items that may be included in each group registration, 
+as long as each work meets the relevant requirements for this procedure.
+
+The Questionnaire
+You must complete and upload a brief questionnaire about the work(s), which is available on the 
+Office’s website. The file name for the questionnaire should include the term “Questionnaire” and 
+the case number assigned to the claim. The case number is a twelve digit number automatically 
+generated by the electronic registration system; it appears near the top of each screen of the online 
+application. When registering a group of secure test items, indicate the number of test items being 
+registered on the questionnaire.
+
+The Deposit
+You also must upload a separate file containing a redacted copy of the secure test or the group of 
+secure test items; the methods of redaction are described in more detail below. For a group of secure 
+test items, number each test item appearing in the deposit. The file name for the redacted copy 
+should include the title(s) you provide in response to question 1 in the questionnaire.
+
+note: Do not upload or mail an unredacted copy of the actual test or the actual test items to the 
+Office.
+
+Only One Secure Test Per Application
+
+You may only file one secure test with each application. In other words, you must file a separate 
+application, pay a separate filing fee, and upload a separate questionnaire for each secure test you 
+wish to register. A separate application, fee, and questionnaire are also required when registering 
+multiple versions of the same test. An applicant may not use the secure test procedures to register 
+multiple tests together as a unit of publication, or a group of updates or revisions to a database.
+
+4
+
+Copyright Registration of Secure Tests and Test ItemsExamples:
+
+•  A test publisher submits a secure test containing three test booklets. The first booklet contains 
+reading comprehension questions. The second contains math questions. The third contains 
+essay questions. All three booklets are distributed to test takers at specified test centers on the 
+same date. Each test taker receives the same booklets. The three booklets may be registered as 
+one secure test using one application, because they are always administered to test takers as 
+part of the same secure test.
+
+•  A nursing program submits five test booklets that are used to determine eligibility for a 
+
+professional certification. Test takers complete a five-week training program. At the end of each 
+week, test takers report to a specified test center where they are tested on what they learned that 
+week. Each of the five test booklets correspond to one week of learning. The five test booklets 
+are considered five separate tests. A separate application must be submitted for each booklet.
+
+•  A state medical board creates a test consisting of 100 multiple choice questions. To prevent test 
+takers from copying each other, the board’s employees create ten booklets each containing a 
+different organization and arrangement of the same 100 test questions. If the board submits an 
+application to register one booklet, the registration would cover the copyrightable authorship 
+contained in the test questions and the specific selection and arrangement of those questions 
+within that booklet (if it is sufficiently creative). The board may register a claim in the selection 
+and arrangement of the questions for the nine other booklets by filing a separate application 
+for each version; authorship in the questions themselves will be covered by the registration for 
+the first booklet but will not be covered by the registrations for the nine other booklets.
+
+Examination of Unredacted Material
+
+The Office has created a procedure that allows for the remote examination of secure tests and groups 
+of secure test items through an online video conference, which is discussed below. 
+
+note: Applicants may opt for an in-person examination instead of a video conference. However, 
+this will cause delays in scheduling the appointment. In addition, the amount of time needed to 
+conduct an in-person examination may be longer than a video conference, which will require a 
+higher secure test examination fee.
+
+Prior to the Appointment
+
+The examiner will contact the applicant to schedule a remote examination and select a mutually 
+convenient date and time for the appointment. The applicant will be responsible for setting up an 
+online video conference and sending the meeting information to the examiner. The Zoom platform 
+is preferred, but other video conferencing platforms are acceptable if they can perform all of the 
+functions described below.
+
+The day before the appointment, you must log into the electronic registration system and 
+
+upload a signed declaration confirming that the unredacted copy you will present during the video 
+conference is identical to the redacted copy you previously submitted. The examiner will send you 
+an email that explains how to do this. You may obtain a copy of this declaration from the Office’s 
+website. The declaration must contain a typed or handwritten signature, but it does not need to be 
+notarized or witnessed.
+
+5
+
+Copyright Registration of Secure Tests and Test ItemsDuring the Appointment
+
+On the day of the appointment, the applicant and the examiner will log into the video conferencing 
+platform at the appropriate time. All participants must use an electronic device that has a camera 
+and microphone so that the applicant and examiner may see and communicate with each other.  
+The applicant must share his or her screen with the examiner and must present (1) an unredacted 
+copy of the actual test that is administered to test takers or an unredacted copy of the actual test 
+items included in the group registration and (2) a copy of the redacted version of the secure test or 
+secure test items that was uploaded to the electronic registration system. The applicant must use 
+software that allows the examiner to view the documents side by side and scroll through them while 
+keeping the pages aligned, and the examiner must be able to navigate through the documents with 
+his or her keypad or mouse.
+
+After the Appointment
+
+To complete your registration, you must pay the nonrefundable secure test examining fee. This 
+hourly fee will be calculated based on the amount of time that it takes to examine the secure test 
+or the group of test items during the video conference. This fee is in addition to the filing fee you 
+submitted with the online application.
+
+After the video conference, the examiner will send you a secure test appointment receipt that will 
+
+specify the total fee due and provide instructions for how to submit the payment. For current fees, 
+see Copyright Office Fees (Circular 4) or call (202) 707-3000 or 1-877-476-0778 (toll-free).
+
+After your payment is processed, the examiner will make the final determination about whether 
+
+your secure test or group of secure test items are eligible for this special accommodation and 
+whether the work(s) contain a sufficient amount of creative authorship. If all of the requirements 
+for registration have been met, the Copyright Office will register your claim and mail a certificate of 
+registration to the address provided in the application. The certificate will specify the date that the 
+video conference occurred. The effective date of the registration will be based on the date that the 
+Office received—in proper form—the application, the filing fee, and the redacted copy of the test 
+that was uploaded to the electronic registration system.
+
+The signed declaration, the redacted copy you uploaded to the electronic registration system, and 
+
+the secure test appointment receipt will be retained in the Copyright Office’s records and may be 
+made available to the public.
+
+The applicant will be responsible for maintaining a copy of the unredacted deposit in the event 
+it is needed for litigation or other purposes. The metadata for the file that contains the unredacted 
+deposit must include the date of the video conference and the case number that was assigned to the 
+claim by the electronic registration system.
+
+6
+
+Copyright Registration of Secure Tests and Test ItemsExample Redaction for a Secure Test
+
+unredacted sample
+
+THE TEST COMPANY
+
+  Question 1:    Bob has $90.00. He spent $14.00. 
+
+How much does he have left?
+
+A.   $88
+B.  $76
+C.  $57
+D.   $73
+
+  Question 2:  Which of the boxes below contains  
+  a photo of the United States Capitol? 
+
+A.
+
+B.
+
+TEST BOOklET
+
+C.
+
+D.
+
+PAgE 3  |  TEST BOOklET
+
+redacted sample
+
+THE TEST COMPANY
+
+  Question 1:    Bob has $90.00. He spent $14.00. 
+
+  Question 1:    Bob has $90.00. He spent $14.00. 
+
+How much does he have left?
+
+How much does he have left?
+
+A.   $88
+B.  $76
+C.  $57
+D.   $73
+
+A.   $88
+B.  $76
+C.  $57
+D.   $73
+
+  Question 2:  Which of the boxes below contains  
+  a photo of the United States Capitol? 
+
+  Question 2:  Which of the boxes below contains  
+  a photo of the United States Capitol? 
+
+A.
+
+B.
+
+A.
+
+B.
+
+TEST BOOklET
+
+C.
+
+D.
+
+C.
+
+D.
+
+PAgE 3  |  TEST BOOklET
+
+PAgE 3  |  TEST BOOklET
+
+Cover is unredacted. 
+
+Page numbers and question numbers are unredacted. Redacted area with 
+narrow vertical or diagonal strip of visible content.
+
+7
+
+Copyright Registration of Secure Tests and Test Items 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example Redaction for a Secure Test Item
+
+Bob has $90.00. He spent $14.00. 
+How much does he have left?
+
+Bob has $90.00. He spent $14.00. 
+How much does he have left?
+
+Bob has $90.00. He spent $14.00. 
+How much does he have left?
+
+A.  $88
+B.  $76
+C.  $57
+D.  $73
+
+A.  $88
+B.  $76
+C.  $57
+D.  $73
+
+A.  $88
+B.  $76
+C.  $57
+D.  $73
+
+Unredacted test item 1
+
+Redacted test item Method 1
+
+Redacted test item Method 2 
+
+Unredacted test item 1 was redacted using the following methods:
+
+Method 1:
+
+•  All question information except the first four and last four characters (including spaces) are redacted.
+
+•  The letter assigned to each answer choice and the first character of each answer choice are exposed.
+
+Method 2:
+
+•  The item is broken into three word groupings, with the two longest words redacted.
+
+•  If a grouping only has two words, one word is redacted.
+
+•  With similar length words, the earliest appearing word is redacted.
+
+•  Punctuation and spaces are not redacted.
+
+•  The letter assigned to each answer choice and the first character of each answer choice are exposed.
+
+Who are the first five presidents 
+of the United States of America?
+
+A.   Andrew Jackson, Thomas 
+
+Jefferson, Abraham Lincoln, 
+George Washington,  
+Alexander Hamilton
+
+B.   George Washington, John 
+Adams, Thomas Jefferson, 
+James Madison, James 
+Monroe
+
+C.   Zachary Taylor, Millard  
+Fillmore, James Monroe, 
+John Adams, John Tyler
+
+D.   Alexander Hamilton, 
+
+Dwight Eisenhower, George 
+Washington, John Adams, 
+James Polk
+
+Who are the first five presidents 
+of the United States of America?
+
+Who are the first five presidents 
+of the United States of America?
+
+A.   Andrew Jackson, Thomas 
+
+A.   Andrew Jackson, Thomas 
+
+Jefferson, Abraham Lincoln, 
+George Washington,  
+Alexander Hamilton
+
+Jefferson, Abraham Lincoln, 
+George Washington,  
+Alexander Hamilton
+
+B.   George Washington, John 
+Adams, Thomas Jefferson, 
+James Madison, James 
+Monroe
+
+C.   Zachary Taylor, Millard  
+Fillmore, James Monroe, 
+John Adams, John Tyler
+
+B.   George Washington, John 
+Adams, Thomas Jefferson, 
+James Madison, James 
+Monroe
+
+C.   Zachary Taylor, Millard  
+Fillmore, James Monroe, 
+John Adams, John Tyler
+
+D.   Alexander Hamilton, 
+
+D.   Alexander Hamilton, 
+
+Dwight Eisenhower, George 
+Washington, John Adams, 
+James Polk
+
+Dwight Eisenhower, George 
+Washington, John Adams, 
+James Polk
+
+Unredacted test item 2
+
+Redacted test item Method 1
+
+Redacted test item Method 2 
+
+Unredacted test item 2 was redacted using the following methods (in addition to the methods used to 
+redact Test item 1):
+
+Method 1:
+
+•  All answer information except the first four and last four characters (including spaces) are redacted.
+
+Method 2:
+
+•  The answers are broken into four word groupings, with the two longest word groupings redacted.
+
+8
+
+Copyright Registration of Secure Tests and Test ItemsSecure Test
+
+Group of Secure Test Items
+
+Definition
+
+A secure test is a nonmarketed test 
+administered under supervision at 
+specified centers where test takers 
+are assembled on scheduled dates 
+and where all copies of the test are 
+accounted for and either destroyed or 
+returned to restricted locked storage 
+following each administration.
+
+A test item comprises a question 
+(or “stem”), the correct answer to 
+that question, any incorrect answer 
+choices (or “distractors”), and
+any associated material, such as a 
+narrative passage or diagram, and 
+each item shall be considered one 
+work. A single narrative, diagram, or 
+other prefatory material, followed by 
+multiple sets of related questions and 
+correct or incorrect answers, shall 
+together be considered one item.
+
+Appropriate 
+application
+
+What can be 
+registered
+
+•  Submit a Standard Application 
+
+•  Submit a Standard Application 
+
+through the electronic 
+registration system.
+
+through the electronic 
+registration system.
+
+•  Select the option for “literary 
+
+•  Select the option for “literary 
+
+work.”
+
+work.”
+
+•  *Begin title with “SECURE TEST.”
+
+•  *Begin title with “GRSTQ.”
+
+Authorship in the text of the 
+individual test items that have been 
+prepared for use in a secure test.
+
+(Claims in the overall selection, 
+coordination, and/or arrangement 
+of the individual test items are not 
+permitted.)
+
+1.  Authorship in the text of the 
+
+individual test items appearing 
+within a secure test, but only if the 
+claimant owned all the exclusive 
+rights in those items when the 
+application was submitted and 
+if those items have not been 
+previously published or registered 
+with the Office.
+
+2. Authorship in the selection, 
+
+coordination, and/or 
+arrangement of the specific items 
+included within one version of 
+a secure test (that is, one test 
+containing a specific set of test 
+items organized and arranged in a 
+particular manner).
+
+9
+
+Copyright Registration of Secure Tests and Test ItemsSecure Test
+
+Group of Secure Test Items
+
+Number of 
+works per 
+application
+
+The claim may include one version 
+of a discrete secure test and the 
+individual test items included within 
+that version if the requirements 
+above have been met.
+
+Publication 
+requirements
+
+The secure test may be published or 
+unpublished.
+
+Author 
+requirements
+
+The secure test and the individual 
+items included within the test may be 
+created by different authors.
+
+Claimant 
+requirements
+
+If you wish your registration to 
+cover any of the individual test items 
+included within the secure test, those 
+items must be owned by the claimant 
+as of the date the claim is received.
+
+Currently there is no limit on the 
+number of secure test items that may 
+be included within each claim.
+
+The secure test items in the group 
+must either be all published or all 
+unpublished.
+
+If published, all the test items must 
+have been published within the same 
+three-calendar-month period.
+
+All secure test items in the group 
+must be created by the same author 
+or coauthors. The author may create 
+the items as a work made for hire.
+
+All secure test items must be owned 
+by the same claimant.
+
+Deposit 
+requirements
+
+Upload a redacted copy of the secure 
+test.
+
+Upload a redacted copy of each 
+secure test item in the group.
+
+Present a redacted and unredacted 
+copy of the actual secure test during 
+the examination.
+
+Present a redacted and unredacted 
+copy of the actual secure test items 
+during the examination.
+
+10
+
+Copyright Registration of Secure Tests and Test Itemsnote
+1. This circular is intended as an introduction to the U.S. Copyright Office’s practices and procedures 
+for registering secure tests and groups of secure test items. The authoritative source for U.S. copyright 
+law is the Copyright Act, codified in Title 17 of the United States Code. Copyright Office regulations 
+are codified in Title 37 of the Code of Federal Regulations. Copyright Office practices and procedures 
+are summarized in the third edition of the Compendium of U.S. Copyright Office Practices, cited as the 
+Compendium. The copyright law, regulations, and the Compendium are available on the Copyright 
+Office website, copyright.gov.
+
+11
+
+Copyright Registration of Secure Tests and Test ItemsFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message.
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 64  REVISED: 06/2023 
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

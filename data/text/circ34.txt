@@ -1,0 +1,478 @@
+34
+
+Multiple Works
+
+In most cases, the Copyright Office 
+
+requires each work of authorship to be 
+
+registered on a separate application. 
+
+There are, however, limited exceptions 
+
+to this rule. This circular introduces 
+
+the Office’s practices and procedures 
+
+for registering multiple works on one 
+
+application. It covers
+
+•  Collective works
+
+•  Group registrations
+
+•  Works packaged as a single unit
+
+As a general rule, a copyright registration covers an individual 
+work, and you must prepare a separate application and 
+submit a separate filing fee and deposit for each work you 
+want to register. There are, however, some limited exceptions 
+to this rule:
+
+•  When a number of separate and independent contribu-
+tions are assembled into a collective whole (collective 
+works)
+
+•  When multiple unpublished works, serials, newspapers, 
+newsletters, contributions to periodicals, photographs, 
+database updates, or secure test items meet Copyright 
+Office requirements for registration on one application 
+(group registrations)
+
+•  When multiple works are physically bundled or pack-
+aged together and first published as an integrated unit 
+(unit of publication)
+
+•  When the copyright claimant for a sound recording and 
+the musical, literary, or dramatic work embodied in the 
+recording is the same individual or organization
+
+If you choose to register multiple works under one of these 
+
+exceptions and the Copyright Office determines that the 
+works do not qualify, the Office will refuse your application, 
+and you will be required to submit a separate application and 
+filing fee for each individual work.
+
+This circular provides general information on the require-
+ments for registering multiple works with one application and 
+one filing fee.1 For more information, see chapter 1100 of the 
+Compendium of U.S. Copyright Office Practices.
+
+Collective Works 
+
+A collective work is a compilation in which a number of 
+contributions, constituting separate and independent  
+works in themselves, are assembled into a collective whole. 
+
+wcopyright.govCIRCULAR The “authorship” in a collective work comes from the original selection, coordination, and arrange-
+ment of the independent works included in the collective work.
+
+Under the Copyright Act, a collective work is considered one work for purposes of registration. 
+A registration for a collective work covers the copyrightable authorship in the selection, coordina-
+tion, or arrangement of the work. A registration for a collective work covers the collective work as a 
+whole and may cover the individual works contained in it if (1) the collective work and the individ-
+ual works are owned by the same party, (2) the individual works have not been previously published 
+or previously registered, and (3) the individual works are not in the public domain.
+For purposes of registration, representative examples of collective works include
+
+•  A newspaper, magazine, or other periodical containing multiple articles, illustrations,  
+
+and photographs
+
+•  An anthology containing multiple poems, short stories, or essays 
+
+•  An online encyclopedia containing multiple articles, entries, or postings on various topics
+
+•  An album containing multiple sound recordings that embody multiple musical works
+
+•  A DVD containing a motion picture, theatrical trailers, deleted scenes, and audio commentary 
+
+from the director
+
+A collective work is not
+
+•  A single unified work that contains separate parts or elements, such as  
+
+a novel consisting of multiple chapters  
+a song with melody, harmony, and rhythm 
+a drawing in pencil and ink 
+a carpet design of overlapping figures and colors 
+an architectural work or technical drawing with multiple illustrations of the same object 
+an illustrated children’s book created by one author 
+
+•  A unified work created by multiple authors, such as 
+
+a musical work created by a singer and songwriter in collaboration with each other 
+a musical with script, music, and lyrics by two or more authors
+ a motion picture with screenplay, soundtrack, directing, acting, cinematography, costume design, 
+visual effects, or other production elements contributed by multiple authors 
+a children’s book created by a writer and illustrator in collaboration with each other 
+a textbook
+
+•  A single contribution to a collective work
+
+Contribution to a Collective Work 
+
+A contribution to a collective work is a separate and independent work that is included within a 
+collective work. A contribution to a collective work can be registered separately from the collective 
+work or in combination with the collective work if certain requirements are met.
+Examples of separate and independent works within a collective work include
+
+•  An article within a periodical
+
+•  A song included on an album
+
+•  Separate articles and photographs that appear in a newspaper
+
+2
+
+Multiple WorksRegistration of a Collective Work with Its Individual Works
+
+A collective work and its individual works can be registered on one application with one filing fee 
+only if
+
+•  Each work within the collective work contains a sufficient amount of original authorship;
+
+•  The copyright in the collective work and the copyright in the individual works is owned by the 
+
+same party; and
+
+•  The individual works have not been previously published or previously registered.
+
+For example, an album that contains multiple sound recordings that embody multiple musical 
+compositions is considered a collective work for purposes of registration. Typically, the party that 
+owns the copyright in the sound recordings also owns the copyright in the album, because that 
+party is usually responsible for creating the album as a whole. If that is the case, the album and the 
+multiple sound recordings can be registered together on one application as a collective work (assum-
+ing the recordings have not been published or registered before).
+
+If the copyright owner of the album owns both the sound recordings and the musical composi-
+tions that are embodied in each recording, then the album, the musical compositions, and the sound 
+recordings can be registered together on one application as a collective work (assuming the compo-
+sitions and the recordings have not been published or registered before).
+
+By contrast, if the copyright owner of the album does not own the copyright in the musical com-
+positions (or vice versa), or if the compositions have been previously published, then each composi-
+tion must be registered separately as an individual contribution to the collective work.
+
+If you submit multiple works with one application, and the Copyright Office determines that the 
+
+works can be registered together as a collective work, the Office may add an annotation to the cer-
+tificate, such as “basis for registration: collective work.” As a general rule, the Office will not annotate 
+the certificate if you expressly assert a claim in the “collective work” or the “compilation.”
+
+Scope of a Registration for a Collective Work
+
+A collective work is considered a single work for purposes of calculating statutory damages; 
+therefore, registering a collective work together with the individual works contained in it may have 
+important consequences in an infringement action. Section 504(c)(1) of the Copyright Act states that 
+a copyright owner may be entitled to recover “an award of statutory damages for all infringements 
+involved in the [infringement] action, with respect to any one work,” and “[f]or the purposes of this 
+subsection, all the parts of a compilation . . . constitute one work.” The statute also states that a col-
+lective work is, by definition, a compilation. Thus, when you register a number of individual works 
+as part of a collective work, you may be entitled to seek one award of statutory damages for the col-
+lective work as a whole rather than a separate award for each individual work, even if the defendant 
+infringed all of those works.
+
+Group Registration
+
+The Copyright Office has established an administrative procedure that allows you to register a group 
+of related works in certain limited categories with one application and one filing fee. This procedure 
+is known as a “group registration.”
+
+A group registration covers all the works that are included within the group, provided that you 
+
+comply with specific requirements.
+
+3
+
+Multiple WorksThe Office currently offers group registration options for the following types of works:
+
+•  Unpublished works
+
+•  Serials
+
+•  Newspapers
+
+•  Newsletters
+
+•  Contributions to periodicals
+
+•  Published photographs
+
+•  Unpublished photographs
+
+•  Database updates and revisions
+
+•  Questions, answers, and other items prepared for use in a secure test
+
+See below for more information regarding group registration of unpublished works. For 
+
+information regarding group registration of newspapers, see Copyright Registration of Newspapers 
+(Circular 62A). For information regarding group registration of contributions to periodicals, see 
+Copyright Registration of Contributions to Periodicals (Circular 62c).For information regarding 
+questions, answers, and other items prepared for use in a secure test, see Copyright Registration of 
+Secure Tests and Secure Test Items (Circular 64). For information about the specific requirements for 
+the remaining group registration options, see chapter 1100 of the Compendium of U.S. Copyright 
+Office Practices.
+
+Scope of a Group Registration
+
+When the Copyright Office issues a group registration, it prepares one certificate of registration for 
+the entire group and assigns one registration number to that certificate. A registration for a group 
+of unpublished works, a group of unpublished photographs, a group of published photographs, 
+a group of contributions to periodicals, or a group of secure test items covers the copyrightable 
+authorship in each work that has been included in the group, and each work is considered to be reg-
+istered as a separate work. Similarly, a registration for a group of serials, newspapers, or newsletters 
+covers each issue in the group, and each issue is considered to be registered as a separate work. 
+
+These facts may have important consequences in an infringement action. As noted above, section 
+504(c)(1) of the Copyright Act states that a copyright owner may be entitled to recover “an award of 
+statutory damages for all infringements involved in the [infringement] action, with respect to any 
+one work,” and “[f]or the purposes of this subsection, all the parts of a compilation [collective work] 
+. . . constitute one work.”
+
+A group registration does not create a compilation or collective work for the purposes of section 
+504, as the group is merely an administrative classification created solely for the purpose of register-
+ing multiple works or multiple issues with one application and one filing fee. The selection of the 
+works for group registration is based on the regulatory requirements for group registration options. 
+Any coordination or arrangement of the works is merely an administrative formality that facilitates 
+the examination of the works. In addition, when works are combined for the purpose of registration, 
+they are not recast, transformed, or adapted in any way.
+
+Because a group registration as a whole is not a compilation or a collective work, the Office takes 
+the position that a copyright owner may be entitled to claim a separate award of statutory damages 
+for each work or each issue (in the case of newspapers, newsletters, or serials) covered by a group 
+registration.
+
+4
+
+Multiple Worksnote: A database is, by definition, a compilation of digital information. A group registration can 
+cover new updates or revisions to one database during a specified time period. When the database 
+and its updates are registered as a group, the copyright owner is entitled only to one award of statu-
+tory damages. For more information on databases, see chapter 700, section 727, of the Compendium.
+
+Group Registration of Unpublished Works
+
+The Copyright Office has established a group registration option that allows you to register up to ten 
+unpublished works with one application and one filing fee.
+
+To be eligible for a group registration of unpublished works, the following conditions must be met:
+
+•  All works must be unpublished.
+
+•  All works must be created by the same author or joint authors.
+
+•  All of the authors must be named as copyright claimants.
+
+•  You must identify the authorship that each author or joint author contributed to the works, 
+and all claims must be the same (for example, “unpublished jewelry designs,” “unpublished 
+illustrations,” or “unpublished musical works (with or without lyrics)”).
+
+•  You must provide a title for each work. 
+
+•  Each work must be registered in the same administrative class (VA, PA, SR, or TX).
+
+•  The application must be filed online and digital copies of the work must be uploaded. 
+
+Works that do not satisfy these requirements are not eligible for this group registration option. 
+In particular, you cannot use this option to register a number of published and unpublished 
+works. Likewise, you cannot use this option to register different types of works. For example you 
+may register three poems with the same application, four songs with the same application, or five 
+drawings with the same application, but you cannot register one poem, one song, and one drawing 
+with the same application. 
+
+note: There is a limited exception to this rule. You may register up to ten unpublished sound 
+recordings along with the musical, literary, or dramatic works embodied in those recordings if both 
+works are unpublished, if the author(s) and claimant(s) for both works are the same, and if the 
+works are registered in Class SR.
+
+For information about the specific requirements for registering a group of unpublished works, 
+
+see the Office’s website and tutorial.
+
+Scope of a Registration for a Group of Unpublished Works or a Group of Unpublished Photographs
+
+A registration for a group of unpublished works or a group of unpublished photographs will remain 
+in effect even if the works included in the group are subsequently published, either separately or 
+together. You can seek another registration for the first published edition of a work in the group. 
+However, it is entirely optional and not necessary to secure the statutory benefits of registration.
+
+5
+
+Multiple WorksUnit of Publication
+
+The Copyright Office has established an administrative procedure that allows you to register a 
+number of published works on one application with one filing fee provided that the works were 
+physically packaged or bundled together as a single unit and that they were first published in that 
+integrated unit. Such a registration is known as the “unit of publication” option.
+
+Definition and Examples
+
+A unit of publication is a physical package that contains a number of separately fixed works that 
+have been physically bundled together for distribution to the public as a single, integrated unit.
+
+The following are representative examples of separately fixed works that could be considered a 
+
+unit of publication:
+
+•  A board game with playing pieces, game board, and written instructions
+
+•  A bound volume published with a dust jacket
+
+•  A book published with a CD-ROM
+
+•  A multimedia kit containing a book, a compact disc, and a set of stickers
+
+•  A compact disc containing multiple sound recordings packaged together with liner notes and 
+
+cover artwork
+
+•  A box set containing multiple compact discs containing multiple sound recordings, packaged 
+
+together with a booklet containing liner notes and photographs
+
+•  A multi-DVD package with a disc containing a motion picture, a disc containing trailers and 
+
+deleted scenes from the motion picture, and a disc containing interviews with the director and 
+the cast
+
+•  A physical package containing a computer program and a user’s manual
+
+•  A physical package containing a videogame, cover artwork, and written instructions for install-
+
+ing the game
+
+•  A package of greeting cards
+
+•  A jewelry set of a necklace and earrings that are sold to the public as a single unit
+
+Registration of a Unit of Publication
+
+The requirements for registering a number of works as a unit of publication are very specific, and 
+most works do not qualify for this option. You can use it only if
+
+•  All of the copyrightable elements are recognizable as self-contained works.
+
+•  All of the works claimed in the application are first published as a single unit on the same date.
+
+•  The copyright claimant for all of the works claimed in the unit is the same.
+
+•  The unit, and all of the works within the unit, is distributed in a physical format.
+
+•  The unit contains an actual physical copy or phonorecord of all the works.
+
+•  The unit is distributed to the general public.
+
+You can use the unit of publication option if the copyright claimant is the party primarily 
+
+responsible for manufacturing, producing, publishing, packaging, or otherwise creating the single, 
+integrated unit. However, the unit cannot have been created solely for the purpose of registering the 
+
+6
+
+Multiple Worksworks with the Copyright Office; instead, the works must have been distributed to the general public 
+within that single, integrated unit.
+
+The following are representative examples of works that cannot be registered as a unit of publication:
+
+•  Works first published in a digital form, even if sold together (for example, a digital music album 
+
+and music video)
+
+•  Works that were first published on different dates
+
+•  Works first published on the same date either separately or in different units 
+
+•  Works first published as separate and discrete works, even if they were subsequently distrib-
+
+uted together in the same unit
+
+•  Works distributed to wholesalers, retailers, or other intermediaries, even if on the same date 
+
+•  Works that have been offered to the general public both individually and as a set
+
+•  Works created as part of the same collection, series, or set that have not been distributed 
+
+together as a single, integrated unit
+
+•  Works that share the same characters, the same theme, or other similarities that have not been 
+
+distributed together as a single, integrated unit
+
+•  Works uploaded to the same website, even if on the same date
+
+•  Works offered to the public as a unit but never distributed to the public
+
+•  Multiple photographs taken at the same photo shoot
+
+•  A catalog with photographs of copyrightable works offered for sale, either individually or as a unit
+
+For additional information concerning the requirements for registering a unit of publication, see 
+
+chapter 1100, section 1107, of the Compendium.
+
+Registration of Sound Recording with Work Embodied in It
+
+The Copyright Office has established an administrative procedure that allows you to register a sound 
+recording together with the musical, literary, or dramatic work embodied in that recording. You can 
+register these works together on one application with one filing fee only if
+
+•  The claimant is the author of both the sound recording and the work embodied in that record-
+
+ing, or the claimant owns the copyright in both of those works
+
+•  You check “Sound Recording” on the “Author Created” screen if you complete an online applica-
+tion and describe the authorship of the musical, literary, or dramatic work in the “Other” field
+
+•  You use Form SR if you complete a paper application
+
+•  You submit a phonorecord that contains both the sound recording and the musical, literary, or 
+
+dramatic embodied in that recording 
+
+note
+1. This circular is intended as an overview of registering multiple works with the Copyright Office. 
+The authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United 
+States Code. Copyright Office regulations are codified in Title 37 of the Code of Federal Regulations. 
+Copyright Office practices and procedures are summarized in the third edition of the Compendium 
+of U.S. Copyright Office Practices, cited as the Compendium. The copyright law, regulations, and the 
+Compendium are available on the Copyright Office website at www.copyright.gov.
+
+7
+
+Multiple WorksFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 34  REVISED: 03/2021 
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

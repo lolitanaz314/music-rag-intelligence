@@ -1,0 +1,272 @@
+Group Registration of
+Serials
+
+This circular is an introduction to
+
+the U.S. Copyright Office’s group
+
+registration option for serials.1
+
+It covers
+
+•  Eligibility Requirements
+
+•  Registration Procedure
+
+•  Deposit Requirements
+
+62B
+
+The U.S. Copyright Office provides group registration
+options for certain categories of works, which serve as exceptions to the general rule that one application should cover
+only one work. One of these group registration options is for
+serial issues. A serial is a work that is issued or intended to be
+issued on an established schedule in successive parts bearing
+numerical or chronological designations that are intended to
+be continued indefinitely. Examples of serials include
+
+•  periodicals
+
+•  newspapers
+
+•  magazines
+
+•  newsletters
+
+•
+
+journals
+
+•  bulletins
+
+•  annuals
+
+•  proceedings of societies
+
+The author or copyright owner of multiple serials may
+register a group of issues using one application, one filing
+fee, and deposit upon satisfaction of certain requirements set
+forth by Office regulations. Otherwise, each issue may need
+to be registered separately by submitting individual applications, filing fees, and deposits. For more information on registering individual serial issues, see Copyright Registration of
+Single Serial Issues (Circular 62). In addition, if the serial is not
+a collective work, as further discussed below, it may be possible to register the issues as a group of newsletters. For more
+information, see Help: Newsletters.
+
+note: Beginning on December 31, 2019, applicants must
+complete an online application and upload digital copies of
+each work submitted under the group registration option.
+
+wcopyright.govCIRCULAR
+
+--- PAGE BREAK ---
+
+Serials as Collective Works
+
+Serials registered under this group registration option must be collective works. Collective works are
+works that contain a number of contributions that each constitute separate and independent works
+that are assembled into a collective whole.
+
+A serial typically contains two different types of authorship:
+
+•  The authorship in creating the serial as a whole, including the selection, coordination, or
+arrangement of the separate contributions, as well as editing, annotations, or revisions.
+
+•  The authorship in the separate and independent works included within the serial, such as
+
+articles, photographs, illustrations, or other contributions.
+
+A registration for a collective work covers the authorship involved in creating the issue as a whole.
+
+It also covers the individual contributions contained within the serial if they were first published in
+that issue and they are fully owned by the copyright claimant when the claim is submitted.
+
+Some serials do not qualify as collective works, because they do not contain a sufficient number
+of articles, photographs, or other contributions, or because the selection, coordination, or arrangement of the content does not contain a sufficient amount of creative expression. If these serials
+otherwise qualify as newsletters, the Office has a separate group registration option available. For
+information concerning newsletter registration, see Help: Newsletters.
+
+note: If your serial does not qualify for these group registration options, the Copyright Office
+may communicate with you (which will delay the examination of your claim), or the Office may
+refuse registration.
+
+Eligibility for Group Registration
+
+To be eligible for group registration of serial issues, all of the following conditions must be met:
+
+•  The group contains at least two issues.
+
+•  Each issue in the group is a serial.
+
+•  Each issue is an all-new collective work that has not been previously published.
+
+•  Each issue is fixed and distributed as a discrete, self-contained collective work.
+
+•  Each issue is a work made for hire.
+
+•  The author(s) and copyright claimant(s) for each issue is the same person or organization.
+
+•  The claim is limited to the collective work, as discussed above.
+
+•  All of the issues are published under the same continuing title.
+
+•  The serial is generally published at intervals of a week or longer, such as a weekly or monthly
+
+publication.
+
+•  All of the issues must be published within a period of three months in the same calendar year
+(e.g., January 1 through March 31), and the applicant must specify the date of publication for
+each issue in the group.
+
+--- PAGE BREAK ---
+
+Although the serial group registration option does not generally apply to websites, a group of
+electronically printed (ePrint) serials may be eligible for this group registration if it satisfies the
+above eligibility requirements. For purposes of group registration, an ePrint serial is an issue that is
+published and distributed online or via email as a self-contained, downloadable work, such as a digital version of a print magazine, journal, or other serial.
+
+Copyright Registration
+
+To register a claim to copyright in a group of serial issues, you must submit the following to the
+
+Copyright Office: (1) a completed online application; (2) a nonrefundable filing fee; and (3) the
+required uploaded “deposit copies” of your works. This circular highlights issues common to registrations of a group of serial issues. For guidance on registering a group of newspapers, see Group
+Registration of Newspapers (Circular 62a). For guidance on registering an individual serial issue, see
+Copyright Registration of Single Serial Issues (Circular 62). For guidance on registering a group of
+newsletters, see Help: Newsletters. For general registration information, see Copyright Registration
+(Circular 2).
+
+note: Copyright Office fees are subject to change. For current fees, see Copyright Office Fees (Circular 4),
+available on the Office’s website at www.copyright.gov or call the Office at (202) 707-3000 or 1-877-
+476-0778 (toll free).
+
+Mistakes in applications lead to delays in registration, so it is important to complete the applica-
+
+tion accurately. Here are some tips regarding common points of confusion.
+
+Type of Group
+
+First, click the “Register Certain Groups of Published Works” link that appears on the home page
+of the electronic registration system. Then, select “Serial Issues” from the drop down menu that
+appears on the Type of Group screen. The questions presented in the application are based on the
+registration option you select, and if you select the wrong option, you will need to start over.
+
+Identifying the Serial
+
+•  Provide the serial title exactly as it appears on the deposit copies.
+
+•  Provide the previous/alternative title only if:
+
+ » the serial was previously published under a different title;
+ » the serial is known by a different title or by a title in a different language; or
+ » a third party would likely search the Office’s records using a different title.
+
+•  Provide the International Standard Serial Number (ISSN). When an ISSN is included in the
+
+application, it will appear on the certificate and the online public record.
+
+--- PAGE BREAK ---
+
+Volume, Number, Issue Date, and Date of Publication
+
+•  Provide the volume, number, and issue date that appears on the deposit copy for each issue in
+
+the group.
+
+•  On occasion, a serial may be published in one month, but contain an issue date for the following month. In that circumstance, you should provide the date of publication. The Office will
+generally accept a claim if the publication dates provided in the application fall within a three
+month period in the same calendar year—even if they do not match the dates that appear on
+the deposit copies.
+
+Deposit Requirements
+
+To register your group of serials, you must upload a digital copy of each issue included with your
+application to the Copyright Office.
+
+The uploaded issues must be submitted in PDF form, and you must upload a separate PDF for
+each issue. Each PDF file must contain a complete copy of the entire issue with the pages arranged
+in sequential reading order. The files must be viewable and searchable, contain embedded fonts, and
+be free from any access restrictions, such as password protection, watermarks, or other digital rights
+management (DRM). Each file should be named using the following convention:
+
+“GRSE_[ISSN Number]_[Date of Publication YYYYMMDD].pdf ”
+
+note: Be sure to include two digits for both the month and day, such as 01, 02, 03, etc.
+
+For example, the file name for an issue published on March 1, 2018, under ISSN 1236-567X
+
+should be: “GRSE_1236567X_20180301.pdf ”
+
+If you have applied for an ISSN but have not received it yet, state “pending” in the file name:
+
+Example: “GRSE_pending_20180301.pdf ”
+
+You must upload each issue as an individual PDF file, and the file size for each PDF must not
+exceed 500 MB. You may compress the PDF to meet the file size limitation. Do not upload the issues
+in a compressed file, such as a .cab, .rar, or .zip file.
+
+Complimentary Subscription for Mandatory Deposit
+
+If your serial is published in a print format, you are required to send two complete copies of each
+issue to the Library of Congress for its use. For general information, see Mandatory Deposit of
+Copies or Phonorecords (Circular 7D). To satisfy mandatory deposit requirements, you must provide
+two complimentary subscriptions directly to the Library of Congress. This process is separate from
+registration.
+
+--- PAGE BREAK ---
+
+Before beginning a subscription, you should contact the Copyright Acquisitions Division (CAD)
+to confirm that subscription copies will be provided. The letter should include the name of the publisher, the title of the serial, the ISSN number that has been assigned to the serial (if any), and the
+issue date and numerical or chronological designations that will appear on the first issue that will
+be provided under the subscription. You may submit this information through the form posted on
+the Office’s website or send an e-mail to CAD@loc.gov. CAD will notify the applicant in writing if the
+Library declines to receive the subscription.
+
+Subscription copies should be sent to:
+
+Group Serials Registration
+Washington, DC 20540-4161
+
+note: To ensure proper processing, only the address given immediately above is to be used for
+complimentary subscriptions.
+
+--- PAGE BREAK ---
+
+note
+1. This circular is intended as an overview of copyright registration of a group of serial issues. The
+authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United
+States Code. Copyright regulations are codified in Title 37 of the Code of Federal Regulations. Copyright Office practices and procedures are summarized in the third edition of the Compendium of U.S.
+Copyright Office Practices, cited as the Compendium. The copyright law, regulations, and the Compendium are available on the Copyright Office website at www.copyright.gov.
+
+--- PAGE BREAK ---
+
+For Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, Eastern time,
+Monday through Friday, except federal holidays. To request application forms or circulars by
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message.
+
+By Regular Mail
+
+Write to
+
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 62B  REVISED: 03/2021
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

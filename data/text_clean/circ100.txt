@@ -1,0 +1,468 @@
+r
+a
+l
+u
+c
+r
+i
+C
+
+w
+
+Federal Statutory
+Protection
+for Mask Works
+
+The Semiconductor Chip Protection Act (SCPA) of 1984 established a new type
+of intellectual property protection for mask works that are fixed in semiconductor chips. It did so by amending title 17 of the United States Code, adding
+chapter 9.1
+
+Protection for mask works is not copyright protection. The legal requirements for mask work protection differ from those for copyright protection in
+terms of eligibility for protection, ownership rights, registration procedures,
+term of protection, and remedies for rights violations. This circular provides
+information for registering claims under the SCPA.
+
+Definitions
+
+Mask work  ·  The SCPA defines a mask work as a series of related images,
+however fixed or encoded (1) that have or represent the predetermined threedimensional pattern of metallic, insulating, or semiconductor material present
+or removed from the layers of a semiconductor chip product; and (2) in which
+series the relation of the images to one another is that each image has the pattern of the surface of one form of the semiconductor chip product.
+
+Semiconductor chip product  ·  The SCPA defines a semiconductor chip product as the final or intermediate form of any product (1) intended to perform
+electronic circuitry functions and (2) having two or more layers of metallic,
+insulating, or semiconductor material, deposited or otherwise placed on or
+etched away or otherwise removed from a piece of semiconductor material in
+accordance with a predetermined pattern.
+
+Protection of Mask Works
+
+Protection under the SCPA extends to the three-dimensional images or patterns
+formed on or in the layers of metallic, insulating, or semiconductor material
+and fixed in a semiconductor chip product, that is, the “topography” of the
+“chip.”
+
+Although these images or patterns are purely functional features, they are
+nevertheless protected, provided that a mask work is neither dictated by a particular electronic function nor one of only a few available design choices that
+will accomplish that function.
+
+Protection under the SCPA does not extend to any idea, procedure, process,
+system, method of operation, concept, principle, or discovery associated with
+
+2  100.0912
+
+--- PAGE BREAK ---
+
+a mask work, regardless of the form in which it is described,
+explained, illustrated, or embodied in a mask work (17 U.S.C.
+§902 (c)).
+
+Originality
+To be protected under the SCPA, a mask work must be original.
+In a 1984 report, the Committee on the Judiciary of the House
+of Representatives stated that a mask work is “original” if it is
+the independent creation of an author who did not copy it.2
+The mask work cannot consist solely of designs that are
+
+staple, commonplace, or familiar in the semiconductor
+industry, or variations of such designs, combined in a way that,
+considered as a whole, are not original. (17 U.S.C. §902 (b))
+
+Eligibility
+Any original mask work fixed in a semiconductor chip product by or under the authority of the mask work owner is
+eligible for protection if it meets one of the following criteria:
+
+1  On the date the mask work is registered with the Copyright
+Office or the date the mask work is first commercially
+exploited anywhere in the world (see note below), whichever occurs first, the owner of the mask work is
+
+•	 a	national	or	domiciliary	of	the	United	States;	or
+
+•	 a	national,	domiciliary,	or	sovereign	authority	of	a	foreign nation that is a party with the United States to a
+treaty affording protection to mask works; or
+
+•	 a	stateless	person.
+
+2  The mask work is first commercially exploited in the
+
+United States.
+
+3  The mask work comes within the scope of a presidential
+proclamation extending protection to mask works of
+nationals and domiciliaries of a foreign country and to
+works first commercially exploited in that country, on the
+basis of a finding that mask works protected by the SCPA
+are also protected in the particular foreign country, either
+under the principle of reciprocity or under the principle
+of national treatment.
+
+All countries that are members of the World Trade
+
+Organization became eligible for mask work protection on
+June 1, 1996, under Presidential Proclamation 6780, which
+was issued on March 23, 1995. In addition, that proclamation
+extended mask work protection to Australia, Canada,
+Japan, Switzerland, and the member states of the European
+Community as of July 1, 1995. For a list of WTO members,
+go to www.wto.org.
+
+Federal Statutory Protection for Mask Works ·  2
+
+note: To “commercially exploit” a mask work is defined in the
+
+SCPA as the distribution to the public for commercial purposes
+
+of a semiconductor chip product embodying the mask work,
+
+with the provision that the term includes an offer to sell or
+
+transfer a semiconductor chip product only when the offer is
+
+in writing and occurs after the mask work is fixed in the semi-
+
+conductor chip product.
+
+Term of Protection
+
+Protection for a mask work commences on the date the mask
+work is registered with the Copyright Office or the date the
+mask work is first commercially exploited anywhere in the
+world, whichever occurs first. Protection lasts for 10 years
+(terminating at the end of the 10th calendar year after it
+began).
+
+Registration of Mask Works
+
+Registration of mask works is mandatory to secure protection. In addition, a certificate of registration provides certain
+benefits.
+
+Requirements
+To secure protection of mask works for the entire 10-year term,
+owners must register their works with the Copyright Office
+within two years of the date on which the mask work is first
+commercially exploited. Otherwise, protection under the SCPA
+will be lost.
+
+The effective date of registration of a claim to protection
+
+in a mask work will be the date on which an acceptable
+application, deposit of identifying material, and appropriate
+fee are received in the Copyright Office.
+
+Importance of Registration Certificate
+The SCPA further provides that (a) a certificate of registration for a mask work issued by the Copyright Office constitutes prima facie evidence of the facts stated in the certificate
+and that the applicant who was issued the certificate has met
+the requirements for protection; and (b) after a certificate has
+been issued by the Copyright Office, the owner of the mask
+work or the exclusive licensee of all rights in the mask work
+may institute a civil action for infringement occurring after
+the commencement of protection accorded by the SCPA.
+
+--- PAGE BREAK ---
+
+Federal Statutory Protection for Mask Works ·  3
+
+Exclusive Rights of Owner:
+Limitations and Transfers
+
+Registration Procedure
+
+During the term of protection, the owner of a mask work has
+the following exclusive rights:
+
+1  to reproduce the mask work by optical, electronic, or any
+
+other means;
+
+2  to import or distribute a semiconductor chip product in
+
+which the mask work is embodied; and
+
+3  to induce or knowingly to cause another person to do any
+of the acts described in number 1 and number 2 above.
+
+Limitations on Rights: Reverse Engineering and First Sale
+The SCPA permits reverse engineering of a mask work solely
+for the purposes of teaching, analyzing, or evaluating the
+concepts or techniques embodied in the mask work or in the
+circuitry, logic flow, or organization of components used in
+the mask work.3 The person who performs legitimate reverse
+engineering can incorporate the results in an original mask
+work that is made to be distributed.
+
+Purchasers also obtain a right arising from the first sale of
+semiconductor chips. The SCPA specifies that purchasers of
+semiconductor chip products have the right to use and resell
+them freely but not to reproduce them without the permission
+of the owner of the mask work embodied in the semiconductor chip product.
+
+Transfer of Rights
+The SCPA allows the owner of the exclusive rights to transfer all of them or to license all or fewer than all the rights.
+A transfer or license must be in writing and signed by the
+owner of the rights or by a duly authorized agent of the
+owner. The SCPA also provides that the exclusive rights in
+a mask work can be transferred by operation of law or by
+terms of a will or that the rights may pass as personal property under the applicable state law of intestate succession.
+For information on the recordation of documents of
+transfer in the Copyright Office, see “Recordation” below.
+
+Works by U.S. Government Employees
+
+Federal protection under the SCPA is not available for any
+mask work of the U.S. government, that is, any mask works
+created by U.S. government employees as part of their official duties.
+
+Applications to register mask works require three elements:
+a completed Form MW, available at www.copyright.gov/
+forms/formmwi.pdf; a nonrefundable filing fee; and a deposit
+of identifying material. You can type the required details
+into fill-in Form MW on your computer and print out a
+completed form, or you can print out a blank form and fill
+it in by hand. All forms submitted to the Copyright Office
+must be clear and legible and suitable for automatic feeding
+through a photocopier. Forms not meeting this requirement
+will be returned. If you cannot access Form MW online, call
+(202) 707-9100 or 1-877-476-0778 (toll free) to request a
+copy by postal mail.
+
+note: Copyright Office fees are subject to change. For current
+
+fees, check the Copyright Office website at www.copyright.gov,
+
+write the Copyright Office, or call (202) 707-3000.
+
+Send the application, fee, and deposit in the same package to:
+
+Copyright Office–MW
+
+Deposit of Identifying Material
+
+The SCPA gives the Register of Copyrights broad, general
+authority to specify the identifying material to be deposited
+in connection with the claim for registration. In recognition
+of the need to preserve trade secrets or avoid public disclosure of sensitive information embodied in various identifying materials, the regulations of the Copyright Office provide
+different deposit options, depending upon whether the mask
+work has been commercially exploited. The Copyright Office
+encourages the fullest disclosure of the mask work within the
+deposit options established by the regulation.
+
+For commercially exploited mask works, the identifying
+
+material should consist of the following:
+
+four chips (dies) as first commercially exploited; and
+
+2  one full set of visually perceptible reproductions of
+
+each layer of the mask work. The applicant may elect to
+deposit either plastic color overlays, composite plots, or
+photographs of each layer of the mask work.
+
+For mask works that have not been commercially
+exploited, the identifying material should consist of:
+
+--- PAGE BREAK ---
+
+1  one full set of either plastic color overlays or composite
+plots of each layer of the semiconductor chip product;
+
+2  although no chips (dies) need to be sent, the applicant
+
+may elect to deposit four reproductions of the most complete form as fixed in a chip product.
+
+The visually perceptible materials should be reproduced
+
+at a magnification sufficient to reveal the basic circuitry
+design of the mask work and should be at least 20 times the
+magnification of the actual size. Large visually perceptible
+materials are acceptable if they can be folded or cut into a
+roughly 8½" × 11" format and are storable in a 12" × 15" envelope. Titles should be placed on all identifying materials so
+that applications and deposit materials can be matched.
+
+Registration in Most Complete Form
+
+Owners seeking registration of a mask work must generally
+submit the entire original mask work in its most complete
+form as fixed in a semiconductor chip product. The most
+complete form means the stage of the manufacturing process that is closest to completion. Entire impersonalized gate
+arrays and custom metallization layers may be registered
+separately, as an exception to the general rule.
+
+Registration of Less Than 20 Percent
+of Intended Final Form
+
+Where the mask work in which registration is sought represents less than 20 percent of the area of the intended final
+form of the chip product, the deposit must consist of a visually perceptible representation of the work that reveals the
+totality of the mask work contribution to a person trained
+in the state of the art. The representation may consist of any
+combination of plastic color overlay sheets, drawings or plots
+in composite form, or a photograph(s) of the entire mask set.
+If needed, additional explanatory material may accompany
+the visually perceptible representation to identify all the elements in the mask work contribution.
+
+Deposit for Trade Secret Protection
+
+Where an applicant makes a claim of trade-secret protection
+or of a need to protect sensitive information, certain material may be withheld from the deposit of identifying material.
+Below is an outline of the deposit options.
+
+Federal Statutory Protection for Mask Works ·  4
+
+Mask Works Commercially Exploited
+1  Four chips as first commercially exploited; and
+
+2  special “identifying portions” (defined below) for no more
+than two of each five layers of the mask work in which
+trade secrecy is claimed; and
+
+3  color overlays, plots, or photographs for all other layers.
+
+Mask Works Not Commercially Exploited
+1  Special “identifying portions” (defined below) for any
+layer or layers in which trade secrecy is claimed; and
+
+2  a single photograph of the top or other visible layers of
+
+the mask work with the sensitive information maintained
+under a claim of trade secrecy blocked out, provided the
+blocked out portions do not exceed the remaining portions.
+
+Identifying Portions
+The “identifying portions” should consist of a printout of
+the mask work design data pertaining to each withheld layer,
+reproduced in microform, or visually perceptible representations (plastic color overlays, composite plots, or, in the case
+of commercially exploited mask works, photographs of the
+masks) in which portions maintained under a claim of trade
+secrecy are blocked out, provided that the portions remaining are greater than the portions blocked out. For mask
+works not commercially exploited, sensitive information may
+be blocked out from the design data, provided that the portions remaining are greater than the portions blocked out.
+
+Special Relief
+
+On a case-by-case basis, the Register of Copyrights may
+decide to grant special relief from the deposit requirements.
+Requests for special relief must be made in writing and
+must set forth the specific reasons why the request should
+be granted. Also, they should propose an alternative form of
+deposit. Requests should be addressed to:
+
+Copyright Office-RPO
+Registration Program Office
+
+Special Handling
+
+Special handling of an application for registration of a claim
+to protection in a mask work is granted at the discretion
+
+--- PAGE BREAK ---
+
+Federal Statutory Protection for Mask Works ·  5
+
+priate fee and meets the certain requirements. For details, see
+Circular 12, Recordations of Transfers and Other Documents,
+available on the Office’s website.
+
+Notes
+
+1  Although protection was effective from November 8, 1984, the Copy-
+
+right Office did not begin registration of claims to protection until
+
+January 7,1985, pursuant to 17 U.S.C. § 913 (a).
+
+2  H. R. Rep. No. 781, 98th Cong. 2d Sess. 4 (1984).
+
+3  H. R. Rep. No. 781 refers to the “paper trail” evidencing the extensive
+
+effort involved in legitimate reverse engineering and states that reverse
+
+engineering is an affirmative defense to an infringement claim.
+
+For Further Information
+
+By Internet
+Circulars, announcements, regulations, copyright applications,
+and other related materials are available from the Copyright
+Office website at www.copyright.gov.
+
+By Telephone
+For general information about copyright, call the Copyright
+Public Information Office at (202) 707-3000 or 1-877-476-
+0778 (toll free). Staff members are on duty from 8:30 am to
+5:oo pm, eastern time, Monday through Friday, except federal
+holidays. Recorded information is available 24 hours a day.
+To request paper application forms or circulars by postal
+mail, call (202) 707-9100 or 1-877-476-0778 and leave a
+recorded message.
+
+By Regular Mail
+Write to:
+
+Copyright Office–COPUBS
+Publications Section
+
+of the Register of Copyrights in a limited number of cases
+involving pending or prospective litigation or contract deadlines. There is a fee for special handling, in addition to the
+filing fee. For details, see Circular 10, Special Handling, available on the Copyright Office’s website at www.copyright.gov.
+
+Notice
+
+The owner of a mask work protected under the SCPA may
+affix a notice of ownership to mask works, masks, and
+semiconductor chip products embodying the mask work in
+a manner and location that gives reasonable notice of the
+claim to protection.
+
+The SCPA requires the form of the notice to be:
+
+1  the words mask work, the symbol *M* or the symbol µ;
+
+2  the name of the owner(s) of the rights in the mask work
+or an abbreviation by which the name is recognized or
+generally known.
+
+Affixation of such a notice is optional and is not a condition of protection, but the notice does constitute prima facie
+evidence of notice of protection. The Register of Copyrights
+prescribes by regulation, as examples, specific methods of
+affixation and positions of the notice (see 37 C.F.R. §211.6).
+
+Access to Copyright Office Records and
+Documents
+
+The Copyright Office maintains records and indexes to
+deposits, registrations, recordations, and other items
+related to copyright registration. The records and indexes
+are open to public inspection and can be copied. To assist
+with searches to locate material, the Office provides various
+fee-based services. Alternatively, patrons can search certain
+records independently. Copyright Office records of registrations and recordations from January 1, 1978, forward are
+available for searching on the Copyright Office website at
+www.copyright.gov. For details, see Circular 6, Obtaining
+Access to and Copies of Copyright Office Records and Deposits,
+available on the Office’s website.
+
+Recordation
+
+Any transfer of ownership or other document pertaining to
+a mask work can be recorded in the Copyright Office if the
+document filed for recordation is accompanied by the appro-
+
+--- PAGE BREAK ---
+
+Federal Statutory Protection for Mask Works ·  6
+
+U.S. Copyright Office
+
+·  Library of Congress
+
+·
+
+101 Independence Avenue, SE
+
+·  Washington, DC 20559
+
+·  www.copyright.gov
+
+circular 100  reviewed: 09 ⁄ 2012  Printed on recycled paper
+
+u.s. government printing office: 2012-xxx-xxx ⁄ xx,xxx

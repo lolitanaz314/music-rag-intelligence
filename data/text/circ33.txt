@@ -1,0 +1,295 @@
+33
+
+Works Not Protected  
+by Copyright
+
+To be copyrightable, a work must 
+
+qualify as an original work of 
+
+authorship under the copyright law. 
+
+This circular highlights different types 
+
+of works and subject matter that do 
+
+not qualify for copyright protection.  
+
+It covers
+
+• 
+
+Ideas, methods, and systems 
+
+•  Names, titles, and short phrases 
+
+•  Typeface, fonts, and lettering
+
+•  Blank forms
+
+•  Familiar symbols and designs
+
+To register a work with the U.S. Copyright Office, you must 
+identify the copyrightable subject matter forming the basis 
+of your claim. To be copyrightable, a work must qualify as 
+an original work of authorship, meaning that it must have 
+been created independently and contain a sufficient amount 
+of creativity. Most works meet these conditions. Some works, 
+however, contain elements that either lack the required creativ-
+ity or are placed outside the bounds of copyright by the law. 
+This circular highlights different types of noncopyrightable 
+subject matter. For more information, see chapter 300, section 
+313.3, of the Compendium of U.S. Copyright Office Practices.1
+
+Ideas, Methods, and Systems
+
+Copyright law expressly excludes copyright protection for 
+“any idea, procedure, process, system, method of operation, 
+concept, principle, or discovery, regardless of the form in 
+which it is described, explained, illustrated, or embodied.” 
+The Office may, however, register a literary, graphic, or artis-
+tic description, explanation, or illustration of an idea, proce-
+dure, process, system, or method of operation, provided that 
+the work contains a sufficient amount of original authorship. 
+However, copyright protection will extend only to the origi-
+nal expression in that work and not to the underlying idea, 
+methods, or systems described or explained.
+
+Inventions
+
+You can register a technical drawing or a written description 
+of an invention when the drawing or description contains a 
+sufficient amount of authorship. However, the registration 
+extends only to the original expression contained in the 
+drawing or description and does not apply to the underlying 
+invention. Inventions meeting certain requirements may be 
+patentable. For information about patent laws, visit the U.S. 
+Patent and Trademark Office website or call 1-800-786-9199.
+
+wcopyright.govCIRCULAR Example:
+
+An author writes a book explaining a new system for food processing. The copyright in the 
+book prevents others from copying or distributing the text and illustrations describing the 
+author’s system as expressed in the book, but it does not give the author the right to prevent 
+others from employing the system or from using any procedures, processes, or methods 
+described in the book.
+
+Recipes
+
+A recipe is a statement of the ingredients and procedure required for making a dish of food. A mere 
+listing of ingredients or contents, or a simple set of directions, is uncopyrightable. As a result, the 
+Office cannot register recipes consisting of a set of ingredients and a process for preparing a dish. In 
+contrast, a recipe that creatively explains or depicts how or why to perform a particular activity may 
+be copyrightable. A registration for a recipe may cover the written description or explanation of a 
+process that appears in the work, as well as any photographs or illustrations that are owned by the 
+applicant. However, the registration will not cover the list of ingredients that appear in each recipe, 
+the underlying process for making the dish, or the resulting dish itself. The registration will also not 
+cover the activities described in the work that are procedures, processes, or methods of operation, 
+which are not subject to copyright protection.
+
+Examples:
+
+Jules Kinder submits an application to register a cookbook, Pie in the Sky. In the “Author Cre-
+ated” field of the application, Kinder asserts a claim in “text, photographs, and compilation 
+of ingredients.” Each recipe contains a list of ingredients, instructions for making a pie, and a 
+photograph of the finished product. The claim in a “compilation of ingredients” will not be 
+accepted because there is no copyrightable authorship in a mere listing of ingredients. Since 
+this claim is not acceptable, the Office may communicate with Jules Kinder to limit the extent 
+of the registration to the text and photographs only.
+
+Paulina Neumann submits an application to register a recipe for caesar salad dressing. In the 
+“Author Created” field, Neumann asserts a claim in “text.” The work consists of a list of eleven 
+ingredients with the following instructions: “(1) puree anchovies, garlic, Dijon, egg yolks; (2) 
+drizzle oil in gradually to emulsify; (3) add lemon, parmesan cheese, salt, pepper, Worcester-
+shire and tabasco sauce.” The Office will refuse registration for this work, because the list of 
+ingredients is uncopyrightable, and the instructional text contains an insufficient amount of 
+creative authorship.
+
+Names, Titles, Short Phrases
+
+Words and short phrases, such as names, titles, and slogans, are uncopyrightable because they contain 
+an insufficient amount of authorship. The Office will not register individual words or brief combina-
+tions of words, even if the word or short phrase is novel, distinctive, or lends itself to a play on words.
+Examples of names, titles, or short phrases that do not contain a sufficient amount of creativity 
+
+to support a claim in copyright include
+
+Works Not Protected by Copyright
+
+2
+
+•  The name of an individual (including pseudonyms, pen names, or stage names)
+
+•  The title or subtitle of a work, such as a book, a song, or a pictorial, graphic, or sculptural work
+
+•  The name of a business or organization
+
+•  The name of a band or performing group
+
+•  The name of a product or service
+
+•  A domain name or URL
+
+•  The name of a character
+
+•  Catchwords or catchphrases
+
+•  Mottos, slogans, or other short expressions
+
+Under certain circumstances, names, titles, or short phrases may be protectable under federal or 
+
+state trademark laws. For information about trademark laws, visit the U.S. Patent and Trademark 
+Office website or call 1-800-786-9199.
+
+Typeface, Fonts, and Lettering
+
+Copyright law does not protect typeface or mere variations of typographical ornamentation or let-
+tering. A typeface is a set of letters, numbers, or other characters with repeating design elements that 
+is intended to be used in composing text or other combinations of characters, including calligraphy. 
+Generally, typeface, fonts, and lettering are building blocks of expression that are used to create 
+works of authorship. The Office cannot register a claim to copyright in typeface or mere variations 
+of typographic ornamentation or lettering, regardless of whether the typeface is commonly used 
+or unique. There are some very limited cases where the Office may register some types of typeface, 
+typefont, lettering, or calligraphy. For more information, see chapter 900, section 906.4 of the 
+Compendium. To register copyrightable content, you should describe the surface decoration or other 
+ornamentation and should explain how it is separable from the typeface characters.
+
+Layout and Design
+
+As a general rule, the Office will not accept a claim to copyright in “format” or “layout.” The gen-
+eral layout or format of a book, page, book cover, slide presentation, web page, poster, or form is 
+uncopyrightable because it is a template for expression. Copyright protection may be available for the 
+selection, coordination, or arrangement of the specific content that is selected and arranged in a suffi-
+ciently creative manner. The claim, however, would be limited to the selection and arrangement of that 
+specific content, not to the selection and arrangement of any content in that particular manner. 
+
+Blank Forms
+
+Blank forms typically contain empty fields or lined spaces as well as words or short phrases that 
+identify the content that should be recorded in each field or space. Blank forms that are designed for 
+recording information and do not themselves convey information are uncopyrightable. 
+
+Similarly, the ideas or principles behind a blank form, the systems or methods implemented by a 
+form, or the form’s functional layout are not protected by copyright. A blank form may incorporate 
+
+Works Not Protected by Copyright
+
+3
+
+images or text that is sufficiently creative to be protected by copyright. For example, bank checks 
+may be registered if they contain pictorial decoration that is sufficiently creative. Contracts, insur-
+ance policies, and other documents with “fill-in” spaces may also be registered if there is sufficient 
+literary authorship that is not standard or functional. In all cases, the registration covers only the 
+original textual or pictorial expression that the author contributed to the work, but does not cover 
+the blank form or other uncopyrightable elements that the form may contain.
+
+Examples of blank forms include
+
+•  Time cards
+
+•  Graph paper
+
+•  Account books
+
+•  Diaries
+
+•  Bank checks
+
+•  Scorecards
+
+•  Address books
+
+•  Report forms
+
+•  Order forms
+
+•  Date books and schedulers
+
+Familiar Symbols and Designs
+
+Familiar symbols and designs, or a simple combination of a few familiar symbols or designs, are 
+uncopyrightable and cannot be registered with the Office. However, a work of authorship that 
+incorporates one or more familiar symbols or designs into a larger design may be registered if the 
+work as a whole contains a sufficient amount of creative expression.
+
+Examples of familiar symbols and designs include but are not limited to
+
+•  Letters, punctuation, or symbols on a keyboard
+
+•  Abbreviations
+
+•  Musical notation
+
+•  Numbers and mathematical and currency symbols
+
+•  Arrows and other directional or navigational symbols
+
+•  Common symbols and shapes, such as a spade, club, heart, diamond, star, yin yang, or  
+
+fleur de lys
+
+•  Common patterns, such as standard chevron, polka dot, checkerboard, or houndstooth
+
+•  Well-known and commonly used symbols that contain a minimal amount of expression or  
+are in the public domain, such as the peace symbol, gender symbols, or simple emoticons
+
+•  Industry designs, such as the caduceus, barber pole, food labeling symbols, or hazard 
+
+warning symbols
+
+•  Familiar religious symbols
+
+•  Common architecture moldings
+
+4
+
+Works Not Protected by CopyrightRegistration of Works with Copyrightable and Uncopyrightable Subject Matter
+
+When completing an application for a work with a significant amount of uncopyrightable subject 
+matter, you should focus your claim specifically on the copyrightable subject matter. When complet-
+ing the “Author Created” field in the online application, use words identifying copyrightable subject 
+matter such as “text,” “photograph,” or “drawing.” Avoid words referring to material that is not 
+subject to copyright protection, such as “idea,” “device,” “process,” “format,” or “layout.” Also, avoid 
+using vague language, such as “design” or “entire work.”
+
+For more information on general registration procedures, see Copyright Registration (Circular 2).
+
+note
+1. This circular is intended as an overview of works not protected by copyright. The authoritative 
+source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United States Code. Copy-
+right Office regulations are codified in Title 37 of the Code of Federal Regulations. Copyright Office 
+practices and procedures are summarized in the third edition of the Compendium of U.S. Copyright 
+Office Practices, cited as the Compendium. The copyright law, regulations, and the Compendium are 
+available on the Copyright Office website at www.copyright.gov.
+
+5
+
+Works Not Protected by CopyrightFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.govCIRCULAR 33 REVISED: 03 /2021 PRINT: 00 /0000 — 0,000

@@ -1,0 +1,246 @@
+67
+
+Group Registration of 
+Short Online  
+Literary Works
+
+This circular is an introduction to 
+
+the U.S. Copyright Office’s group 
+
+registration option for short online 
+
+literary works, known as “GRTX.”  
+
+It covers
+
+•  Eligibility
+
+•  Completing an application
+
+•  Preparing a deposit and title list  
+
+for upload1
+
+While the general rule for registration is to submit one 
+application, filing fee, and deposit for each work you want 
+to register, the U.S. Copyright Office has established a group 
+registration option for registering up to 50 short online liter-
+ary works, known as “GRTX.” A short online literary work 
+contains between 50 and 17,500 words, and is first published 
+as part of a website or online platform, including online 
+newspapers, social media websites, and social networking 
+platforms.
+
+Examples of short online literary works include poems, 
+short stories, articles, essays, columns, blog entries, and social 
+media posts. 
+
+note: The following types of literary works cannot be regis-
+tered with this application, even if they contain 50 to 17,500 
+words and even if they were first published online:
+
+•  Emails 
+•  Podcasts
+•  Audiobooks
+•  Computer programs
+
+Group Registration Eligibility
+
+You may register up to 50 short online literary works with one 
+application and filing fee if the following conditions are met:
+
+•  Each work contains at least 50 but no more than 17,500 
+
+words.
+
+•  The works are first published online within a three-
+
+calendar-month period.
+
+•  The applicant must provide the earliest publication 
+
+date and most recent publication date for the works in 
+the group.
+
+wcopyright.govCIRCULAR •  Each work is written by the same individual author or co-written by the same joint authors.
+
+note: works made for hire are not eligible for this group registration option.
+
+•  Each author is named as the claimant for all the works, and the claim is limited to the “text” 
+
+that appears in each work.
+
+•  The applicant includes a title for each work. 
+
+•  The applicant includes a title for the group as a whole.
+
+The group registration option is only available when all requirements set forth by Office regula-
+tions are met. Otherwise, the Office may refuse the group application and you will need to reapply 
+with the appropriate applications, filing fees, and deposits.
+
+Examination and Scope of a Group Registration
+
+After the Office receives your application, filing fee, and deposit, it will examine each work in the 
+group to determine if it is copyrightable and to confirm that the legal and formal requirements for 
+registration have been met. If the Office determines that any of these requirements have not been 
+satisfied, it may refuse to register the entire claim.
+
+A registration for a group of short online literary works covers the copyrightable text in each 
+work that is submitted, and each literary work is registered as a separate work. If any of the works 
+are uncopyrightable, the Office will refuse registration for those works and issue a registration for 
+only the copyrightable works in the group.
+
+Completing the Application for Group Registration of Short Online Literary Works
+
+To register a claim using this group option, you must (1) complete the Copyright Office’s online 
+application for “Short Online Literary Works,” (2) submit a nonrefundable filing fee, (3) upload one 
+ZIP folder containing an individual electronic copy of each work, and (4) upload a title list, which is 
+discussed in more detail below. This circular highlights issues common to registration of a group of 
+short online literary works. For general registration information or information on registering one 
+work, see Copyright Registration (Circular 2).
+
+note: Copyright Office fees are subject to change. For current fees, see Copyright Office Fees (Circular 4), 
+available on the Office’s website at www.copyright.gov or call the Office at (202) 707-3000 or  
+1-877-476-0778 (toll free).
+
+note: Do not use the “Standard Application” or a paper application to complete a group 
+registration. Your registration will be refused.
+
+Mistakes in applications may lead to registration delays or registration refusals, so it is important 
+to complete the application accurately. The Office offers the following resources for applicants who 
+use this group registration option:
+
+•  Frequently asked questions (FAQ).
+
+•  Help text within the application.
+
+•  Video tutorial.
+
+2
+
+Group Registration of Short Online Literary WorksThe following tips can also help clarify common points of confusion.
+
+Title and Publication Information
+
+•  Title of the group. You must provide a title for the whole group of works. For example, you 
+may provide a group title that identifies the author of the works and the month and year the 
+works were first published online or you may provide a title that identifies the subject matter 
+of the works. 
+
+•  Number of works in the group. You must specify the total number of works being registered 
+
+with your application. The maximum number of works in the group is 50.
+
+•  Year of completion. You must provide the year of completion. If the works were created over 
+a period of two or more years, provide the year of completion for the most recent work in the 
+group you wish to register.
+
+•  Publication dates. You must identify the earliest, as well as the most recent, date that the 
+
+works were first published online. You also must identify the nation where the works were first 
+published. If you are not sure where the works were published, you may select “Not Known” 
+from the drop down list.
+
+•  Filename. As mentioned below, you must upload a list containing the title, filename, publica-
+tion date, and word count for each work. The filename for this list must be entered in the field 
+marked “Filename for List.” 
+
+•  Title of each work. You must enter the title of each work in the application itself and the 
+
+title list. The title must also match the corresponding filename of each work. Be sure to check 
+these titles when preparing the application and deposit materials. The titles will be included 
+in the certificate of registration and online public record. To provide title information in the 
+application:
+
+ » Click “New.”
+
+ » Copy the titles from your title list and paste them in the “Titles of Works Being Regis-
+tered” space. Be sure to include a comma after each title; if you use the Office’s fillable 
+form, these commas will be added automatically. Alternatively, you may enter the title for 
+each work individually, separated by commas.
+
+ » Click save.
+
+Deposit Requirements
+
+To complete a group registration of short online literary works, each work must be contained in a 
+separate digital file in the same acceptable file format. The list of acceptable formats is posted on the 
+Office’s website at www.copyright.gov/eco/help-file-types.html. Each digital file must have a filename 
+that exactly matches a title listed on the application. Then, these works should be compressed into 
+one ZIP folder not exceeding 500 MB and uploaded through the online registration system. Do not 
+submit all works in one PDF file.
+
+3
+
+Group Registration of Short Online Literary WorksDo not mail a physical copy of your works to the Copyright Office. The Office will refuse your 
+
+application and cannot return the physical copy.
+
+Each file must contain the complete text of each work as it was first published online, but submit-
+
+ting a screenshot of the website or online platform is not required. You may submit the text only, 
+disassociated from the context and formatting of the website or online platform where it was first 
+published, as long as the text itself is identical to the text that was first published online.
+
+Completing a Title List
+
+As mentioned earlier, you must prepare and submit a list specifying the title and filename for each 
+work in the group. The title and filename for a particular work must be the same. The list also must 
+include the publication date and word count for each work.
+
+The Copyright Office strongly encourages you to prepare this list before you begin the application. 
+Doing so will make it easier to complete the “Titles of the Works” section of the application. The Office 
+has developed a fillable form that you may use to create your title list. Guidance for completing this 
+form is provided in the video tutorials and help text mentioned above. 
+
+The title list should be submitted in Excel (.xls, .xlsx) or Portable Document Format (PDF). The 
+filename for the list must contain the title you plan to use to identify the entire group of literary works 
+and the case number assigned to the application by the electronic registration system. Example file-
+name: [Name of Group] 1-1111111111.xls 
+
+As mentioned above, the filename for the title list must be entered in the application itself in the 
+space provided on the “Group Title/Publication and Completion Information” screen. The Office will 
+use this information to locate and identify your list.
+
+note
+1. This circular is intended as an overview of group registration of short online literary works. The 
+authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United 
+States Code. Copyright Office regulations are codified in Title 37 of the Code of Federal Regulations. 
+Copyright Office practices and procedures are summarized in the third edition of the Compendium 
+of U.S. Copyright Office Practices, cited as the Compendium. The copyright law, regulations, and the 
+Compendium are available on the Copyright Office website at www.copyright.gov.
+
+4
+
+Group Registration of Short Online Literary WorksFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 67  REVISED: 03/2021
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

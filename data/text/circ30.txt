@@ -1,0 +1,327 @@
+30
+
+Works Made for Hire
+
+A copyrightable work is “made for hire” 
+
+in two situations:
+
+•  When it is created by an employee as 
+
+part of the employee’s regular duties
+
+•  When a certain type of work is 
+
+created as a result of an express 
+
+written agreement between 
+
+the creator and a party specially 
+
+ordering or commissioning it
+
+When a work is a made for hire, 
+
+the hiring or commissioning party 
+
+is considered the author and the 
+
+copyright owner. 
+
+To register a work with the U.S. Copyright Office, you gener-
+ally must identify the author or authors of that work. In 
+addition, you must identify the party that owns the copyright 
+in the work. Ordinarily, the author is the person or persons 
+who actually created the work you intend to register. “Works 
+made for hire” are an exception to this rule.1 For legal pur-
+poses, when a work is a “work made for hire,” the author is 
+not the individual who actually created the work. Instead, the 
+party that hired the individual is considered both the author 
+and the copyright owner of the work. 
+
+Whether a work is a work made for hire is determined by 
+
+facts in existence at the time the work is created. There are 
+two situations in which a work made for hire is produced: 
+(1) when the work is created by an employee as part of the 
+employee’s regular duties and (2) when a certain type of work 
+is created as a result of an express written agreement between 
+the creator and a party specially ordering or commissioning 
+the work. When a work is produced under these conditions, 
+the employer or the party ordering or commissioning the 
+work is considered the author and copyright owner.
+
+The work made for hire concept can be complicated and 
+
+has serious consequences for both the individual who cre-
+ates a work and the hiring party who is considered to be 
+the author and copyright owner of that work. This circular 
+draws on the Copyright Act and judicial interpretation to 
+provide a general introduction to this topic and answer 
+common questions. For more information, see chapter 500, 
+section 506 or chapter 600, section 614 of the Compendium 
+of U.S. Copyright Office Practices.
+
+wcopyright.govCIRCULAR Definition in the Copyright Law
+
+The definition of work made for hire in the Copyright Act applies to works created on or after Janu-
+ary 1, 1978. For works created prior to 1978, see chapter 2100 of the Compendium of U.S. Copyright 
+Office Practices. Section 101 of the Copyright Act defines a “work made for hire” as
+
+A. A work prepared by an employee within the scope of his or her employment
+
+or
+
+B.  A work specially ordered or commissioned for use 
+
+1.  as a contribution to a collective work, 
+
+2.  as a part of a motion picture or other audiovisual work, 
+
+3.  as a translation, 
+
+4.  as a supplementary work, 
+
+5.  as a compilation, 
+
+6.  as an instructional text, 
+
+7.  as a test, 
+
+8.  as answer material for a test, or 
+
+9.  as an atlas, 
+
+if the parties expressly agree in a written instrument signed by them that the work shall be con-
+
+sidered a work made for hire. 
+
+A “collective work” is a work, such as a periodical, anthology, or encyclopedia, in which a number 
+
+of contributions, constituting separate and independent works in themselves, are assembled into a 
+collective whole.
+
+A “motion picture” is an audiovisual work consisting of a series of related images that, when 
+shown in succession, impart an impression of motion, together with accompanying sounds, if any.
+An “audiovisual work” is a work consisting of a series of related images that are intrinsically 
+
+intended to be shown by the use of machines or devices, together with accompanying sounds, if any. 
+This definition holds regardless of the nature of the material objects in which the work is embodied.
+A “supplementary work” is a work prepared for publication as a secondary adjunct to a work by 
+another author for the purpose of introducing, concluding, illustrating, explaining, revising, com-
+menting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial 
+illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, 
+bibliographies, appendixes, and indexes.
+
+A “compilation” is a work formed by the collection and assembling of preexisting material or data 
+
+that are selected, coordinated, or arranged in such a way that the resulting work as a whole consti-
+tutes an original work of authorship.
+
+An “instructional text” is a literary, pictorial, or graphic work prepared for publication and 
+
+intended for use in systematic instructional activities.
+
+2
+
+Works Made for Hire“Scope of Employment”
+
+For an employee’s work to be considered a work made for hire, the work must be created within 
+the employee’s “scope of employment.” The Copyright Act does not define the terms “employee,” 
+“employer,” or “scope of employment.” In its decision in Community for Creative Non-Violence v. 
+Reed, the U.S. Supreme Court held that Congress intended these terms “to be understood in light of 
+agency law,” which governs employer-employee relationships, and that the courts should rely “on 
+the general common law of agency, rather than on the law of any particular [s]tate, to give meaning 
+to these terms.” Questions you may need to consider include:
+
+•  What skill was required to create the work?
+
+•  Where was the work created? Did the hiring party provide the space, materials, or tools to 
+
+create the work?
+
+•  How long was the relationship between the parties? Did the hiring party have the right to 
+
+assign other projects besides the one under review? Could the hiring party direct the creator 
+when and how long to work?
+
+•  How was the creator paid? Did the hiring party offer employee benefits? Did the hiring party 
+
+remove taxes from the creator’s pay?
+
+•  Does the creator have his or her own business? Was the creator able to hire and pay assistants?
+
+•  Was the work created as part of the regular business hours of the hiring party? Was the work 
+created pursuant to the creator’s usual tasks? Was the work created during the creator’s autho-
+rized work time?
+
+Specially Ordered or Commissioned Works
+
+A specially ordered or commissioned work is considered a work made for hire if it satisfies all of the 
+following four criteria:
+
+1.  The work must fall within one of the nine categories of works listed above that are eligible to 
+
+be specially ordered or commissioned as works made for hire.
+
+2.  There must be a written agreement between the party that ordered or commissioned the 
+
+work and individual(s) who actually created the work.
+
+3. 
+
+In the written agreement, the parties must expressly agree that the work is to be considered a 
+work made for hire.
+
+4.  The agreement must be signed by all parties.
+
+If a work fails to satisfy any of these requirements, it is not a work made for hire.
+
+3
+
+Works Made for HireCopyright in Works Made for Hire
+
+A work’s status as a work made for hire affects the authorship, copyright ownership, copyright term, 
+and termination rights in that work.
+
+Authorship
+
+If a work is a work made for hire, the employer or the party that specially ordered or commissioned 
+that work is the author of that work.
+
+Copyright Ownership
+
+If a work is made for hire, the employer or the party that specially ordered or commissioned that 
+work is the initial owner of the copyright in the work unless the employer or the commissioning 
+party has signed a written agreement to the contrary with the work’s creator.
+
+Copyright Term
+
+The term of copyright protection in a work made for hire is 95 years from the date of publication or 
+120 years from the date of creation, whichever expires first. For information about copyright term, 
+see Duration of Copyright (Circular 15A).
+
+Termination Rights
+
+Under certain circumstances, an author or the author’s heirs can terminate an exclusive or 
+nonexclusive transfer or license of the copyright in a particular work under sections 203, 304(c), 
+and/or 304(d) of the Copyright Act. These termination provisions, however, do not apply to works 
+made for hire. For more information, see chapter 2300, section 2310 of the Compendium.
+
+Registration
+
+When you apply to register a work, you, not the Copyright Office, must determine whether the 
+work is a work made for hire. You should base your determination on the facts that existed when 
+the work was created. The examiner will generally accept your representation that a work is a work 
+made for hire unless your representation is contradicted by information known to the examiner 
+or available in the registration materials or the Office’s records. If your claim appears unusual or 
+implausible, the examiner may communicate with you or refuse registration. For more information, 
+see chapter 500, section 506, and chapter 600, section 614, of the Compendium.
+
+Questionnaire
+
+The parties involved must determine whether or not a work is a work made for hire. The Copyright 
+Office cannot provide legal advice about the status of a work. However, the following questions 
+may help you decide if a work created on or after January 1, 1978, fits within the law’s definition of 
+a work made for hire. The questions are derived from chapter 500, section 506, of the Compendium, 
+which contains examples illustrating some of the factors that indicate whether a work does or does 
+not qualify as a work made for hire. 
+
+4
+
+Works Made for Hirequestion 1: Was the work created by an employee? 
+Yes? Proceed to Question 2. 
+No? Proceed to Question 3.
+
+question 2: Did the employee create the work while acting within the scope of employment?
+Yes? The work is a work made for hire.
+No? Proceed to Question 3.
+
+question 3: Is there a written agreement between the commissioning party and the creator of the 
+work?
+Yes? Proceed to Question 4.
+No? The work is not a work made for hire.
+
+question 4: Was the written agreement signed by the commissioning party?
+Yes? Proceed to Question 5.
+No? The work is not a work made for hire.
+
+question 5: Was the written agreement signed by the creator of the work?
+Yes? Proceed to Question 6.
+No? The work is not a work made for hire.
+
+question 6: Did the parties expressly agree that the work shall be considered a “work made for 
+hire”? 
+Yes? Proceed to Question 7.
+No? The work is not a work made for hire.
+
+question 7: Does the work fall into one or more of the following categories?
+
+•  An atlas
+
+•  A test
+
+•  Answer material for a test
+
+•  A translation
+
+•  A part of a motion picture or other audiovisual work
+
+•  A compilation
+
+•  A contribution to a collective work
+
+•  A supplementary work
+
+•  An instructional text
+
+Yes? The work is a work made for hire.
+No? The work is not a work made for hire.
+
+5
+
+Works Made for Hirenote
+1. This circular is intended as an overview of works made for hire. The authoritative source for U.S. 
+copyright law is the Copyright Act, codified in Title 17 of the United States Code. Copyright Office 
+regulations are codified in Title 37 of the Code of Federal Regulations. Copyright Office practices and 
+procedures are summarized in the third edition of the Compendium of U.S. Copyright Office Practices, 
+cited as the Compendium. The copyright law, regulations, and the Compendium are available on the 
+Copyright Office website at www.copyright.gov.
+
+6
+
+Works Made for Hire7
+
+Works Made for HireFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 30  REVISED: 08 /2024 
+
+US GOVERNMENT PUBLISHING OFFICE/2024
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

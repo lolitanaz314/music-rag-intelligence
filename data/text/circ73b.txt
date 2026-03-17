@@ -1,0 +1,294 @@
+73B
+
+Compulsory License for 
+Making and Distributing 
+Digital Phonorecords
+and Limitations on Liability Prior to the  
+License Availability Date (January 21, 2021)
+
+Copyright law provides a compulsory 
+
+license for making and distributing 
+
+phonorecords of certain nondramatic 
+
+musical works. This circular addresses 
+
+the compulsory license for digital 
+
+phonorecord deliveries (DPDs) and 
+
+limitation on liability for making DPDs 
+
+available prior to January 1, 2021.
+
+It covers:
+
+•  When a compulsory license  
+
+can be used
+
+•  Activities covered by the compulsory 
+
+license and limitation on liability
+
+•  Eligibility for limitation on liability
+
+•  When royalties must be paid
+
+For information on the compulsory 
+
+license for non-DPD phonorecords, 
+
+see Compulsory License for Making 
+
+and Distribution Phonorecords Other 
+
+Than Digital Phonorecord Deliveries 
+
+(Circular 73A).
+
+Under section 115 of the Copyright Act, an individual or 
+entity, subject to certain terms and conditions, may make 
+digital phonorecord deliveries (DPDs) of nondramatic musi-
+cal works if they have already been distributed as phonore-
+cords to the public in the United States under the authority 
+of the copyright owner. When this condition does not exist, a 
+digital music provider may still make and distribute a DPD 
+of a musical work if it satisfies three criteria:
+
+1. 
+
+2. 
+
+3. 
+
+the first fixation of the sound recording embodied in 
+the DPD was made under the authority of the musical 
+work copyright owner; 
+
+the sound recording copyright owner has the author-
+ity of the musical work copyright owner to make and 
+distribute digital phonorecord deliveries of such musi-
+cal work to the public; and
+
+the sound recording copyright owner authorizes  
+the digital music provider to make and distribute 
+digital phonorecord deliveries of the sound record-
+ing to the public.
+
+NOTE: A nondramatic musical work is an original work of 
+authorship consisting of music—the succession of pitches 
+and rhythm—and any accompanying lyrics not created for 
+use in a motion picture or dramatic work.
+
+On October 11, 2018, the Orrin G. Hatch–Bob Goodlatte 
+
+Music Modernization Act updated section 115 to establish 
+a new blanket license for digital music providers to engage 
+in specific covered activities, namely, permanent downloads, 
+limited downloads, and interactive streaming.
+
+This blanket license is not yet available. However, the Office 
+
+will no longer accept Notices of Intention to Obtain a Com-
+pulsory License (NOIs) for making a DPD of a musical work, 
+
+wcopyright.govCIRCULAR such as in the form of a permanent download, limited download, or interactive stream. During the 
+current transition period, set to end on the license availability date of January 1, 2021, licensees may 
+still serve NOIs directly on copyright owners and, as discussed further below, may in certain circum-
+stances enjoy a limitation of liability for activity covered by section 115. 
+
+After the transition period, users will be able to obtain a blanket license covering all musical 
+
+works available for compulsory licensing for DPDs by submitting a notice of license to the Mechani-
+cal Licensing Collective (MLC). Designated by the Register of Copyrights, the MLC’s duties will 
+include collecting and distributing royalties from digital musical providers, establishing a musical 
+works database, and administering a process by which copyright owners can claim ownership of 
+musical works (and shares of musical works).1
+
+What Is a Phonorecord?
+
+A phonorecord is a material object in which sounds are fixed by any method now known or later 
+developed and from which the sounds can be perceived, reproduced, or otherwise communicated, 
+either directly or with the aid of a machine or device. Examples include a cassette tape, a vinyl disc, 
+or a compact disc. Digital phonorecord deliveries are types of phonorecords. A phonorecord does 
+not include sounds accompanying a motion picture or other audiovisual work.
+
+What Is a Digital Phonorecord Delivery?
+
+A digital phonorecord delivery (DPD), is the individual digital transmission of a sound recording 
+resulting in a specifically identifiable reproduction by or for a recipient, regardless of whether the 
+digital transmission is also a public performance of the sound recording or any underlying nondra-
+matic musical work. The reproduction must be sufficiently permanent or stable to permit it to be 
+perceived, reproduced, or otherwise communicated for a period of more than transitory duration. 
+The reproduction may be permanent or available to the recipient for a limited period of time or for a 
+specified number of performances. A DPD includes all phonorecords that are made for the purpose 
+of making the delivery. Permanent downloads, limited downloads, and interactive streams are DPDs. 
+
+What Can I Do under a Compulsory License or Limitation on Liability?
+
+If you meet the statutory requirements, including payment of required royalties, you may engage in 
+the following activities, known as “covered activities”: 
+
+•  Make and distribute DPDs of the eligible nondramatic musical work, including in the form of 
+a permanent download, limited download, or interactive stream, where the primary purpose 
+is distribution to the public for private use.
+
+•  Make a musical arrangement of the work to the extent necessary to conform it to the style or 
+
+manner of interpretation of the performance involved.
+
+2
+
+Compulsory License for Making and Distributing Digital PhonorecordsYou cannot engage in the following activities. You will need to seek permission from the copyright 
+
+owner to:
+
+•  Make, reproduce, or distribute a sound recording publicly distributed in phonorecords.
+
+•  Distribute phonorecords intended for use in background music systems, jukeboxes, broadcast-
+
+ing, or any other public use (such as a concert).
+
+•  Change the basic melody or fundamental character of the work in the arrangement.
+
+•  Claim copyright protection in your arrangement as a derivative work.
+
+Does “Covered Activity” Include Making and Reproducing a Sound Recording?
+
+No. Section 115 does not cover sound recordings. Rather, it covers the reproduction and distribution 
+of nondramatic musical works.
+
+A musical work and a sound recording are two separate works for copyright purposes. The author 
+
+of a musical work is generally the composer and any lyricist. A sound recording, on the other hand, 
+is the fixation of a series of musical, spoken, or other sounds, often of a musical work. The author(s) 
+of a sound recording is generally the performer(s) whose performance is fixed and/or the producer(s) 
+who captures and processes the performance to make the final recording.
+
+Licenses generally must be obtained separately from the copyright owners of the sound recording 
+and the underlying musical work. Copyright in a sound recording is not the same as, or a substitute 
+for, copyright in the underlying musical work.
+
+For more general information about these works, see Copyright Registration for Musical  
+
+Compositions (Circular 50), Copyright Registration for Sound Recordings (Circular 56), and Copyright 
+Registration of Musical Compositions and Sound Recordings (Circular 56A).
+
+How Do I Obtain a Compulsory License?
+
+The Office will no longer accept Notices of Intention to Obtain a Compulsory License (NOIs) 
+for making a digital phonorecord delivery of a musical work, such as in the form of a permanent 
+download, limited download, or interactive stream. While the blanket license is not yet available, 
+during the current transition period, licensees may still serve NOIs directly on copyright owners and, 
+as discussed further below, may in certain circumstances enjoy a limitation of liability for activity 
+covered by section 115.
+
+How Do I Preserve Eligibility for the Limitation on Liability?
+
+A digital music provider must engage in good-faith, commercially reasonable efforts to identify 
+and locate musical work copyright owners. The digital music provider must also be prepared to pay 
+accrued royalties to the musical work copyright owner once they are located, or transfer accrued, 
+unmatched royalties to the MLC after the close of the transition period.
+
+3
+
+Compulsory License for Making and Distributing Digital PhonorecordsWhat are Good Faith Efforts to Identify Copyright Owners?
+
+As part of engaging in good-faith, commercially reasonable efforts to identify musical work copy-
+right owners, the digital music provider is required to use one or more bulk electronic matching 
+processes, and must continue using these processes on a monthly basis for so long as the musical 
+work rights owner remains unidentified.
+
+The search must include:
+
+•  sound recording name, featured artist, sound recording copyright owner, producer, inter-
+
+national standard recording code, and other information commonly used in the industry to 
+identify sound recordings and match them to the musical works they embody; and 
+
+•  any available musical work ownership information, including each songwriter and publisher 
+
+name, percentage ownership share, and international standard musical work code.
+
+The digital music provider must employ at least one bulk electronic matching process. These 
+matching efforts must be repeated at least once per month for so long as the owner remains uniden-
+tified or is not located.
+
+What are the Payment and Reporting Requirements?
+
+If the musical work copyright owner is identified or located during this search process, the digital 
+music provider is required to report and pay that copyright owner any royalties owed. 
+
+If the musical work copyright owner remains unidentified between October 11, 2018, and Janu-
+ary 1, 2021, the digital music provider must be prepared to pay accrued royalties to the musical work 
+copyright owner once they are located, or provide these unmatched, accrued royalties to the MLC 
+and provide a cumulative usage report and accrued royalties to MLC within forty-five days of the 
+license availability date, January 1, 2021. 
+
+How Do I Make Royalty Payments?
+
+Royalty payments, accompanied by a monthly statement of account, must be sent to the copyright 
+owner or authorized agent of the owner on or before the twentieth day of each month for every 
+phonorecord made and distributed. 
+
+NOTE: The Office will not accept royalty fee payments submitted with the statements of account.
+
+The Office does not provide forms for the monthly or annual statements of account. For detailed 
+instructions about the content of statements of account, see section 210 of Office regulations.
+
+For current copyright royalty rates under the compulsory license for making and distributing  
+
+phonorecords, see Mechanical Copyright Royalty Rates or contact the Licensing Section of the 
+Copyright Office. The Copyright Royalty Board sets the rates and terms for use of the compulsory 
+licenses pursuant to an administrative proceeding. For more information, visit www.crb.gov.
+
+4
+
+Compulsory License for Making and Distributing Digital Phonorecords 
+NOTE
+1. This circular is intended as an overview of the section 115 compulsory license as it applies to 
+digital phonorecord deliveries. The authoritative source for U.S. copyright law is the Copyright Act, 
+codified in Title 17 of the United States Code. Copyright Office regulations are codified in Title 37 of 
+the Code of Federal Regulations. Copyright Office practices and procedures are summarized in the 
+third edition of the Compendium of U.S. Copyright Office Practices, cited as the Compendium. The 
+copyright law, regulations, and the Compendium are available on the Copyright Office website at 
+www.copyright.gov.
+
+5
+
+Compulsory License for Making and Distributing Digital PhonorecordsFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, and related materials 
+are available from the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send a licensing related inquiry, e-mail licensing@copyright.gov. To send a general email inquiry, 
+click the Contact Us link on the Copyright Office website. 
+
+By Telephone
+
+For licensing related information, call the Licensing Section at (202) 707-8150. For general infor-
+mation about copyright, call the Copyright Public Information Office at (202) 707-3000 or 1-877-
+476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, Monday 
+through Friday, except federal holidays. To request paper application forms or circulars by postal 
+mail, call (202) 707-9100 or 1-877-476-0778 (toll free) and leave a recorded message.
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+Copyright Office-LS
+101 Independence Avenue SE
+Washington, DC 20557-6400
+
+CIRCULAR 73B  REVISED: 09 /2022 
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

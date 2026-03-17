@@ -1,0 +1,322 @@
+Copyright Registration of
+Photographs
+
+This circular provides information
+
+about registering photographs with
+
+the U.S. Copyright Office. In particular,
+
+it covers the eligibility requirements
+
+and procedures for registering a group
+
+of unpublished or a group of published
+
+photographs. Group registration
+
+is suitable for most applicants
+
+registering multiple photographs.
+
+For specific information regarding
+
+the copyrightability of photographs,
+
+see chapter 900, section 909 of the
+
+Compendium of U.S. Copyright Office
+
+Practices. For specific information
+
+regarding photographic databases,
+
+see chapter 1100, section 1117 of the
+
+Compendium.1
+
+Photographs may be registered with the U.S. Copyright
+Office as visual art works. The copyright in a photograph
+protects the photographer’s artistic choices, such as the selection of the subject matter, any positioning of subject(s), the
+selection of camera lens, the placement of the camera, the
+angle of the image, the lighting, and the timing of the picture.
+For example, if a photography club visited the National
+Mall and photographed the Washington Monument, each
+photographer would have a separate claim to copyright in his
+or her individual photographs. Although the photographs feature the same subject in the same setting and may share a similar perspective, each photographer made individual creative
+choices—such as the angle or positioning of the Washington
+Monument—in producing his or her respective images.
+
+The author and initial copyright owner of a photograph is
+generally the person who “shoots” or “takes” the photo. One
+limited exception to this rule is when a photograph is created
+as a “work made for hire.” For more information, see Works
+Made for Hire (Circular 30).
+
+Although most photographs are protected by copyright,
+the Office will not register photographs that lack a sufficient
+amount of creative expression.
+
+Photographs and Publication
+
+To register a copyright claim in a particular photograph, you
+will need to identify whether that photograph is published
+or unpublished. Whether a photograph has been published
+or not affects both the legal relief available for copyright
+infringement and which registration option you may choose
+to register your photograph(s). The Copyright Office strongly
+encourages you to register your photographs before they are
+published.
+
+The person who owns the copyright in a photograph
+determines whether that work should be published. If the
+
+wcopyright.govCIRCULAR
+
+--- PAGE BREAK ---
+
+copyright owner decides to publish a particular photograph, the owner determines when, where,
+and how that work should be published.
+
+For copyright purposes, a photograph is published on the specific month, day, and year that a
+copy or multiple copies of that work are distributed to the public for the first time. A photograph is
+also published when copies of that work are offered to a group of persons for the first time for purposes of further distribution or public display. The public display of a photograph, in and of itself,
+does not constitute publication.
+
+If the photographs are eligible for group registration and have been published, the applicant
+
+should complete the online application for “Published Photographs.”
+
+If the photographs are eligible for group registration and have not been published, the applicant
+
+should complete the online application for “Unpublished Photographs.”
+
+Registration of Photographs
+
+This circular discusses group registration of photographs. For general registration information, or
+information on registering one photograph, see Copyright Registration (Circular 2).
+
+While the general rule for registration is to submit one application, filing fee, and deposit for
+each work you want to register, the Copyright Office has established group registration options for
+photographers. Group registration of unpublished photographs and group registration of published
+photographs allow photographers to register multiple photographs with one submission.
+
+note: The “Unpublished Collection” option is no longer available for photographic works. This option
+has been replaced by the group registration option for unpublished photographs.
+
+To register a claim to copyright in two or more photographs, you must submit the following to the
+Copyright Office: (1) a completed application form; (2) a nonrefundable filing fee; (3) a digital copy of
+each photograph; and (4) a list providing the title and file name assigned to each photograph.
+
+note: Copyright Office fees are subject to change. For current fees, see Copyright Office Fees (Circular 4),
+available on the Office’s website at www.copyright.gov or call the Office at (202) 707-3000 or 1-877-
+476-0778 (toll free).
+
+Group Registration Eligibility
+
+Multiple photographs may be registered together as long as they meet the following requirements:
+
+•  All of the works in the group must be photographs. Other works may not be combined with
+
+photographs for group registration.
+
+•  All of the works in the group must either be all published or all unpublished. A group registra-
+
+tion may not contain both published and unpublished photographs.
+
+•  The group must include no more than 750 photographs, and the application must specify the
+
+total number of photographs in the group.
+
+•  All of the photographs must be created by the same author.
+
+•  The copyright claimant(s) for all the photographs must be the same person or organization.
+
+•  The group of photographs as a whole must have a title.
+
+--- PAGE BREAK ---
+
+There is one additional requirement for registering a group of published photographs:
+
+•  All of the photographs must be published within the same calendar year, and the application
+
+must specify the earliest and the latest date that the photographs were published.
+
+note: If the photographs were created as “works made for hire,” they may be registered using the
+group option as long as all of the photographs were created for the same employer, the employer is
+named as the author of each photograph, and the photographs are identified in the application as
+“works made for hire.”
+
+Completing the Group Registration Application
+
+To register a group of photographs, you must complete an online application and submit a digital
+copy of each photograph. To access the application, log into your eCO account. Choose “Register
+a Group of Photographs” under the “Copyright Registration” heading on the upper left side of the
+home page. Then, choose either “Published Photographs” or “Unpublished Photographs” for the
+“Type of Group.” The questions in the application are based on the type of group you select. If you
+select the wrong option, you will need to start over.
+
+Mistakes in applications lead to delays in registration, so it is important to complete the application accurately. The Office offers the following resources for photographers who use the group registration options:
+
+•  Help Text. Instructions for completing an online application appear in the help text that
+accompanies the application. Use the following links to find help for each application:
+
+ » Help for unpublished photographs
+
+ » Help for published photographs
+
+The following tips can help clarify common points of confusion.
+
+Title List
+
+•  As mentioned earlier, you must prepare and submit a list specifying the title and file name for
+each photograph in the group. The title and file name for a particular photograph may be the
+same. If you are registering a group of published photographs, the list also must include the
+month and year that each photograph was published.
+
+•  The Copyright Office strongly encourages you to prepare this list before you begin the application. Doing so will make it easier to complete the “Title” section of the application. The Office
+has developed a template that may be used to create your title list. Guidance for completing
+this template is provided in the help text mentioned above.
+
+•  The title list must be submitted in Excel (.xls, .xlsx), Portable Document Format (PDF), or
+other electronic format approved by the Office. The file name for the list must contain the
+name you plan to use to identify the entire group of photographs (discussed below) and the
+case number assigned to the application by the electronic registration system.
+
+Example file name: [Name of Group] Case Number 1-6283927239.xls
+
+•  The file name for the title list must be entered in the application itself in the space provided on
+the certification screen. The Office will use this information to locate and identify your list.
+
+--- PAGE BREAK ---
+
+Title and Publication Information
+
+•  Name of the group. You must provide a name for the whole group of photographs. For example, if the author created the photographs for a particular client or project, you may want to
+include the name of that client or project in the title of the group.
+
+•  Number of photographs in the group. You must specify the total number of photographs being
+registered with your application. The maximum number of photographs in the group is 750.
+
+•  Year of completion. You must provide the year of completion. If the photographs were created
+over a period of two or more years, provide the year of creation for the most recent photograph in the group you wish to register.
+
+•  Publication dates. If you are registering a group of published photographs, you must identify
+
+the earliest, as well as the most recent, date that the photographs were published. You also must
+identify the nation where the photographs were first published. If you are not sure where the
+photographs were published, you may select “Not Known” from the drop down list.
+
+•  Title of each photograph. You are strongly encouraged to enter the title of each photograph in
+the application itself in addition to uploading the list of titles mentioned above. If you do so,
+the titles will be included in the certificate of registration and online public record. If you do
+not enter titles in the application, they will not appear on the certificate of registration or the
+online public record. To provide title information in the application:
+
+ » Click “New.”
+
+ » Copy the titles from your title list and paste them in the “Photographs Titles” space. Be sure
+to include a comma after each title; if you use the Office’s template, these commas will be
+added automatically. Alternatively, you may enter the title for each photograph individually,
+separated by commas.
+
+ » In the “Number of Photographs Entered on This Screen” space, select the number of titles
+
+you entered.
+
+ » If you are registering a group of published photographs, specify the month the photographs
+were published. If the photographs were published in different months, you should provide
+separate entries for each month. For example, if the photographs were published in January
+and February, provide titles for the photographs published in January, save this information,
+and then repeat the previous steps for the photographs published in February.
+
+ » Click save.
+
+note: You may provide up to 1,995 characters in the “Photograph Titles” space. Once you reach this
+limit, the system will generate an error message. If you need to enter more titles, click “New” and
+repeat the previous steps.
+
+Submitting the Deposit
+You must submit one digital copy of each photograph in a JPEG, GIF, or TIFF format. The file name
+for each photograph should match the corresponding file names provided in your title list.
+
+In addition, you must submit the title list mentioned above.
+The Office strongly encourages you to combine the photographs and title list in a .zip file containing all of the photographs and upload that file into the Office’s electronic registration system.
+The file size for each upload must not exceed 500 megabytes. The photographs may be compressed
+to comply with this requirement.
+
+--- PAGE BREAK ---
+
+Alternatively, you may place the photographs and title list on a physical storage device, such as
+a flash drive, CD-R, or DVD-R, and deliver the device to the Copyright Office, but this option will
+significantly delay the Office’s examination. To submit a physical device that includes copies of your
+works after completing the online application, print a shipping slip from the “Submit Your Work”
+screen and send it with your deposit in the same package to the address on the shipping slip.
+
+Other Registration Options for Registering Multiple Photographs
+
+There are other ways to register photographs not described in this circular. The following resources
+provide additional information regarding these options:
+
+•  Group Registration of Contributions to Periodicals (Circular 62C) provides information about
+
+registering works that are first published in periodicals. This registration option may be useful
+when (1) the same individual created multiple types of works, including photographs; (2) all of
+the works were first published in periodicals within a twelve-month period; and (3) the same
+claimant owns the copyright in all of the works.
+
+•  Multiple Works (Circular 34) provides information about registering collective works and works
+first published in a “unit of publication.” A collective work registration may be useful when
+an applicant is registering a claim in the creative selection, coordination, or arrangement of
+content found within the collective work, such as a catalog containing photographs, text, and
+other copyrightable material. A unit of publication registration may be useful when an applicant is registering a claim in separate discrete works that were physically packaged together
+and first published as a physically bundled unit.
+
+note: The unit of publication option may not be used to register photographs that were first published online or in a digital form.
+
+•  Chapter 1100, section 1117 of the Compendium provides information regarding group registration of photographic databases. This registration option may be useful when an applicant is
+registering a claim in the creative selection, coordination, or arrangement of the photographs
+within a database.
+
+note
+1. This circular is intended as an overview of copyright registration of photographs. The authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United States Code.
+Copyright regulations are codified in Title 37 of the Code of Federal Regulations. Copyright Office
+practices and procedures are summarized in the third edition of the Compendium of U.S. Copyright
+Office Practices, cited as the Compendium. The copyright law, regulations, and the Compendium are
+available on the Copyright Office website at www.copyright.gov.
+
+--- PAGE BREAK ---
+
+For Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time,
+Monday through Friday, except federal holidays. To request application forms or circulars by
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message.
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 42  REVISED: 03/2021
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

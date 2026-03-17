@@ -1,0 +1,4295 @@
+THE ECONOMIC 
+IMPACT OF MUSIC 
+IN EUROPE
+
+NOVEMBER 2020
+
+FOREWORD
+
+Frances Moore,  
+Chief Executive, IFPI, 
+representing the global 
+recording industry worldwide 
+
+European music is an essential part of our lives. 
+
+Whether in good times or tough times, music is there for us. 
+It thrills us at life’s great moments. It fosters our well-being 
+and helps us heal when we’re down. It shapes our identity and 
+culture. 
+
+Music also has a powerful economic impact on Europe – 
+supporting jobs, boosting gross domestic product and tax 
+payments, and driving exports. 
+
+This report by Oxford Economics provides, for the first time, an 
+authoritative analysis of these key economic aspects of music’s 
+vital contribution to the economies of the European Union (EU) 
+and the UK.  
+
+The numbers are impressive. Across the 27 Member States of 
+the EU and the UK (based on 2018 data), the music sector:
+
+• Supports two million jobs;
+• Contributes €81.9 billion gross value added (GVA) annually to 
+
+the EU 28’s GDP; and
+
+• Exports €9.7 billion worth of goods and services to countries 
+
+outside the EU 28.
+
+To put these into perspective, music’s economic contribution to 
+the EU 28 was larger than the GDP of nine EU countries, and its 
+music exports were even greater than those of its world-famous 
+GI protected wines.
+
+And at the heart of it all are the EU’s 7,400 record companies – 
+helping to create the music that fans love and working to help 
+artists achieve their greatest creative and commercial potential.
+
+By quantifying these vital economic contributions, even above 
+and beyond music’s artistic and human benefits, this report is 
+intended to help guide EU and UK policymakers in support of a 
+healthy and robust European music ecosystem.
+
+1
+
+Acknowledgments
+
+In addition to the work carried out by Oxford Economics, this report would not be possible 
+without the significant input of the music community in Europe. I have no doubt that our 
+community will continue to work together to ensure that music’s contribution – both cultural 
+and economic – remains as relevant and as vital to Europe as ever. 
+
+Specifically, we would like to thank the many organisations and companies who provided 
+data and assistance, not least of all the many record labels, music publishers, digital audio 
+streaming services as well as colleagues at IFPI National Groups, the Independent Music 
+Companies Association (IMPALA), the European Grouping of Societies of Authors and 
+Composers (GESAC) and their member collective management societies, the International 
+Confederation of Societies of Authors and Composers (CISAC), music licensing companies of 
+producers and performers, the European Network for Live Music Associations (Live DMA), the 
+International Federation of Musicians (FIM), the European Music Managers Alliance (EMMA), 
+Music Industries Association (MIA), Association Européenne des Conservatoires, Académies 
+de Musique et Musikhochschulen (AEC), the Performing Arts Employers’ Association League 
+Europe (PEARLE), as well as many others whose names or studies have been referenced in the 
+Bibliography and Methodology sections of the report. 
+
+The Economic Impact of Music in EuropeTABLE OF CONTENTS
+
+Executive summary 
+
+1.  Introduction 
+
+1.1  Objective of the report 
+
+1.2  Definition of the music sector 
+
+1.3  Challenges in estimating the size of the music sector 
+
+1.4  The structure of the report 
+
+2.  Contribution to GDP 
+
+2.1  The music sector’s total contribution to GDP 
+
+2.2 The music sector’s direct contribution to GDP 
+
+2.3 The GDP supported by the music sector’s indirect and 
+
+induced impacts 
+
+3.  Employment 
+
+3.1  The music sector’s total impact on employment 
+
+3.2 The music sector’s direct employment 
+
+3.3 The employment supported by the music sector’s  
+
+indirect and induced impacts 
+
+4.  Tax receipts 
+
+4.1  The music sector’s total contribution to tax receipts 
+
+5.  Exports 
+
+5.1  Exports of goods 
+
+5.2 Exports of digital goods and services 
+
+5.3 Total exports 
+
+6.  Conclusion 
+
+7.  Bibliography 
+
+Appendix: Data and methodology 
+
+6
+
+12
+
+12
+
+12
+
+13
+
+16
+
+18
+
+18
+
+19
+
+19
+
+22
+
+22
+
+22
+
+23
+
+26
+
+26
+
+28
+
+28
+
+29
+
+30
+
+32
+
+34
+
+36
+
+3
+
+The Economic Impact of Music in EuropeTHE ECONOMIC IMPACT 
+OF MUSIC IN EUROPE 
+€81.9 billion 
+
+90
+
+80
+
+€37.5 billion  
+
+Direct impact of the music sector
+
+Music sector’s total GVA 
+contribution to GDP in  
+the EU27+UK
+
+Larger than the GDP of 
+9 of the 28 EU countries 
+(Luxembourg, Bulgaria, 
+Croatia, Slovenia, Lithuania, 
+Latvia, Estonia, Cyprus, Malta)
+
+€66.3 billion 
+The music sector’s GVA 
+contribution to GDP in  
+the EU27 alone
+
+1.5 × larger than the GDP 
+contribution of the wine and 
+beer manufacturing sectors
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+2.0 million Total jobs supported
+This is 1 in every 119 jobs
+
+1.3 million directly employed 
+by the music sector
+24% higher than the 
+European audiovisual sector
+
+7,400
+
+Record companies across 
+the EU27+UK**
+
+**  Data rounded to nearest 10
+
+140
+
+1,670
+
+200
+
+110
+
+50
+
+800
+
+100
+
+780
+
+340
+
+70
+
+200
+
+20
+
+100
+
+390
+
+190
+
+390
+
+910
+
+70
+
+170
+
+70
+
+210
+
+120
+
+170
+
+60
+
+120
+
+€9.7 billion
+
+Export revenue 
+(conservative estimate) 
+
+13% more than 
+
+exports of all European 
+GI-protected wines*
+
+*  Protected Designation of Origin +  
+Protected Geographical Indication
+
+€31.0 billion Total tax contribution €26.2 billion 
+Equivalent to 19.4% of the entire EU budget
+
+contribution to the 
+EU27 alone
+
+4
+
+Every €1 directly  
+generated or invested  
+by record companies  
+led to an additional €1.8 
+GDP contribution in other 
+parts of the music sector 
+value chain.
+
+<10
+
+<10
+
+€2.3 billion
+
+     Record companies’  
+        revenues from European  
+         music exports
+
+Data from 2018 and covers the EU27 and the UK unless stated otherwise.
+5
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeEXECUTIVE SUMMARY
+
+This report quantifies the gross value added, 
+employment and tax contributions the music 
+sector made to the economies of the 27 
+Member States of the European Union (EU27) 
+and the UK in 2018.1 This is an important task 
+because the music sector, as with other creative 
+industries, is poorly captured by national 
+statistical agencies’ data. So this report should 
+help to better inform firms within the sector, 
+policymakers, and other stakeholders as to the 
+music sector’s economic importance both in 
+absolute terms and relative to other industries.
+
+For the purposes of this study, the ‘music 
+sector’ is defined as encompassing the following 
+entities and segments, in accordance with the 
+WIPO Guide2 methodology: record companies; 
+music publishers; recording studios; authors; 
+performers; artist management; collective 
+management organisations; music radio; music 
+television; digital music services; physical music 
+retail; live music event production; concert 
+venues; manufacturing and retailing of musical 
+instruments and music equipment; music 
+merchandising; and music teachers.
+
+The scope of this exercise and the metrics used 
+to quantify the impacts of the music sector do 
+not represent the sector’s aggregated revenue 
+or sales. In the simplest terms, the key metric 
+
+analysed in this report, the Gross Value Added 
+(GVA) contribution to the GDP, is the value of 
+goods or services produced minus the value of 
+materials and services used in the production 
+thereof. The calculation of the sector’s GVA 
+guarantees that it is the actual economic 
+contribution to the GDP that is measured – 
+something that is not achieved by adding up 
+the sector’s turnover for example. 
+
+To produce this report, Oxford Economics 
+conducted an economic impact assessment 
+on the music sector across the EU27 and UK. 
+This involved analysing the impact of the sector 
+itself, its procurement of goods and services 
+from European suppliers, and the payment of 
+wages both by the sector itself and along its 
+supply chain. Estimates of the sector’s impact 
+are made for four metrics:
+
+• its gross value added contribution to GDP; 
+• employment; 
+• tax receipts; and 
+• export earnings.
+
+The report was commissioned by IFPI, which 
+is the trade body representing the recording 
+industry worldwide.
+
+1 At the time of the study, 2018 was the last full year for which data were consistently available.
+2 WIPO Guide on Surveying the Economic Contribution of the Copyright Industries (2015, revised edition): https://www.wipo.int/
+edocs/pubdocs/en/copyright/893/wipo_pub_893.pdf
+
+6
+
+THE GDP SUPPORTED BY THE MUSIC SECTOR IN EUROPE
+
+Total GVA contribution
+
+We calculate that in 2018 the music sector supported a €81.9 
+billion gross value added contribution to GDP in the EU27 and 
+UK. The estimate of €81.9 bn in total economic impact should 
+be taken as a minimum overall contribution to the GDP, which 
+would be considerably higher if we were able to better estimate 
+the value that music contributes to the economic activity 
+generated by film, television, advertising, and video gaming. To 
+give an indication of scale, this is larger than the GDP of 9 out 
+of the 28 EU countries (Luxembourg, Bulgaria, Croatia, Slovenia, 
+Lithuania, Latvia, Estonia, Cyprus, Malta) in the same year.
+
+Direct economic impact
+
+The music sector’s direct GVA contribution amounted to 
+€37.5 billion. This was 1.5 larger than the GDP contribution of the 
+EU’s historic and world-famous wine and beer manufacturing 
+sectors in the EU27 and the UK in the same year. 
+
+The study finds that for every €1 in GDP the music sector 
+directly generated in 2018, it supported the creation of an 
+additional €1.20 in GDP elsewhere in the European economy. 
+The music sector is therefore said to have a ‘GDP multiplier’ of 
+2.2. The size of this multiplier reflects the high level of music 
+sector firms’ procurement from other firms within the music 
+sector itself. Record companies alone, however, had a higher 
+GDP multiplier of 2.8 which means that every €1 in GDP directly 
+generated by record companies led to the stimulation of a 
+further €1.80 in GDP elsewhere in the economy (including other 
+parts of the music sector). This higher multiplier reflects the 
+high level of record company investment in other parts of the 
+music sector value chain. 
+
+Indirect and induced economic impact
+
+In addition to the direct contribution, the music sector also 
+contributed to the European economy through its procurement 
+of goods and services (the indirect impact), as well as the 
+wages it paid, which were subsequently used to buy consumer 
+goods and services (the induced impact). Both of these types 
+of expenditure stimulated economic activity elsewhere in the 28 
+countries. We estimate that in 2018 further GVA contributions 
+to EU27 and UK GDP of €22.8 billion and €21.6 billion were 
+stimulated by this procurement and wage financed consumer 
+spending, respectively.
+
+€81.9 billion
+
+The music sector  
+supported a €81.9 billion  
+gross value added  
+contribution to EU27  
+and UK GDP in 2018.
+
+€37.5 billion
+
+The music sector’s  
+direct GVA  
+contribution.
+
+2.2 ×  
+GDP multiplier
+for every €1 in GDP the music 
+sector directly generated in 2018, 
+it supported the creation of an 
+additional €1.20 in GDP elsewhere 
+in the European economy.
+
+7
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeEU27 findings
+
+EXPORT EARNINGS
+
+€9.7 billion
+
+In 2018, the music 
+sector exported 
+€9.7 billion 
+worth of goods 
+and services to 
+countries outside 
+the EU27 and UK.
+
+In 2018, the music sector was conservatively estimated to have 
+earned €9.7 billion in revenue from exports to countries outside 
+the EU27 and UK. This amount was around 2.3 times larger than 
+the amount the EU27 and UK earned from audiovisual exports 
+to the rest of the world.6 Alternatively, at €9.7bn, EU27 and UK 
+music exports generated 13% more in revenues than extra-EU 
+exports of all European GI-protected wines in 2017.7
+
+EU27 and UK record companies, music publishers, and audio 
+streaming services generated €4.7 billion (49%) of this export 
+figure. The exports of certain music-related goods (sound 
+recording and reproduction apparatus, musical instruments and 
+devices for playing music such as radios, etc) generated a further 
+€5.0 billion in exports revenue for the EU27 and UK trade balances.
+
+The extra-EU exports estimate is conservative because not all 
+export revenue streams were included in the study because of 
+data availability (e.g. data was unavailable for all collectively 
+managed music export revenues or revenues from international 
+concerts/tours in non-EU countries).
+
+€66.3 billion
+
+GVA contribution  
+to GDP in the  
+EU27 alone.
+
+2.0 million
+
+The music sector 
+supported 2.0 
+million people in 
+employment across 
+the EU27 and UK in 
+2018— so 1 in every 
+119 jobs depended  
+on the music sector.
+
+Taking the EU27 economies without the UK, we find that the 
+music sector supported a €66.3 billion GVA contribution to 
+EU27 GDP in 2018. The difference between this EU27 figure 
+and our €81.9 billion total for the EU27 and UK consists of 
+the economic impact of the music sector in the UK, plus the 
+additional impact of any purchases made by EU27 entities from 
+UK suppliers and vice versa, and comparable cross-border wage-
+financed consumption. Consequently, this difference between 
+the two figures cannot be interpreted as the size of the UK music 
+sector’s economic impact on the EU27 and UK economies.
+
+THE MUSIC SECTOR’S IMPACT ON EMPLOYMENT IN EUROPE
+
+In 2018, the music sector directly or indirectly supported 
+the employment of two million people across the EU27 and 
+UK economies, including people in full-time, part-time, and 
+self-employed roles. This means that one in every 119 persons’ 
+employment in the 28 countries was dependent on the music 
+sector in some way.
+
+Direct employment
+
+Of the two million people whose jobs were supported by the 
+music sector, 65% (1.3 million) worked in the music sector itself 
+in 2018 – i.e. the sector directly contributed 1.3 million jobs. 
+This was 2.1 times higher than the number of people who were 
+employed in the EU27 and UK’s information service activities 
+sector in 20183 and 24% higher than the direct employment in 
+the European audiovisual sector in the same year.4
+
+€31.0 billion
+
+In 2018, the music sector 
+supported €31.0 billion 
+in tax receipts across the 
+EU27 and UK.
+
+TAX RECEIPTS
+
+The music sector is estimated to have supported – i.e. either 
+contributed or stimulated other sectors to contribute – 
+€31 billion in tax receipts in the EU27 and UK in 2018. This €31 
+billion in tax revenues was equivalent to 19.4% of the entire EU 
+budget in the same year.5 Within the EU27 alone, the sector 
+supported €26.2 billion in tax contributions.
+
+8
+
+3 Source: Eurostat: Annual detailed enterprise statistics for services. (Information service activities includes firms that undertake data 
+processing, web hosting, internet search facilities, and news agencies)
+4 AVdata4Europe figures, available at: https://avdata4europe.eu/key-data/ 
+5 Available at: https://www.consilium.europa.eu/en/press/press-releases/2017/11/30/2018-eu-budget-adopted/#:~:text=The%20
+2018%20EU%20budget%20is,to%20react%20to%20unforeseen%20needs.
+
+6 Available at: https://avdata4europe.eu/key-data/
+7 Source: European Commission, 2019. Study on the economic value of EU quality Schemes, geographical indications (GIs) and 
+traditional specialities guaranteed (TSGs). Table 5, Page 18.
+
+9
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europe10
+
+11
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europe1. INTRODUCTION
+
+1.1 OBJECTIVE OF THE REPORT
+
+This report quantifies the 
+contribution the music sector 
+made to the EU27 and the UK 
+economies in 2018. To achieve 
+that task we have undertaken 
+an economic impact appraisal 
+of the sector. This involves 
+quantifying the contribution 
+made by the music sector8, 
+and the economic activity it 
+stimulates across the rest of the 
+EU27 and UK economies by its 
+procurement and payment of 
+wages, which are subsequently 
+spent in the consumer 
+economy. The results of the 
+economic impact appraisal are 
+presented for three metrics: 
+
+1)  Gross domestic product 
+
+(GDP)
+
+2) Employment
+3) Tax receipts
+
+This exercise, and the metrics 
+used, are very different in 
+scope from studies or reports 
+analysing turnover or the 
+aggregated revenue of the 
+music sector or of any one 
+part thereof.9 Each segment’s 
+GDP contribution is typically 
+less than the revenue that 
+sector earns, as purchases of 
+goods and services used in 
+the production of the sector’s 
+output (and by its suppliers) are 
+not included. A GVA calculation 
+is the only way of analysing a 
+sector’s contribution to GDP 
+because, unlike turnover data, it 
+eliminates any double-counting 
+of revenues within the sector’s 
+supply chain.
+
+The report also estimates the 
+export earnings generated by 
+the music sector. Exports are 
+important from an economic 
+perspective as they bring 
+additional income into the 
+European economy, helping 
+to support extra employment, 
+generate higher GDP and 
+tax receipts. 
+
+Quantifying the size of the 
+music sector is important 
+so that its participants, 
+governments, and other 
+stakeholders are aware of 
+its contribution to the EU’s 
+and UK’s GDP, job creation, 
+fiscal receipts and trade 
+balance. This report provides 
+data about the sector that 
+is often not captured in data 
+collected by national statistical 
+agencies. Such agencies tend 
+to be better at quantifying 
+traditional industrial sectors 
+(like manufacturing) which 
+produce tangible goods 
+than industries producing 
+intangibles (like the music 
+sector) and the new digital 
+service sectors (like audio and 
+music video platforms). 
+
+1.2 DEFINITION OF THE 
+MUSIC SECTOR
+
+There is no single, generally 
+accepted definition of the 
+music sector. We have 
+chosen to be guided by the 
+World Intellectual Property 
+Organization’s (2015) Guide 
+on Surveying the Economic 
+Contribution of the Copyright 
+Industries.10 This defines the 
+core copyright industries 
+as “industries which are 
+wholly engaged in the 
+creation, production and 
+manufacture, performance, 
+broadcasting, communication 
+and exhibition, or distribution 
+and sale of works and other 
+protected subject matter.”11 
+For the music sector we have 
+interpreted that to include 
+those segments identified 
+in the left hand column of 
+Fig 1. We have also used the 
+WIPO Guide’s definition of 
+the ‘Interdependent copyright 
+industries’ as “industries 
+which are engaged in the 
+production, manufacture and 
+sale, and renting or leasing of 
+equipment. Their function is 
+wholly or primarily to facilitate 
+the creation, production, 
+or use of works and other 
+protected subject matter.”12 
+The parts of the music sector 
+we believe that correspond to 
+that definition are included in 
+the right hand column of Fig 1.
+
+8 For the purposes of this study, the “music sector” is defined as encompassing the following entities and segments: record 
+companies; music publishers; recording studios; authors; performers; artist management; collective management organisations; 
+as well as music radio; music television; digital music services; physical music retail; live music event production; concert venues; 
+manufacturing and retailing of musical instruments and music equipment; music merchandising; and music teachers.
+9 This economic impact appraisal is very different in scope and the metrics used and cannot be compared e.g. to the IFPI Global 
+Music Report which analyses the recording industry’s trade revenues.
+10 WIPO Guide on Surveying the Economic Contribution of the Copyright Industries (2015, revised edition): https://www.wipo.int/
+edocs/pubdocs/en/copyright/893/wipo_pub_893.pdf
+11 Quotation from paragraph 127 of World Intellectual Property Organization (2015).
+12 Quotation from paragraph 145 of World Intellectual Property Organization (2015).
+
+12
+
+Fig. 1. Definition of the music sector used in the report
+
+Core
+
+Record companies
+
+Music publishers
+
+Recording studios
+
+Authors/Songwriters
+
+Performers
+
+Artist management
+
+Interdependent (and other related services)
+
+Musical instrument manufacturing
+
+Musical instrument retail
+
+Music merchandise production and services
+
+Music merchandise retail
+
+Music teachers
+
+Manufacture of music (consumer) equipment
+
+Collective Management Organisations (CMOs)
+
+Retail of music (consumer) equipment
+
+Radio
+
+Music television
+
+Manufacture of studio/recording equipment
+
+Retail of studio/recording equipment
+
+Digital music services (audio and video)
+
+Physical music retail
+
+Live music event production
+
+Concert venues and festivals  
+(where the primary activity is music)
+
+Source: World Intellectual Property Organization
+
+1.3 CHALLENGES IN ESTIMATING THE SIZE OF THE MUSIC SECTOR
+
+As in every economic impact 
+study, the main challenges 
+relate to data availability. For 
+the purposes of this study, 
+we developed a bespoke 
+survey that was completed 
+confidentially by an array of 
+firms within the sector across 
+Europe. We also drew on data 
+from trade bodies, published 
+annual accounts, other studies, 
+and a number of other sources, 
+including government statistics 
+where available and appropriate. 
+These are summarised in 
+the Data and Methodology 
+Appendix for transparency.
+
+A further challenge relates 
+to estimating the number 
+of people employed in the 
+sector. Some people who 
+work within the music sector 
+undertake multiple roles. This 
+is most obvious in the case 
+of songwriters who perform 
+their own material. Data 
+from Grouping of Societies 
+of Authors and Composers 
+(GESAC) members show that 
+459,000 people across the 
+EU27 and UK received income 
+in 2018 for having the songs 
+or musical compositions 
+they had written being 
+performed, played on the 
+radio or television, or used 
+
+in another way. In addition, 
+based on information from the 
+neighbouring rights collective 
+management organisations, 
+some 349,000 performers 
+received income when the 
+recordings were broadcast 
+or played in public.13 Given 
+one individual can be both a 
+songwriter and a performer 
+these two groups include a 
+large number of the same 
+people. When calculating 
+the total number of people 
+employed in the music 
+sector, we ensured that the 
+people believed to be both a 
+performer and a songwriter or 
+author were counted only once.
+
+13 In addition to their income from CMOs, performers also get revenue from elsewhere. For example, their digital revenues based on 
+their contracts with the record companies.
+
+13
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europe 
+As part of this study, we 
+estimate the economic activity 
+the music sector supported 
+by its procurement across its 
+EU27 and UK supply chain. 
+A high proportion of this 
+expenditure was intra-music 
+sector purchases meaning that 
+parts of the sector, e.g. record 
+companies, were spending 
+large parts of their revenue 
+on other parts of the music 
+sector.14 For example, the 7,400 
+record companies in the EU27 
+and UK are estimated to have 
+spent 61% of their expenditure 
+on inputs of goods and 
+services from other segments 
+of the music sector, such as 
+performers/recording artists 
+(see the box on page 20). 
+In estimating the economic 
+impact of the music sector as a 
+whole, we strip out the impact 
+of these intra-music sector 
+purchases. This is necessary 
+in order to prevent double 
+counting of a participant in 
+the sector itself and elsewhere 
+in another segment’s supply 
+chain and, as such, is required 
+for reliable calculation of the 
+sector’s GDP, employment and 
+tax contribution.
+
+AN INTRODUCTION TO OUR 
+ECONOMIC IMPACT ASSESSMENT
+
+In this report the contribution the music sector makes to the 
+EU27 and UK economies is investigated using an economic 
+impact assessment. This involves quantifying the value of the 
+work undertaken by the music sector itself, plus the knock-
+on effects of its spending on business supplies and wages in 
+the course of undertaking those activities. Three ‘channels 
+of impact’ are therefore captured, as follows (and are also 
+summarised in Fig. 2):
+
+• The direct impact relates to economic activity and 
+
+employment generated by the music sector itself, at its 
+recording companies and studios, publishing companies, 
+offices and other locations in the 28 countries covered by 
+the study.
+
+• The indirect impact refers to the economic activity 
+
+stimulated along the music sector’s European supply chain 
+outside of the music sector, by its procurement of non-
+music related inputs of goods and services from EU27 
+and UK suppliers (e.g. travel, IT, accounting services not 
+provided in-house). 
+
+• The induced impact comprises the wider economic benefits 
+that arise from the payment of wages by the music sector, 
+and the firms in their supply chain, to its workers—who spend 
+these earnings in retail, leisure and other outlets. This channel 
+of impact also includes the activity stimulated in these 
+outlets’ supply chains, and that supported by the spending of 
+those working in these consumer-facing industries.
+
+The total economic impact or contribution is simply the sum 
+of these three impacts.
+
+The economic impact of music sector activities is measured 
+using three metrics:
+
+• gross value added contribution to GDP. This is easiest 
+to conceive as the value of the output produced by a 
+firm minus its expenditure on inputs of bought-in goods 
+and services used up in the production of that output. 
+Aggregated across all firms and other economic operators 
+it forms GDP (plus production taxes and subsidies). GDP 
+measures the total economic output of a country. It is used 
+to judge the rate of a country’s economic growth and to 
+define whether it enters a recession; 
+
+• employment measured on a headcount 
+
+basis to facilitate comparisons with national 
+statistical agencies’ employment data. It 
+therefore includes anyone who is paid wages 
+regardless of the length of their working 
+week or whether they work all year round. 
+Those who are paid as part of a contract for 
+the provision of services will be included in 
+the supply chain; and,
+
+• tax receipts generated by the economic 
+
+activity undertaken by firms and 
+employment incomes of their workers.
+
+All results are presented for the calendar year 
+2018. This was selected as it was the most recent 
+year for which all the data sources were available.
+
+Our results are presented on a gross basis. 
+They therefore ignore any displacement of 
+activity from other genres of entertainment 
+or industries. Nor do they consider what the 
+resources currently used by the music sector, 
+or by their suppliers, could produce in the 
+absence of the music sector’s activity. 
+
+Fig. 2. The contribution the music sector makes to the European economy
+
+DIRECT
+IMPACT
+
+INDIRECT
+IMPACT
+
+INDUCED
+IMPACT
+
+TOTAL
+IMPACT
+
+The music sector employs people. 
+Its operations generate GDP and pay taxes. 
+
+It also spends money with 
+suppliers who employ staff, 
+generate GDP and pay taxes. 
+They use other suppliers in turn.
+
+Employees (including of the 
+suppliers) spend their wages 
+in the wider economy, 
+generating more GDP, jobs 
+and tax revenues.
+
+Added together, these three 
+effects—direct, indirect, 
+induced—comprise the total 
+economic impact of the 
+music sector.
+
+14
+
+14 See IFPI (2019). “Record Companies: Powering the Music Ecosystem”.
+
+15
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europe1.4 THE STRUCTURE OF THE REPORT
+
+The report is organised into the following chapters:
+
+• Chapter 5 highlights the 
+
+export earnings generated 
+by the European music 
+sector from sales to 
+businesses and consumers 
+outside the EU in 2018; 
+
+• The Data and Methodology 
+Appendix summarises the 
+data sources used for each 
+segment of the music sector 
+and how we modelled their 
+contribution to gross value 
+added, employment, tax 
+receipts, and exports.
+
+• Chapter 2 investigates the 
+contribution to GDP the 
+music sector generated 
+itself (‘direct contribution’) 
+in 2018, and stimulated 
+elsewhere in the European 
+economy through its 
+procurement and payment 
+of wages (‘indirect 
+and induced’ impact 
+respectively);
+
+• Chapter 3 follows the same 
+
+approach to analyse the jobs 
+supported around Europe in 
+2018 by the music sector;
+
+• Chapter 4 quantifies the 
+
+music sector’s contribution to 
+government finances in the 
+EU27 and the UK through the 
+payment of taxes in 2018;
+
+16
+
+17
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europe2. CONTRIBUTION TO GDP
+
+At every stage of the value 
+chain in all parts of the music 
+sector, from artists and record 
+companies, to music retailers 
+and instrument makers, 
+economic value is being 
+created. Through generating 
+profits, paying wages, and 
+purchasing goods and services, 
+the music sector has a positive 
+impact on GDP in Europe. This 
+chapter quantifies the GDP 
+supported by the music sector 
+in the EU27 and UK economies 
+in 2018. The estimates are 
+disaggregated by the three 
+channels of economic impact 
+(direct, indirect and induced).
+
+This study looks at the GVA 
+contribution to GDP, rather 
+than total revenues, as this 
+more accurately reflects 
+the economic contribution 
+made by a sector or industry 
+to an economy. In a highly 
+vertical sector like music, a 
+total revenues metric would 
+see us counting revenues 
+multiple times along the music 
+sector supply chain, whereas 
+GVA captures only the value 
+created at each stage, thus not 
+being subject to any double 
+counting issues.
+
+2.1 THE MUSIC SECTOR’S TOTAL CONTRIBUTION TO GDP
+
+2.2 THE MUSIC SECTOR’S DIRECT CONTRIBUTION TO GDP
+
+procurement and payment of 
+wages on GDP in the EU27, 
+and the GDP supported by the 
+EU27 music sector’s supply 
+chains that passed through 
+the UK. The supply chains of 
+the EU27 music sector that 
+included UK firms as one 
+or multiple links mean that 
+subtracting our estimates for 
+the EU27 from the EU27 and 
+UK combined do not give the 
+results for the impact of the 
+UK’s music sector on the UK 
+and EU27.
+
+We estimate the music sector 
+supported a €81.9 billion gross 
+value added contribution to 
+GDP in the EU27 and UK in 
+2018. To give an indication of 
+scale, this is larger than the GDP 
+of 9 out of the 28 EU countries 
+(Luxembourg, Bulgaria, Croatia, 
+Slovenia, Lithuania, Latvia, 
+Estonia, Cyprus, Malta) in the 
+same year.15
+
+Within the EU27 countries 
+the music sector supported a 
+€66.3 billion contribution to 
+GDP. The difference between 
+the estimates for the EU27 
+and for the 28 countries is the 
+GDP generated by the music 
+sector in the UK, the impact 
+of the UK music sector’s 
+
+Fig. 3. The gross value added contribution to GDP supported 
+by the music sector in the EU27 and UK in 2018
+
+€ billions
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+21.6
+
+22.8
+
+37.5
+
+81.9
+
+21.6
+
+22.8
+
+37.5
+
+Direct
+
+Indirect
+
+Induced
+
+Total
+
+Source: Oxford Economics
+
+same year.16 It was estimated 
+to have made a €31.9 billion 
+contribution within the 
+European Union, with 81% 
+of the total contribution in 
+2018 within the EU27 and 19% 
+within the UK.
+
+Analysis of the GVA 
+contribution to EU27 and UK 
+GDP supported by the music 
+sector by impact channel, 
+shows that 46% or €37.5 billion 
+(Fig. 3) was generated by the 
+sector itself (its direct impact). 
+To give a sense of scale, this is 
+1.5 times larger than the GDP 
+contribution of the wine and 
+beer manufacturing sectors 
+in the EU27 and UK in the 
+
+2.3 THE GDP SUPPORTED BY THE MUSIC SECTOR’S INDIRECT AND INDUCED IMPACTS
+
+The music sector’s expenditure 
+on inputs of goods and services 
+from the rest of the economy 
+stimulated a €22.8 billion 
+contribution to GDP at firms in 
+the sector’s European supply 
+chain. This indirect impact was 
+28% of the total impact. 
+
+The remaining 26% (€21.6 
+billion) of the total impact was 
+supported by the payment of 
+wages by firms in the music 
+sector and along its supply 
+chain (known as the induced 
+impact). A proportion of the 
+wages paid are onward spent 
+in the consumer economy, for 
+example, buying food, clothing, 
+and leisure items, and along all 
+these outlets’ supply chains.
+
+The GDP multiplier is typically 
+used to assess the extent to 
+which a sector stimulates 
+economic activity in the wider 
+economy. A high multiplier can 
+be indicative of sectors that 
+are not vertically integrated 
+but rely principally on 
+
+procurement from outside 
+the sector (e.g. the purchase 
+of raw materials for industrial 
+manufacturing). On the 
+other hand, a low multiplier 
+number can be indicative 
+of sectors that are highly 
+vertically integrated in their 
+procurement chain or, in other 
+words, undertake most of their 
+procurement spending within 
+the sector itself. The music 
+sector is a typical example 
+of such a highly intensive or 
+vertically integrated sector, 
+meaning that it will feature 
+a higher direct impact and a 
+lower indirect impact, leading 
+to a lower multiplier. 
+
+This report estimated the 
+music sector’s GDP multiplier 
+(the ratio between the total 
+GDP it supports and the 
+sector’s own contribution) 
+to be 2.2. This means that 
+for every €1 the music 
+sector contributed to GDP 
+in the EU27 and UK, its 
+procurement and payment 
+
+of wages stimulated another 
+€1.20 in GDP contribution 
+elsewhere in the economy. 
+This multiplier reflected the 
+high level of intra-music 
+sector procurement (for 
+example, the investment 
+of record companies in 
+artists and their managers) 
+compared to procurement 
+spending with suppliers from 
+outside of the sector. This is 
+consistent with the fact that 
+companies or entities in the 
+music sector tend to purchase 
+a lot of goods (e.g. licensing 
+copyrights, purchasing 
+recording equipment, etc) 
+and services (e.g. the services 
+of session musicians, sound 
+engineers, etc) from other 
+parts of the music sector itself, 
+and so much of the sector’s 
+economic impact contribution 
+is captured in our definition of 
+direct GVA, rather than in the 
+indirect or induced economic 
+impact figures.
+
+18
+
+15 GDP data for 2018 sourced from Eurostat.
+
+16 Source: Eurostat: Annual detailed enterprise statistics for industry.
+
+19
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeTHE RECORDING INDUSTRY’S INTRA-MUSIC SECTOR PROCUREMENT
+
+Within the bespoke survey we sent to firms in 
+the music sector was a request for details on 
+their procurement. We asked firms to split their 
+expenditure on inputs of goods and services 
+into those that came from the rest of the music 
+sector versus a list of other industries. We found 
+that for record companies, a high proportion of 
+their procurement was from within the music 
+sector – i.e. spending on other parts of the 
+music industry’s value chain. Record companies 
+were estimated to have spent 61% of their 
+procurement expenditure in 2018 on inputs of 
+goods and services from within the music sector 
+(e.g. payments to recording artists, performers, 
+authors or publishers, recording studios (Fig. 
+4)). This shows that record companies are 
+highly integrated into the music sector and are 
+responsible for a relatively high level of spending 
+with businesses working within the sector. The 
+remaining 39% of record company procurement 
+consisted of spending on goods and services 
+from entities outside the music sector itself such 
+as legal services, utilities, etc. It is the impact 
+of this spending with entities outside of the 
+music sector that is captured in the indirect and 
+induced impact sections of this report.
+
+If we focus only on the impact of record 
+companies on the economies of the EU27 and 
+UK, we would include other parts of the music 
+sector within the supply chains of the record 
+companies. Consequently, the gross value 
+added multiplier was estimated to be 2.8.  
+
+This means that for every €1 in gross value 
+added that record companies contributed to 
+GDP, record companies supported another 
+€1.80 elsewhere in the economy (including 
+other parts of the music sector).
+
+Fig. 4. Record companies’ procurement by 
+purchase type in 2018
+
+39%
+
+Percentage share
+
+61%
+
+Purchases from other industries
+
+Intra-music sector spend
+
+Source: Oxford Economics
+
+20
+
+21
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europe3.2 THE MUSIC SECTOR’S DIRECT EMPLOYMENT
+
+3.3 THE EMPLOYMENT SUPPORTED BY THE MUSIC SECTOR’S INDIRECT AND INDUCED IMPACTS
+
+3. EMPLOYMENT
+
+This chapter quantifies the 
+employment supported 
+by the music sector in the 
+EU27 and UK economies in 
+2018. The estimates in this 
+chapter cover all forms of 
+employment; full-time, part-
+time, and freelancers, and are 
+disaggregated by the three 
+channels of economic impact 
+(direct, indirect, and induced).
+
+3.1 THE MUSIC SECTOR’S 
+TOTAL IMPACT ON 
+EMPLOYMENT
+
+In 2018, the music sector was 
+estimated to have supported 
+a total of 2.0 million people in 
+employment in the EU27 and 
+UK. To put it another way, in 
+2018 the employment of 1 in 
+every 119 people in the EU27 
+and UK was dependent on the 
+music sector.17
+
+Within the EU27 economies, 
+the music sector supported the 
+employment of an estimated 
+1.7 million people, equivalent to 
+1 in every 121 people employed 
+in the EU27. As before, the 
+total employment estimates 
+do not yield themselves to 
+a simple mathematical sum 
+of EU27 and UK estimates. 
+However, this comparison 
+can be made for the sector’s 
+direct employment estimates 
+discussed further below. 
+
+The music sector itself was 
+estimated to have employed 
+1,305,000 people across the 
+EU27 and UK in 2018 (Fig. 5). To 
+put this into context, this was 2.1 
+times higher than the number 
+of people that were employed 
+in the information service 
+activities sector in 2018,18 
+24% higher than the direct 
+employment in the European 
+audiovisual sector19, and 16% 
+larger than employment in the 
+motor vehicle manufacturing 
+sector in the EU27 and UK in 
+the same year.
+
+Of the people employed in 
+the music sector in the EU27 
+and UK in 2018, the highest 
+number of people (50%) 
+were employed as performers 
+
+and music authors across 
+the EU27 and UK.20 In the 
+same year, record companies 
+and recording studios were 
+estimated to employ 44,850 
+and 13,800 people, respectively.
+
+It is worth noting that the 
+number of jobs or roles in 
+the music sector was higher 
+than the number of people 
+employed (1,434,000 versus 
+1,305,000). This is because 
+some people fulfilled more 
+than one role (for example, 
+authors who performed their 
+own songs). When calculating 
+the total number of people 
+employed in the music sector, 
+people who were both a 
+performer and a songwriter or 
+author were counted only once.
+
+Fig. 5. The employment supported by the music sector in the 
+EU27 and UK in 2018
+
+Thousand people
+2,250
+
+2,000
+
+1,750
+
+1,500
+
+1,250
+
+1,000
+
+750
+
+500
+
+250
+
+0
+
+335
+
+368
+
+2,008
+
+335
+
+368
+
+1,305
+
+1,305
+
+Direct
+
+Indirect
+
+Induced
+
+Total
+
+Source: Oxford Economics
+
+22
+
+17 Source: Eurostat.
+18 Source: Eurostat: Annual detailed enterprise statistics for services. (Information service activities includes firms that undertake data 
+processing, web hosting, internet search facilities, and news agencies)
+19 AVdata4Europe figures, available at: https://avdata4europe.eu/key-data/ 
+20 The numbers of authors and music performers were sourced from CMOs and thus do not include “DIY artists” who have not 
+signed up with CMOs.
+
+The music sector’s 
+procurement from the rest 
+of the economy (excluding 
+intra-sector purchases) was 
+estimated to have supported 
+a total of 368,000 jobs 
+throughout its external supply 
+chain in the EU27 and UK in 
+2018. The consumer spending 
+financed by the payment 
+of wages by firms in the 
+music sector and its supply 
+chain was estimated to have 
+stimulated 336,000 jobs 
+across the EU27 and UK. 
+
+We estimate the music sector 
+in Europe had an employment 
+multiplier of 1.5 in 2018. This 
+means that for every thousand 
+people employed in the 
+music sector, a further 500 
+people’s jobs were supported 
+elsewhere in the EU27 and 
+UK economies. This reflects 
+the labour-intensive nature 
+of the sector and the high 
+degree of intra-music sector 
+procurement. Some of the 
+sub-segments in the music 
+sector are estimated to have a 
+
+higher employment multiplier. 
+For instance, the employment 
+multiplier for record 
+companies was 2.7, meaning 
+that for every 1,000 jobs at 
+record companies, 1,700 other 
+jobs are supported elsewhere 
+in the economy. 
+
+ESTIMATING THE VALUE OF MUSIC TO FILM, TV, ADVERTISING, AND VIDEO GAMES
+
+Music plays a major role in supporting products 
+and programmes created for other mediums. 
+Practically all film, television, advertising, and 
+video game content includes music that is used 
+to set the mood, create emphasis, and move 
+the audience. Whilst it is self-evident that music 
+is an essential component of such content, 
+assessing how much of the economic activity 
+generated by these mediums can be attributed 
+to the music they contain is conceptually 
+problematic and hamstrung by data issues. 
+There is no economic consensus as to the best 
+approach and there are a number of studies 
+looking at each of the relevant mediums, but 
+the present study does not attempt to provide 
+a reconciliation or analysis of the various 
+methodological approaches.
+
+Yet, the issue is important as some of film, 
+television, advertising and video games 
+sectors make a large economic contribution 
+across Europe, generating considerable 
+numbers of jobs, GDP, and tax receipts. 
+For example, the television programming 
+
+and broadcasting sector made a direct 
+contribution to GDP of €20.8 billion in 2017 
+and employed 204,000 people.21 The present 
+study included only the contribution of 
+dedicated music TV channels and did not 
+attempt to quantify the economic contribution 
+made by music to those sectors in general. 
+
+There are two main approaches in deciding 
+how much of the economic activity in these 
+sectors could be attributed to music. These 
+are (i) calculating the time for which music is 
+present in programs and broadcasts, video 
+games or advertising; and (ii) calculating the 
+amount that is paid to right holders for the use 
+of music. Both, however, have significant flaws, 
+which we illustrate below using television as an 
+example. Moreover, even small variations in the 
+assumptions made for a potential share of that 
+contribution that was attributed to music could 
+change the estimated impact of the music 
+sector by hundreds of millions of euros and 
+thousands of jobs.
+
+21 Source: Eurostat: Annual detailed enterprise statistics for services.
+
+23
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeWith respect to music in film, video games 
+and advertising, it is evident that music is 
+present in a vast majority of such work and 
+the synchronisation revenues paid to music 
+right holders are captured in the analysis of 
+the music sectors’ direct contribution to the 
+GDP and tax receipts. However, due to the 
+broader business considerations involved 
+in synchronisation deals (e.g. cross-product 
+promotion, marketing value, vertical industry 
+integration, etc) it is not clear that this method 
+of valuation would capture the full extent of 
+economic value of music to the advertising, film 
+or video game industries.
+
+Estimating the value that music contributes 
+to the economic activity generated by film, 
+television, advertising, and video gaming is 
+therefore a very complicated challenge. As 
+we do not believe it can be done with any 
+significant degree of confidence, we have 
+omitted some of these sectors from our 
+analysis and the resulting economic impact 
+figures. As such, the estimate of €81.9 bn in 
+total economic impact should be taken as 
+a minimum overall contribution to the GDP, 
+which would be considerably higher with 
+the development of a reliable and accurate 
+methodology to calculate music’s contribution 
+to other sectors.
+
+One way to attribute the proportion of 
+television broadcasting activity that is due 
+to music is to use data from a provider that 
+monitors the amount of broadcast time that 
+includes music on each channel. Soundmouse, 
+a music cue sheet reporting and programme 
+metadata management company, carried out 
+a music density analysis on a cross-genre 
+sample of EU and UK TV channels in 2019. In 
+the EU sample of 32 television channels across 
+the EU27 countries, 48% of total broadcast 
+time contained music. A similar music density 
+analysis was carried out on five television 
+channels in the UK for 2019 which estimated 
+that 56% of broadcast time contained music. 
+Soundmouse selected channels with high 
+audience shares across a number of countries 
+including France, Germany, Italy, Sweden 
+and the UK. The samples were taken across 
+all broadcast production types, including 
+advertising, and measured the total amount 
+of music (which was not limited by matching 
+specific recording types e.g. production library 
+music, commercial music etc). This method is 
+appealing as it allows a researcher to capture 
+all types of television channels and a much 
+broader mix of programme genres. However, 
+while the data reveal what proportion of TV 
+broadcasters’ total airtime contained music, 
+it provides no clear insight into the economic 
+importance of the music relative to the images 
+shown, or whether that comparison varies 
+depending on how the music was used.
+
+The second approach is to take the 
+amount paid to music rights holders by the 
+broadcasters. In theory, a market forces-
+based approach would be most appropriate 
+for capturing the economic value placed by 
+broadcasters on music. However, such an 
+approach cannot be applied where no free 
+or arms’ length commercial agreements are 
+possible due to compulsory licensing of certain 
+music rights which is implicit in their legal 
+status as remuneration rights.
+
+24
+
+25
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europe4. TAX RECEIPTS
+
+Taxation is a vital part of the 
+operation of governments 
+around the world, allowing 
+them to undertake 
+infrastructure projects, 
+provide valuable public 
+services, and meet their fiscal 
+commitments. This chapter 
+investigates the tax receipts 
+supported by the music 
+sector. It contains estimates 
+of tax revenue due to the 
+payment of labour income 
+taxes, taxes on corporate 
+profits, national insurance and 
+security payments, VAT or 
+sales taxes and other taxes 
+paid by entities within the 
+music sector and its supply 
+chain. The estimates are 
+disaggregated by the three 
+impact channels, with results 
+driven by the relative incomes 
+received by labour and capital 
+in each, and the tax rates they 
+are subject to.
+
+4.1 THE MUSIC SECTOR’S TOTAL CONTRIBUTION TO 
+TAX RECEIPTS
+
+(Fig. 6). The music sector’s 
+tax multiplier was therefore 
+estimated to be 2.2. So for 
+every €1 of tax paid by the 
+music sector itself, the music 
+sector supported another 
+€1.20 in tax receipts elsewhere 
+in the EU27 and UK economies 
+through its procurement and 
+wage consumption impacts.
+
+In 2018, the music sector was 
+estimated to have supported 
+€31.0 billion in tax receipts 
+in the EU27 and UK. Within 
+the EU27, it was estimated 
+to support €26.2 billion. This 
+€31.0 billion of tax revenue 
+was equivalent to 19.4% of the 
+entire EU budget for 2018.22
+
+Analysed by channel of 
+impact, the music sector itself 
+(the direct impact) made 
+the largest contribution to 
+tax receipts in 2018 at €14.3 
+billion, or 46% of the total 
+
+Fig. 6. Tax receipts supported by the music sector across the 
+EU27 and UK in 2018
+
+€ billions
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+8.1
+
+8.6
+
+14.3
+
+31.0
+
+8.1
+
+8.6
+
+14.3
+
+Direct
+
+Indirect
+
+Induced
+
+Total
+
+Source: Oxford Economics
+
+26
+
+22 Available at: https://www.consilium.europa.eu/en/press/press-releases/2017/11/30/2018-eu-budget-adopted/#:~:text=The%20
+2018%20EU%20budget%20is,to%20react%20to%20unforeseen%20needs.
+
+27
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europe5. EXPORTS
+
+Exports play an important role 
+in the European economy. The 
+sale of goods and services, 
+both tangible and intangible, 
+to customers – whether 
+companies or consumers – in 
+the rest of the world creates 
+income for the EU27 and 
+UK. This is additional income 
+for those countries, and 
+when received stimulates 
+extra economic activity and 
+employment that would not 
+otherwise have taken place.
+
+This chapter presents 
+conservative estimates of 
+export earnings generated by 
+the music sector in the EU27 
+and UK selling to individual and 
+business customers elsewhere 
+in the world. As the previous 
+chapters have shown, the 
+European music sector is large 
+and diverse, stretching from 
+content creation to instrument 
+manufacture. Consequently, 
+the exports generated by the 
+music sector encompass the 
+sale of goods, and services 
+produced by the music sector 
+in the EU27 and UK.
+
+The quantification of the music 
+sector’s exports earnings 
+is not an easy task and is 
+becoming more difficult. 
+The products of the music 
+sector have a large digital 
+component, with the majority 
+of recorded music revenues 
+derived from digital sources. 
+Traditionally, trade data is far 
+more detailed and available for 
+physical goods. Unfortunately, 
+physical goods are a small 
+and declining proportion of 
+the music sector’s revenue, 
+including exports revenue. 
+Indeed, the vast majority of 
+the music sector’s exports – 
+be they, for example, digital 
+streams, downloads or live 
+music concerts outside of 
+Europe – involve intangible 
+goods and services exports. 
+
+To overcome these data 
+challenges, our estimates 
+of music sector exports to 
+outside of the EU27 and UK 
+include estimates based on 
+Eurostat’s COMEXT database 
+for physical goods and data 
+from our bespoke survey of 
+companies for digital goods 
+and services. As we only 
+surveyed record companies, 
+music publishers, and 
+providers of music streaming 
+services (audio), our estimates 
+for service and digital goods 
+exports only cover these 
+three export sectors. They do 
+however reflect information 
+provided by the firms 
+themselves, so the data have a 
+high level of accuracy.
+
+5.1 EXPORTS OF GOODS
+
+Generally, data on the exports 
+of physical goods are readily 
+available and detailed, due to 
+the relative simplicity of tracking 
+the movement of tangible 
+goods across borders. Because 
+of this, we are able to use the 
+Eurostat COMEXT database for 
+data on the value of physical 
+goods exports to outside of the 
+EU27 and UK in 2018. 
+
+As some of the goods included 
+in this section may have 
+multiple uses that extend 
+beyond music, we have taken a 
+percentage of their value that 
+we can attribute to the music 
+sector, based on their final uses. 
+The estimation technique used 
+and the COMEXT database are 
+described in greater detail in 
+the Appendix.
+
+In 2018, the export value of 
+physical goods attributable to 
+the EU27 and UK music sector 
+totalled €5.0 billion. Of this 
+total, €2.0 billion came from 
+the export of sound recording 
+and reproduction apparatus, 
+which includes headphones, 
+speakers, microphones, and 
+other equipment for the 
+recording of sound (Fig. 7). 
+An additional €1.0 billion was 
+earned from the music-related 
+export of smartphones, tablets, 
+and laptop computers. EU27 
+and UK exports of recorded 
+CDs and Vinyl records were 
+worth a combined €960 
+million. The sale of musical 
+instruments generated €680 
+million in export revenues for 
+EU27 and UK manufacturers in 
+the same year. 
+
+Fig. 7. Export earnings from the sale of physical goods produced by the EU27 and UK music 
+sector to the rest of the world in 2018 (share of value attributable to the music sector)
+
+€ millions
+
+2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+
+2,030
+
+1,050
+
+960
+
+680
+
+Sound recording
+and reproduction
+apparatus
+
+Smartphones,
+tablets, and
+laptops
+
+Music CDs and
+Vinyl records
+
+Musical
+instruments
+
+250
+
+Radios
+
+Source: Eurostat COMEXT
+
+5.2 EXPORTS OF DIGITAL GOODS AND SERVICES
+
+In this section we present 
+estimates of digital goods 
+(digital music) and music-
+related services exports from 
+the EU27 and UK to the rest of 
+the world. As mentioned in the 
+chapter introduction above, 
+estimating the value of digital 
+goods and services exports 
+presents more of a challenge 
+than that of physical goods. 
+Data from official sources do 
+not provide the necessary 
+information to allow us to 
+reliably isolate the exports 
+of digital music and music-
+related services as the data are 
+generally included in broader 
+categories such as Audiovisual 
+services or Personal, cultural, 
+and recreational services 
+(e.g. in the case of live music 
+concerts abroad). 
+
+Due to these limitations in 
+the national and EU-level 
+statistical data, our estimates 
+for the exports of digital goods 
+and music-related services 
+were calculated based on 
+the bespoke survey data we 
+received directly from firms in 
+the music sector. The estimates 
+reflected the income that these 
+European firms stated they 
+earned from customers located 
+outside of the EU27 and UK. 
+As such, the value of exports 
+in this category were limited 
+to those of record companies, 
+music publishers, and 
+providers of music streaming 
+services (audio).
+
+In 2018, record companies, 
+music publishers, and music 
+streaming services collectively 
+earned €4.7 billion from the 
+exports of their digital goods 
+and services to the rest of 
+the world. Out of this total, 
+we estimated that record 
+companies earned €2.3 
+billion in exports, and music 
+publishers received a further 
+€1.1 billion. Firms involved in 
+the streaming of audio music 
+services earned just over 
+€1.2 billion from customers 
+elsewhere around the globe 
+(Fig. 8).23
+
+28
+
+23 Exports for music streaming services (audio) are calculated as the revenues of EU27 and UK streaming services associated with 
+non-EU customers, minus the money they pay to EU27 and UK record companies and music publishers.
+
+29
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeFig. 8. Export earnings from the sale of services and digital 
+goods produced by the EU27 and UK music sector to the rest 
+of the world in 2018
+
+€ millions
+2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+
+2,350
+
+Record companies
+
+Source: Oxford Economics
+
+5.3 TOTAL EXPORTS
+
+1,220
+
+1,130
+
+Music streaming
+services (audio)
+
+Music publishers
+
+Given the estimates presented 
+in Sections 5.1 and 5.2, we 
+found that the music sector in 
+the EU27 and UK generated 
+some €9.7 billion in export 
+earnings from the rest of 
+the world in 2018. A more 
+detailed breakdown by exports 
+category can be found in Fig. 9.
+
+To give a sense of scale, this 
+€9.7 billion figure is around 1.9 
+times larger than exports made 
+by the European audiovisual 
+sector in 2018.24 Alternatively, at 
+€9.7 billion, EU27 and UK music 
+exports generated 13% more in 
+revenues than extra-EU exports 
+of all European GI-protected 
+wines in 2017.25
+
+The extra-EU exports estimate 
+is conservative because not all 
+export revenue streams were 
+included in the study (e.g. 
+data was not available for all 
+collectively managed music 
+export revenues or revenues 
+from international concerts/
+tours in non-EU countries).
+
+Fig. 9. Export earnings from the sale of goods, digital goods and services produced by the 
+EU27 and UK music sector to the rest of the world in 2018
+
+€ millions
+3,500
+
+3,000
+
+2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+
+3,330
+
+2,350
+
+1,220
+
+1,130
+
+960
+
+680
+
+Music-related
+goods (music
+share of value)
+
+Record
+companies
+
+Music streaming
+services (audio)
+
+Music
+publishers
+
+Music CDs and
+Vinyl records
+
+Musical
+instruments
+
+Source: Eurostat COMEXT, Oxford Economics
+
+24 AVdata4Europe figures, available at: https://avdata4europe.eu/key-data/ 
+25 Source: European Commission, 2019. Study on the economic value of EU quality Schemes, geographical indications (GIs) and 
+traditional specialities guaranteed (TSGs). Table 5, Page 18.
+
+30
+
+31
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europe 
+6. CONCLUSION
+
+The music sector makes a 
+substantial contribution to the 
+European economy. Across 
+the EU27 and UK, it was 
+estimated to have supported a 
+€81.9 billion GVA contribution 
+to GDP in 2018. The sector 
+sustained the employment 
+of some 2.0 million people, 
+equivalent to 1 in 119 jobs 
+across EU27 and the UK. It 
+also supported €31.0 billion 
+in tax receipts and generated 
+€9.7 billion in export revenues.
+
+Within the EU27 countries, 
+excluding the UK, the music 
+sector made a similarly 
+significant contribution. In 
+2018, the sector supported 
+€66.3 billion gross value 
+added contribution to GDP. 
+Some 1.7 million people’s 
+employment depended on 
+music, equivalent to 1 in 
+every 121 people employed in 
+the EU27. The music sector 
+contributed €26.2 billion in tax 
+receipts in 2018.
+
+€81.9 billion
+
+Total GVA contribution to 
+GDP in the EU27+UK
+
+2.0 million
+
+Total jobs supported by the 
+music sector in the EU27+UK
+
+€31.0 billion
+
+Total tax contribution of the 
+music sector in the EU27+UK
+
+€9.7 billion
+
+Export revenue 
+(conservative estimate) 
+
+32
+
+33
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europe7. BIBLIOGRAPHY
+
+Alphabet. 2018. “Alphabet Annual Report 2018.”
+
+Berkowitz, I. S. 2019. “Watchtime Canada: How YouTube Connects Creators & Consumers.”
+
+Billboard. 2020. “Why YouTube and the Music Biz Are Getting Along Better Than Ever.”
+
+CISAC. 2019. “Global Collections Report 2019 .”
+
+Comscore. 2017. “The 2017 U.S. Mobile App Report.”
+
+Council of the European Union. 2017. “2018 EU Budget Adopted.”
+
+Department for Education. 2019. “School Workforce in England: November 2018.”
+
+Entertainment Retailers Association. 2019. “Yearbook 2019.”
+
+European Audiovisual Observatory. 2019. “Audiovisual Media Services in Europe; Market Insight.”
+
+European Commission . 2018. “A New European Agenda for Culture.”
+
+European Commission, 2019. “Study on the Economic Value of EU Quality Schemes, Geographical 
+Indications (GIs) and Traditional Specialities Guaranteed (TSGs).”
+
+European Commission. 2020. “EU Expenditure and Revenue 2014-2020.”
+
+Eurostat. 2020. “Structural Business Statistics.”
+
+EY. 2014. “Creating Growth: Measuring Cultural and Creative Markets in the EU .”
+
+Institute for Communication Studies at Friedrich-Schiller-Universität Jena (IfKWJ). 2015. 
+“Musikwirtschaft in Deutschland.”
+
+IFPI. 2019. „Music Listening 2019.“
+
+IFPI. 2019. “Global Music Report 2019.”
+
+IFPI. 2019. “Record Companies: Powering the Music Ecosystem”.
+
+Leontif, W. 1986. “Input-Output Economics.”
+
+Live DMA. 2020. “The Survey Live Music Venues & Clubs in Europe – Facts & Figures.”
+
+Live Nation. 2019. “Annual Report 2018.”
+
+Music and Copyright. 2020. “Global Recorded-Music and Music Publishing Market Share Results 
+for 2018.”
+
+National Public Media. 2020. “The Smart Audio Report.”
+
+OECD. 2018. “Inter-Country Input-Output (ICIO) Tables.” oe.cd/icio.
+
+Office for National Statistics. 2020. “Annual Business Survey - 2018 Revised Results”
+
+Pollstar. 2019. Worldwide Ticket Sales 2018. 
+
+PwC. 2017. “A New Benchmark for the Valuation of Sound Recordings.”
+
+UK Music. 2019. “Music By Numbers 2019.”
+
+UK Music. 2014. “The Economic Contribution of the Core UK Music Industry.”
+
+World Intellectual Property Organization. 2015. “Guide on Surveying the Economic Contribution of 
+the Copyright-Based Industries.”
+
+34
+
+35
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeAPPENDIX: DATA AND 
+METHODOLOGY
+
+DATA SOURCES
+
+Record companies
+
+A bespoke data request 
+was completed by the three 
+major record companies 
+(Sony Music Entertainment, 
+Universal Music Group and 
+Warner Music Group) and a 
+range of independent record 
+companies across Europe that 
+were members of IMPALA. 
+The data request asked for 
+financial information about 
+their operations (including 
+their export earnings from 
+outside of the EU and UK), 
+their employment, and 
+procurement from the rest of 
+the music sector and other 
+industrial sectors. They were 
+asked to disaggregate the 
+information they provided by 
+the operations resident in the 
+EU27 and the UK. The record 
+companies were asked to 
+provide information by type 
+of activity and to isolate the 
+contribution they make from 
+producing music as opposed 
+to their other activities 
+(such as merchandising and 
+publishing).
+
+In addition, IFPI asked its 
+national trade association 
+members and IMPALA 
+colleagues to provide 
+information on the number 
+of record companies in 
+each of the 28 countries 
+(including locally incorporated 
+subsidiaries of the majors). 
+This resulted in identifying 
+some 7,400 record companies 
+established and trading in the 
+28 countries. 
+
+The data from the three 
+major record companies were 
+aggregated. Averages were 
+taken from the data supplied 
+by the independent record 
+companies and combined with 
+IFPI data on the total revenue 
+which the independents are 
+calculated to have earned. 
+The two sets of data were 
+individually modelled and 
+combined into an estimate for 
+record companies as a whole.
+
+To estimate employment 
+within independent record 
+companies in the EU27 and 
+the UK, we utilised data 
+returns from our bespoke 
+survey, combined with the 
+aforementioned list of 7,400 
+record companies.
+
+The European Commission 
+defines a large firm as having 
+250 or more employees, 
+earning an annual turnover 
+more than €50 million, or a 
+balance sheet total greater 
+than €43 million.26 On this 
+basis, we split the independent 
+record companies into large 
+and those that are small and 
+medium-sized enterprises 
+(SME). For these large 
+independent companies, 
+we used the mean average 
+estimate of the survey 
+respondents‘ headcount of 612 
+people. For the SME record 
+companies, we applied the 
+most commonly appearing 
+headcount number from our 
+set of survey returns, which 
+was 2 people, to reflect the 
+large number of very small 
+record companies across the 
+EU27 and the UK.
+
+Music publishing
+
+Similar to our analysis of 
+record companies, a bespoke 
+data request was the primary 
+data source for the music 
+publishing segment. Data 
+returns were received from 
+the publishing arms of the 
+three major record companies, 
+as well as a selection of 
+independent publishers both 
+large and small. The data we 
+received from the sample of 
+independent publishers were 
+scaled up to represent the 
+whole independent sector of 
+the market by using market 
+share data sourced from Music 
+and Copyright.27 The data 
+returns from independent 
+publishers were used to 
+model the employment and 
+procurement profiles of a 
+typical independent publisher 
+by calculating the average of 
+ratios of GVA to procurement, 
+employee compensation, and 
+employment. This was scaled 
+up to reflect the total market 
+size and used in modelling 
+alongside the major publishers’ 
+data.
+
+Recording studios
+
+Data on recording studios was 
+sourced from Eurostat. Data 
+was extracted for NACE code 
+59.2, sound recording and 
+music publishing activities, 
+which included the activities 
+of sound recording studios. To 
+isolate the recording studio 
+component of these data, we 
+used the 2015 “Musikwirtschaft 
+in Deutschland” study carried 
+out by the Institute for 
+
+36
+
+26 https://ec.europa.eu/eurostat/web/structural-business-statistics/structural-business-statistics/sme#:~:text=SMEs%20are%20
+defined%20by%20the,Recommendation%20of%206%20May%202003).
+27 Available at: https://musicandcopyright.wordpress.com/tag/market-share/#:~:text=Music%20%26%20Copyright%20estimates%20
+the%20company’s,publisher%20to%20increase%20its%20share.
+
+Communication Studies at 
+Friedrich-Schiller-Universität 
+Jena (IfKWJ). This study 
+estimated gross value 
+added for recording studios 
+in Germany, and this was 
+compared with the Eurostat 
+gross value added data for 
+recording studios’ parent 
+category, NACE code 59.2. The 
+ratio of recording studio GVA 
+to the broader NACE category 
+of sound recording and music 
+publishing activities’ GVA 
+generated by this German 
+study was then applied to the 
+remaining nations’ Eurostat 
+data to estimate the impact 
+of recording studios across 
+the EU27 and UK. The same 
+methodology was applied with 
+respect to employment.
+
+Performers
+
+As music performers are 
+people rather than corporate 
+entities and their main 
+economic impact involves 
+their earnings, we obtained 
+data on the number of 
+performers (i.e. recording 
+artists and musicians, not 
+including dancers or other 
+categories of performers) 
+from CMOs’ (joint societies or 
+performers’ CMOs) distribution 
+lists across the EU27 and 
+UK. These CMOs provided 
+data on both the number of 
+domestic performers that 
+they distributed revenue to 
+in 2018, as well as data on 
+the aggregate monetary 
+value of those distributions 
+to domestically resident 
+performers, thus payments to 
+non-resident members (who 
+might be members of several 
+
+CMOs at the same time) were 
+counted only once in their 
+country of residence. This 
+avoided the problem of double 
+or indeed multiple-counting of 
+all members). The number of 
+music performers was sourced 
+from CMOs and therefore do 
+not include performers who 
+have not signed up with CMOs.
+
+To calculate the performers’ 
+direct gross value added, IFPI 
+spoke to the International 
+Federation of Musiciants 
+(FIM) and we made use of 
+two previous music industry 
+studies. These were the 
+2019 “Music by Numbers” 
+report by UK Music, and 
+the 2015 “Musikwirtschaft 
+in Deutschland” study. Both 
+studies present estimates of 
+GVA and employment for 
+music performers, allowing 
+us to calculate a productivity 
+estimate for them. We then 
+applied the average of these 
+productivity estimates (GVA 
+per head), adjusted using 
+Eurostat purchasing power 
+parity (PPP) data on a 
+country by country basis, to 
+performer numbers across 
+the remaining EU nations to 
+create EU27 and UK totals. 
+We then applied ratios for 
+GVA to performers’ spending 
+on goods and services, as 
+well as GVA to employment 
+costs, both sourced from 
+the “Musikwirtschaft in 
+Deutschland” study in order 
+to model the indirect and 
+induced impacts of music 
+performers.
+
+Authors
+
+Like performers, music authors 
+analysed in this study are 
+people whose main economic 
+impact involved the earning 
+of income from the licensing 
+of their musical works or 
+compositions. To estimate this 
+group’s aggregate income 
+within the EU27 and UK, 
+we surveyed GESAC/CISAC 
+member organisations. These 
+CMOs provided data on both 
+the number of domestic 
+songwriters/authors that they 
+distributed to in 2018, as well 
+as data on the aggregate 
+monetary value of those 
+distributions to domestically 
+resident authors (thus 
+avoiding double-counting of 
+all members). As the number 
+of authors were sourced from 
+CMOs they do not include 
+composers or songwriters 
+who have not signed up with 
+CMOs.
+
+To estimate the direct gross 
+value added impact authors 
+generate we first calculated 
+their estimated total revenue. 
+The 2015 “Musikwirtschaft 
+in Deutschland” study, 
+provided a breakdown of the 
+different income streams for 
+music authors, which listed 
+distributions from CMOs as 
+58.4% of their income. We 
+therefore scaled up the GESAC 
+members’ distributions data 
+for 2018 to reflect the total 
+income of songwriters/authors 
+within the EU27 and UK and 
+compared that with the data 
+on procurement within the 
+sector provided by music 
+publishers. We then applied 
+
+37
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in Europea total revenue to gross value 
+added ratio, also provided 
+by the “Musikwirtschaft 
+in Deutschland” study, to 
+calculate music authors’ GVA 
+contribution to GDP across 
+Europe. 
+
+Artist managers
+
+In order to estimate the 
+economic impact of music 
+artist managers across 
+Europe, we held interviews 
+with the European Music 
+Managers Association 
+(EMMA). We also made 
+use of the highly detailed 
+information contained within 
+the 2015 “Musikwirtschaft 
+in Deutschland” study to 
+calculate a ratio of music artist 
+managers to music performers 
+in Germany. We then applied 
+this ratio of manager to 
+registered performers to the 
+total numbers of performers 
+that appear on MLCs 
+distribution lists. This allowed 
+us to estimate the number of 
+music artist managers across 
+the EU27 and UK. To calculate 
+the gross value added the 
+managers generated, we 
+used an average productivity 
+figure provided in the German 
+study. In order to calculate 
+the supply chain and wage-
+induced spending impact of 
+artist managers, we applied 
+ratios of gross value added to 
+procurement, and to employee 
+compensation sourced from 
+the German study.
+
+Collective management 
+organisations (CMO)
+
+In this report, we estimated 
+the impact of Author CMOs, 
+Performer CMOs, Producer 
+CMOs and Joint (producer-
+performer) CMOs who 
+collectively managed certain 
+uses of music rights. For 
+Author CMOs, GESAC member 
+organisations were surveyed, 
+and information was provided 
+by them on employment and 
+personnel costs in 2018. These 
+individual responses were 
+aggregated and modelled.
+
+For performer and producer 
+CMOs, data on employee 
+compensation and purchases 
+of inputs of goods and 
+services were taken from 
+responses provided by IFPI 
+affiliated music licensing 
+companies (MLCs) and annual 
+reports published by the 
+CMOs. The relevant financial 
+and employment data were 
+extracted from these individual 
+reports or were provided 
+directly by the CMOs in 
+question.
+
+Live event producers
+
+To estimate the economic 
+contribution of promoting 
+and putting on live music 
+events we looked in the 
+first instance at LiveNation’s 
+annual accounts for 2018. The 
+company is by far the largest 
+in the live music industry. 
+LiveNation’s annual accounts 
+split the company’s revenue 
+and costs into three segments: 
+concerts; sponsorship; and 
+ticketing. As LiveNation sells 
+
+tickets for a wide range of 
+entertainment genres through 
+Ticketmaster, which they own, 
+we conservatively looked at 
+its revenue and costs for the 
+first two segments plus the 
+estimated number of fans 
+attending LiveNation’s concerts 
+as a share of their total tickets 
+sold (19% of all tickets sold). 
+LiveNation’s accounts revealed 
+that in 2018 it held 30.9% of 
+the concerts which it promoted 
+outside of North America 
+but provided no further 
+geographical details. Looking 
+at country-by-country data on 
+the spend on live music in the 
+countries where LiveNation 
+has subsidiaries outside of 
+North America, 65% occurred 
+in the EU27 and the UK. So 
+we estimated that 20% of the 
+economic activity LiveNation 
+undertook, in its concerts and 
+sponsorship segments - in the 
+EU27 and the UK, as well as 
+4% of the economic activity 
+in its ticketing segment in 
+2018 - was attributable to the 
+promotion and staging of 
+live music events in the same 
+geographic markets. We pro-
+rata the financial data of Live 
+Nation accordingly, splitting 
+the company’s costs data in 
+each segment into employee 
+compensation and procurement 
+using information published 
+by the Office for National 
+Statistics on Standard Industrial 
+Classification 79.9. LiveNation’s 
+2018 accounts reveal that the 
+company employed 3,300 
+full-time employees outside 
+of North America. We formed 
+an estimate of the location of 
+these staff using employment 
+data from national statistical 
+
+Using the Live DMA report, 
+Oxford Economics identified 
+these 2017 metrics for the full 
+Live DMA membership:
+
+• Employment. This is taken 
+to be the number of paid 
+workers (including interns 
+and trainees, etc), excluding 
+the comparatively large 
+number of volunteers.
+
+• Direct GVA. This is taken 
+
+to be the sum of personnel 
+costs and the surplus of 
+all revenues (including 
+ticketing, catering, other 
+audience revenues, and 
+public funding) over all 
+outlays.
+
+• Total procurement. This 
+is taken to be the sum of 
+the three non-personnel 
+cost categories, namely 
+direct programme costs 
+(payments to musicians 
+and music production 
+companies, etc), 
+accommodation costs 
+(property rental, building 
+maintenance, utilities, etc), 
+and other outlays (for e.g. 
+catering supplies, transport, 
+and professional and 
+business services).
+
+The results were then re-
+scaled to be representative 
+of the EU27 and the UK, with 
+non-EU states in the survey 
+excluded, and EU countries 
+not covered added in on the 
+basis of country shares in 
+total consumer spending in 
+2017. These results were then 
+grown forward to 2018 on 
+the basis of changes in each 
+nation’s consumer spending, 
+with tax impacts worked out 
+at that stage based on various 
+tax-to-income ratios from 
+official sources. The taxes 
+covered here are employers’ 
+and employees’ social security 
+contributions, employees’ 
+income tax, and corporation 
+tax.
+
+The next step was to scale 
+the results upwards to reflect 
+activities not covered, such as 
+large festivals. This relied on 
+a large-scale literature review, 
+with scaling ratios worked out 
+using those economic studies 
+of national music industries 
+where a ‘concert venue and 
+festival organiser’ sector was 
+specifically identified (as 
+distinct from the wider ‘live 
+music sector’ of which it forms 
+a part). This allowed the sector 
+results for direct employment, 
+direct GVA, and direct taxation 
+to be estimated.
+
+offices in the countries where 
+the company has subsidiaries. 
+We therefore estimated that 
+in 2018 LiveNation employed 
+about 1,700 and 450 permanent 
+staff in the EU27 and the UK, 
+respectively. Using the same 
+methodology, we estimated the 
+company employed an average 
+of 3,700 and 1,000 seasonal 
+and part-time employees in the 
+two geographies across the 
+year, respectively.
+
+Pollstar (2019) estimated that 
+LiveNation was responsible 
+for 59% of all ticket sales by 
+the top 100 promoters in 2018. 
+In the absence of additional 
+information on ticket sales 
+for live music events by other 
+companies, all of which are 
+privately held, we scale up our 
+estimates for the company by 
+1.69 (1/59%) to estimate the 
+scale of the whole industry.
+
+The activities of music venues 
+and festival organisers
+
+The starting point for these 
+estimates was provided by 
+Live DMA and a 2017 survey 
+of its members concerned 
+with the revenues, spending 
+and employment at the live 
+music performance venues 
+in its membership network 
+across Europe.28 The results 
+in the survey had been scaled 
+up by Live DMA from the 600 
+responding organisations, 
+to be representative of the 
+2,600 organisations, across 15 
+countries, in its membership 
+at that time. The survey was 
+concerned only with the 
+venues’ music-related activities.
+
+38
+
+28 Live DMA. 2020. “The Survey Live Music Venues & Clubs in Europe – Facts & Figures.”
+
+39
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeFinally, the starting point for this 
+sub-sector’s wider economic 
+footprint was also worked out:
+
+• Procurement by industry 
+of supplier was estimated 
+based on the non-personnel 
+cost categories in the Live 
+DMA survey. Spending on 
+accommodation and ‘other’ 
+items provided the starting 
+point for this sector’s 
+contribution to the indirect 
+impact, but spending on 
+direct programme costs was 
+excluded as these suppliers 
+are themselves part of the 
+music industry.
+
+• The spending power of 
+
+workers in the sector, which 
+contributes to the induced 
+impact, was calculated 
+as total personnel costs, 
+net of all social security 
+contributions and 
+employees’ income tax.
+
+Music merchandising
+
+One of the major music-specific 
+merchandising companies 
+in Europe was approached 
+confidentially and asked to 
+complete a bespoke data 
+questionnaire. Their response 
+contained financial information 
+(including export earnings 
+from the rest of the world), 
+employment and procurement 
+information. As elsewhere, 
+the data supplied was split by 
+the location of its operations 
+into those located in the 
+EU27 and the UK. The results 
+were grossed up to the entire 
+segment by the company’s 
+market share, calculated from 
+Licensing International data.
+
+The estimates of the music 
+merchandising’s procurement 
+and payment of employee 
+compensation was entered 
+into Oxford Economics’ Global 
+Economic Impact Model to 
+estimate the indirect (supply 
+chain) and induced (wage 
+consumption) impacts.
+
+Digital service providers 
+
+In 2018, there were 108 
+licensed digital music services 
+in the EU27 and the UK (not 
+counting separately the 
+national subsidiaries).29 IFPI 
+provided data on the market 
+share of audio streaming 
+subscription services, such as 
+Spotify, Apple Music, Deezer, 
+Amazon Music Unlimited and 
+YouTube Music. 
+
+IFPI’s Music Consumer Insight 
+report 201930 provided data 
+on the share of music listening 
+time in key EU markets in 2018. 
+At the time, 86% of music 
+online was consumed through 
+on-demand streaming – both 
+audio and AV streaming. 
+
+Music streaming – audio
+
+Data for the audio music 
+streaming services part of 
+the digital music distribution 
+sector were based on the 
+bespoke survey return sent 
+to companies in the sector. 
+The data request asked for 
+financial information about 
+their operations (including 
+their export earnings from 
+outside of the EU27 and the 
+UK), their employment, and 
+procurement from the rest of 
+
+the music sector and other 
+industrial sectors. The data 
+from the returns was scaled 
+up by the responding firms’ 
+market share to estimate the 
+size of the whole sector.
+
+Music streaming – video
+
+Data on the economic 
+activities of the music video 
+streaming services is very hard 
+to obtain. We know that in 
+2018, YouTube was the only 
+major supplier of music video 
+streaming services in the 
+EU27 and the UK, estimated 
+to account for almost 100% 
+of the legitimate (licensed by 
+music right holders) music 
+video streaming market. 
+YouTube’s ultimate owner 
+is Alphabet Inc. In 2018, the 
+company published global 
+consolidated accounts, which 
+covered all their services 
+(including Android, Chrome, 
+Gmail, Google Drive, Google 
+Maps, Google Play, Search, and 
+YouTube). The company did 
+not, and still does not, disclose 
+information on the income and 
+number of employees involved 
+in providing its individual 
+services, let alone one of its 
+services by content type. Our 
+methodology was therefore 
+based on some data and 
+assumptions.
+
+YouTube claims to have paid 
+the music business as a whole 
+US$3 billion in 2019.31 YouTube 
+has also stated that its typical 
+costs of acquiring all types of 
+content, including music, is 
+55% of its revenue (YouTube 
+generates most of its revenue 
+
+by placing advertising 
+alongside video content 
+and is believed to pay the 
+creators of those videos, or 
+the rights owners of the music 
+used in those videos, 55% of 
+the advertising revenue).32 
+Dividing US$3 billion by 
+55% suggests YouTube 
+earned around $5.45 billion 
+in revenue on advertising 
+accompanying music videos 
+globally. This estimate relates 
+only to monetised (through 
+advertising) videos and does 
+not include estimates for 
+the value of other Alphabet 
+owned services that might 
+have derived revenue from the 
+internet traffic generated by 
+the music videos available on 
+YouTube. In the absence of any 
+disclosures about the location 
+of YouTube’s advertising 
+revenue generating viewers, 
+we assumed these revenues 
+reflected the geographical 
+split of Alphabet’s total 
+revenue. Alphabet’s 2018 
+annual report stated that the 
+company earned 33% of all of 
+their revenue from the Europe, 
+the Middle East and Africa 
+(EMEA) region. To estimate 
+the scale of their revenues 
+from the EU27 and the UK, 
+we used those markets’ share 
+of recording industry’s video 
+streaming revenues from the 
+EMEA region (at 64% and 
+26%, respectively) using IFPI’s 
+“Global Music Report” data for 
+2018. However, we recognise 
+that the above methodology 
+is not perfect, given that 
+there is no complete publicly 
+available data on how and to 
+what extent music available on 
+YouTube is monetised. 
+
+In the absence of any further 
+data about Alphabet’s 
+European operations and staff 
+working on YouTube in Europe, 
+we assumed that Alphabet’s 
+various business functions 
+were equally efficient, so we 
+used the ratios from within 
+its 2018 annual accounts 
+to estimate employment 
+and gross value added. We 
+combined Alphabet’s accounts 
+data on type of spending, with 
+input-output data to derive its 
+procurement and employee 
+compensation associated 
+with streaming music videos 
+to estimate the indirect and 
+induced impacts.
+
+Physical music retail
+
+Data on the retail value 
+of purchases of physical 
+music (CDs, vinyl, etc) in 
+four countries (Austria, 
+Germany, Portugal, and UK) 
+in 2018 was sourced from 
+Verband der österreichischen 
+Musikwirtschaft, 
+Bundesverband 
+Musikindustrie, Associação 
+Fonográfica Portuguesa 
+and the Entertainment 
+Retailers Association 
+(2019), respectively. The 
+Entertainment Retailers 
+Association’s data for the UK 
+
+showed that in 2018, 10.7% 
+of consumer spending on 
+music was at specialist over-
+the-counter shops (i.e. record 
+stores), supermarkets had 
+a 6.7% market share and 
+home delivery a further 11.3% 
+share. Eurostat publishes 
+data on various aspects 
+of retailing (employment, 
+
+revenue, procurement, 
+employee compensation, 
+etc) for specialised audio 
+and video equipment stores, 
+non-specialised stores 
+with food, beverages or 
+tobacco predominating 
+(i.e. supermarkets), and 
+non-specialised retailers. 
+We weighted together the 
+ratios for the three retailing 
+sectors in proportion to their 
+share of consumer spending 
+at 10.7%, 6.7% and 11.3%. 
+This enabled us to derive 
+estimates of the direct impact 
+of selling physical music, the 
+retailers’ procurement, and 
+the employee compensation 
+they paid so that we could 
+calculate the direct, indirect 
+and induced impacts for those 
+four countries.
+
+To calculate the retail value of 
+physical music in the other 24 
+countries, we used statistics 
+on the sales volume of CDs 
+and vinyl in 2018 contained in 
+IFPI’s “Global Music Report”. 
+The publication contains 
+volume data for 15 countries 
+out of the EU27 and UK in 2018. 
+We calculated the average 
+percentage decline in sales 
+volumes across the 15 countries 
+contained in the “Global Music 
+Report”. We then applied this 
+percentage decline to the 
+2017 data for the remaining 
+countries to estimate volume 
+figures for 2018. We then 
+multiplied the volume of CDs 
+and vinyl sold by the average 
+price of CDs and vinyl for the 
+two countries for which we 
+have data that are broken 
+down into each type of physical 
+music (Austria and Germany). 
+
+29 IFPI and www.pro-music.org listing for 2018
+30 Available at: https://www.ifpi.org/wp-content/uploads/2020/07/Music-Listening-2019-1.pdf
+31 Available at: https://www.billboard.com/articles/business/8550838/lyor-cohen-youtube-music-billboard-cover-story-interview-2020
+
+40
+
+32 Irene S Berkowitz, Watchtime Canada: How YouTube Connects Creators & Consumers ([n.p]: Ryerson University/Faculty of 
+Communication and Design Audience Lab, 2019) https://sites.google.com/view/watchtime-2019
+
+41
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeTo account for price differences 
+across the EU, this was then 
+scaled by the difference in the 
+price of a particular best-selling 
+global artist’s latest CD album 
+on Amazon in each of the six 
+European countries which have 
+bespoke Amazon sites. For the 
+remaining 22 countries we have 
+used the Eurostat purchasing 
+power parity estimates for 
+recreation and culture.33 We 
+then multiplied that by the 
+“Global Music Report” statistics 
+on the quantities of CDs 
+and vinyl sold in the relevant 
+markets to get the retail sale 
+value and used the ratios from 
+Eurostat for the retail sector in 
+the relevant country.
+
+Musical instrument 
+manufacturing
+
+In estimating the impact 
+of musical instrument 
+manufacturing, we first 
+spoke to the Music Industries 
+Association (MIA). Following 
+this, data for musical 
+instrument manufacturing was 
+sourced from the Eurostat 
+Structural Business Statistics 
+(SBS) database. Data on gross 
+value added, employment, total  
+personnel costs, and purchases 
+of goods and services were 
+extracted for the NACE code 
+32.2 (Manufacture of musical 
+instruments). Where data were 
+missing for countries, mainly 
+for confidentiality reasons, 
+these were estimated by using 
+EU totals.
+
+Musical instrument retail
+
+Radio broadcasting
+
+Input data for musical 
+instrument retail was sourced 
+from the Eurostat SBS 
+database. As the SBS database 
+does not provide data at a 
+disaggregated enough level 
+to allow us to directly extract 
+data for musical instrument 
+retail, data for the broader 
+industry category were scaled 
+down. Data were extracted for 
+NACE code 47.59 (Retail sale 
+of furniture, lighting equipment 
+and other household articles in 
+specialised stores). To remove 
+the portion of this data that 
+was not related to the retail 
+of musical instruments, we 
+used the GVA ratio of SIC 
+codes 47.59/1 to 47.59 found 
+in the UK Annual Business 
+survey for 2018.34 This showed 
+that musical instrument retail 
+represented approximately 
+7.3% of the 47.59 category in 
+terms of GVA. This percentage 
+was then applied to the 
+Eurostat data to split out 
+the musical instrument retail 
+component.
+
+Whilst the Eurostat data 
+for musical instrument 
+retail represented musical 
+instruments sold in specialised 
+stores, we took this to 
+represent the entirety of 
+musical instrument retailing. 
+We conducted an interview 
+with the Music Industries 
+Association (MIA), the trade 
+body for the UK musical 
+instrument industry, which 
+confirmed that the vast 
+majority of musical instrument 
+sales occurred within 
+specialised stores.
+
+Data on the radio broadcasting 
+sector (defined as NACE code 
+60.1 Radio Broadcasting) 
+was sourced from the 
+Eurostat SBS database. We 
+downloaded information 
+on the sector’s gross 
+value added, employment, 
+employee compensation, and 
+procurement.
+
+To apportion the share of 
+radio broadcasting that is 
+attributable to music (as 
+opposed to talk-based or 
+other programming) we used 
+PWC (2017) data on the 
+percentage of commercial 
+radio airtime accounted for by 
+playing music.35 The data were 
+available for nine countries 
+in the study, namely, Austria 
+(78% of airtime), Bulgaria 
+(74%), Denmark (40%), 
+Finland (55%), France (68%), 
+Germany (70%), Italy (65%), 
+Latvia (70%) and Sweden 
+(75%). A similar-countries 
+method was used to estimate 
+airtime percentages for the 
+other nations in this report, 
+based on geographical 
+proximity and relative income 
+levels.
+
+Television broadcasting
+
+For the activities of 
+television broadcasters, 
+data on GVA, employment, 
+employee compensation, 
+and procurement spend was 
+sourced from Eurostat’s SBS 
+database, for NACE code 60.2, 
+television programming and 
+broadcasting activities. This 
+provided the necessary data 
+
+33 Available at: https://ec.europa.eu/eurostat/web/purchasing-power-parities/visualisations 
+34 ONS. 2020. “Annual Business Survey - 2018 Revised Results.”
+35 PWC. 2017. “A new benchmark for the valuation of sound recordings.” 
+
+42
+
+on GVA, employment, total 
+personnel costs, and spend 
+by the industry on inputs of 
+goods and services (which 
+includes, amongst others, 
+procurement of licences 
+from music right holders) 
+not intended for resale in the 
+same condition, for television 
+broadcasters. From here, 7% of 
+the total GVA and employment 
+associated with television 
+broadcasters was attributed 
+to the music industry, 
+based on the percentage of 
+television channels which were 
+dedicated to music, sourced 
+from the European Audiovisual 
+Observatory.36 
+
+Music-related goods 
+manufacturing
+
+For this category we 
+estimated the impact of the 
+manufacturing of goods 
+which were related to the 
+production and consumption 
+of music. The list of products 
+included sound recording 
+and reproduction apparatus, 
+radios, and devices used to 
+play music such as laptops, 
+smartphones, and tablet 
+computers.
+
+We began by extracting data 
+from Eurostat’s PRODCOM 
+database, which provided 
+production values for our 
+selection of music-related 
+goods. We then assigned 
+percentages of the production 
+values of the goods in the 
+following manner. For goods 
+related to the consumption 
+of broadcast music radio, we 
+took an EU average figure 
+for the percentage of radio 
+
+broadcasting airtime devoted 
+to music (68%), calculated 
+from data presented in 
+PWC’s “A new benchmark 
+for the valuation of sound 
+recordings (2017)” report. For 
+products that played physical 
+music formats or were for 
+sound recording, such as 
+microphones, we made the 
+assumption that these were 
+predominantly for music use, 
+and therefore took 100% of 
+their production value. 
+
+For the manufacturing of 
+smartphones, we used data 
+from a Comscore study on 
+mobile app usage in the US 
+(2017).37 This suggested that 
+18% of time spent on mobile 
+apps was spent on music 
+consumption. We therefore 
+attributed 18% of the value of 
+smartphone production in the 
+EU27 and the UK to music. 
+In the absence of consumer 
+data on music usage time on 
+laptop computers, we used 
+data on private copy levies 
+for music-playing devices 
+in Europe. We calculated an 
+average percentage rate of 
+2.585% based on data from the 
+Stichting de Thuiskopie and 
+the World Intellectual Property 
+Organization38 which covered 
+the Czech Republic, Estonia, 
+Greece, Poland, and Slovakia.39 
+Using the private copy levy 
+percentage will almost certainly 
+lead us to underestimate 
+the true music-attributable 
+share of the value of laptop 
+computers, so our estimates 
+can be taken as a minimum. 
+Finally, for goods relating to 
+the production of loudspeakers 
+and audio amplifiers, we 
+
+assigned an 85% share of the 
+production values of these 
+goods. This is based upon a 
+metric found in National Public 
+Media’s Smart Audio Report 
+(Spring 2020),40 stating that 
+85% of smart speaker users 
+play music on their devices.
+
+After music’s share of 
+production value was isolated, 
+we applied ratios of production 
+value to GVA, procurement, 
+and employee compensation 
+taken from the Eurostat 
+Structural Business Statistics 
+(SBS) database. All of the 
+products chosen fit into NACE 
+categories 26.2 (Manufacture 
+of computers and peripheral 
+equipment), 26.3 (Manufacture 
+of communication equipment), 
+or 26.3 (Manufacture of 
+consumer electronics). 
+We therefore applied the 
+appropriate GVA, employment 
+and procurement ratios based 
+on the category into which a 
+specific good fell. Finally, GVA 
+per worker ratios from the 
+same Eurostat SBS categories 
+were applied to estimate 
+employment associated with 
+the production of each good. 
+
+The calculated values for 
+spending on inputs of 
+goods and services and 
+employee compensation were 
+then inserted into Oxford 
+Economics’ Global Economic 
+Impact Model to estimate the 
+indirect and induced impacts.
+
+36 European Audiovisual Observatory, Audiovisual media services in Europe, 2019.
+37 Comscore. 2017. “The 2017 U.S. Mobile App Report.”
+38 Available at: https://www.wipo.int/edocs/pubdocs/en/wipo_pub_1037_2017.pdf 
+39 This will produce a conservative estimate. If we were to take the same share of value as we used for smartphones (18%), this would 
+increase total GVA by €972 million and total employment by 26,000 people.
+40 National Public Media, The Smart Audio Report, April 2020. URL: https://www.nationalpublicmedia.com/insights/reports/smart-
+audio-report/
+
+43
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeRetail of music equipment 
+(including consumer and 
+studio/recording goods)
+
+To estimate the economic 
+impact of the retailing 
+of manufactured goods 
+used in the production or 
+consumption of music, we use 
+the same categories of goods 
+and their respective music-
+attributable value shares as 
+described in the section on 
+the manufacturing of music-
+related goods for consistency.
+
+Retailers earn margins on 
+both the sale of goods 
+manufactured in Europe 
+and imported from the rest 
+of the world. Therefore we 
+began by estimating the total 
+supply of these goods to 
+the EU27 and UK domestic 
+markets by summing the 
+value of domestic production 
+and imports of the included 
+goods, and then subtracting 
+their respective export values. 
+Import and export values for 
+the EU27 and the UK were 
+extracted from the Eurostat 
+COMEXT database and the 
+values of goods produced 
+within the studied region were 
+sourced from the Eurostat 
+PRODCOM database.
+
+To estimate GVA and 
+employment associated with 
+the retailing of these products, 
+we first applied data on trade 
+and transport margins for 
+the Computer, electronic and 
+optical products category 
+(CPA_C26) in Eurostat’s EU27 
+and UK supply table to the 
+calculated domestic supply 
+figures. Then we used ratios 
+of gross margin on goods for 
+resale to GVA, procurement 
+(purchases of goods and 
+services excluding those 
+meant for resale in the same 
+condition), employment, and 
+employee compensation. 
+These ratios were calculated 
+using data from the Eurostat 
+SBS database, for the 
+category Other retail sale 
+in non-specialised stores. 
+The estimated data for 
+employee compensation 
+and procurement spending 
+were then modelled using 
+the Oxford Economics Global 
+Economic Impact Model to 
+estimate the supply chain and 
+wage consumption impacts 
+of the retailing of music 
+equipment.
+
+Music teachers
+
+The estimates of the GVA and 
+people employed as music 
+teachers that are presented 
+in this report represent those 
+music teachers employed 
+within educational institutions 
+at lower secondary, upper 
+secondary and tertiary levels. 
+There is a distinct lack of 
+available data on freelance 
+music teachers, those who 
+privately teach music and 
+
+musical instruments to 
+students. Therefore our 
+estimates do not directly 
+include these people. However, 
+it is noted that many freelance 
+music teachers are also 
+employed as music teachers 
+in educational institutions and 
+elsewhere in the sector, so 
+their inclusion could likely lead 
+to some double counting.
+
+We began by estimating the 
+number of music teachers at 
+secondary and tertiary level 
+within the EU27 and the UK, 
+assuming that the number of 
+dedicated music teachers at 
+primary level was negligible 
+due to the more generalist 
+nature of education at that 
+stage. To estimate this, we used 
+country-level data on numbers 
+of classroom teachers and 
+academic staff by education 
+level across the EU27 and the 
+UK from Eurostat. We then 
+estimated the percentage of 
+these teachers that taught 
+music. For music teachers at 
+lower and upper-secondary 
+level institutions, we first 
+calculated the percentage of 
+secondary-level teachers who 
+taught music at secondary 
+schools in England, using data 
+from the UK Department for 
+Education School Workforce 
+Census 2018.41 The percentage 
+teaching music as a discipline 
+was then applied to Eurostat 
+data on the total number of 
+secondary-level teachers at all 
+institution types in the EU27 
+to estimate the total number 
+of music teachers employed 
+at lower and upper secondary 
+level institutions in the EU27. 
+
+This same percentage was 
+applied to Eurostat data on 
+secondary schools’ spending 
+on employee compensation 
+and the purchases of goods 
+and services to isolate the 
+component related to music 
+education.
+
+An estimate of the number 
+of music teachers employed 
+at higher education 
+institutions in the EU27 and 
+the UK was provided by the 
+Association Européenne des 
+Conservatoires, Académies de 
+Musique et Musikhochschulen 
+(AEC), a coalition representing 
+
+higher music education 
+institutions within Europe. The 
+estimate was provided on a 
+full-time equivalent basis, so we 
+converted it into a headcount 
+measure using Eurostat data 
+on the percentage of tertiary-
+level teachers who were in 
+part-time employment, with 
+the assumption that anyone 
+working part-time undertook 
+half the hours of their full 
+time colleagues . For music 
+teachers at tertiary level we 
+used Eurostat data on the 
+number of academic and 
+teaching staff employed 
+by tertiary-level education 
+
+institutions, as well as the 
+estimate provided by AEC, 
+to calculate the percentage 
+of tertiary-level teachers who 
+taught music. This percentage 
+was then applied to Eurostat 
+data on procurement spending 
+and employee compensation 
+by tertiary-level institutions 
+to estimate the spending 
+associated with music 
+education. This was then 
+combined with the secondary-
+level data and modelled using 
+the Oxford Economics Global 
+Economic Impact Model.
+
+Fig. 10. Product categories for which data was obtained
+
+Product category
+
+Musical instruments; parts and accessories of such articles
+
+Radio broadcast receivers (except for cars)
+
+Radio broadcast receivers for motor vehicles with sound recording or reproducing apparatus
+
+Radio broadcast receivers for motor vehicles, n.e.c.
+
+Parts of radio receivers and transmitters
+
+Telephones for cellular networks or for other wireless networks
+
+Portable automatic data processing machines weighing max. 10 kg, such as laptop and notebook 
+computers and similar computers
+
+Turntables, record-players, cassette-players and other sound reproducing apparatus
+
+Magnetic tape recorders and other sound recording apparatus
+
+Microphones and their stands (excluding cordless microphones with a transmitter)
+
+Single loudspeakers mounted in their enclosures
+
+Multiple loudspeakers mounted in the same enclosure
+
+Loudspeakers (excluding those mounted in their enclosures)
+
+Headphones and earphones, even with microphone, and sets consisting of microphone and one 
+or more loudspeakers
+
+Audio-frequency electric amplifiers (including hi-fi amplifiers)
+
+Electric sound amplifier sets (including public address systems with microphone and speaker)
+
+Precious or semi-precious stones for styli (for record players)
+
+Other parts and accessories of apparatus of sound recording or reproducing apparatus
+
+Parts of apparatus of microphones, loud speakers and amplifiers
+
+44
+
+41 Department for Education. 2019. “School Workforce in England: November 2018.”
+
+45
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeExports
+
+In estimating the exports 
+attributable to the music 
+industry in the EU27 and UK, 
+our methodology can be 
+split between two categories, 
+physical goods, and digital 
+goods and services, which we 
+approached in different ways 
+based on the data available.
+
+Physical goods exports
+
+For exports of music-related 
+manufactured goods we were 
+able to extract data on export 
+values from the Eurostat 
+COMEXT database (Fig. 10). 
+Then, to reflect the fact that 
+many of these goods may 
+have additional uses outside 
+of music, we took the same 
+shares of export values, as we 
+did for the manufacturing and 
+retail of physical goods. Details 
+of the categories used can be 
+found in the table below.
+
+Digital goods and services 
+exports
+
+When compared to the 
+exports of physical goods, 
+data on digital goods exports 
+and services exports are far 
+less complete in government 
+statistics and availability is 
+inconsistent across countries. 
+Data from official sources did 
+not provide the necessary 
+information to allow us to 
+reliably isolate the exports 
+of digital music and music-
+related services, as the data 
+were generally included in 
+broader categories such 
+as ‘Audiovisual services’ 
+or ‘Personal, cultural, and 
+
+recreational services’ (e.g. in 
+the case of live music concerts 
+abroad). 
+
+Our estimates of digital goods 
+and music services exports 
+were therefore calculated 
+based on the bespoke survey 
+data we received directly 
+from firms in the music sector. 
+This reflected the income 
+that these European firms 
+stated they earned from 
+customers located outside 
+of the EU27 and the UK. As 
+such, exports in this category 
+were limited to those of record 
+companies, music publishers, 
+and providers of audio music 
+streaming services.
+
+For independent record 
+companies and independent 
+publishers where we 
+estimated revenues based 
+on market shares (see the 
+record companies and music 
+publishers methodology 
+section), we estimated their 
+respective export values by 
+using average ratios of exports 
+to total revenue, calculated from 
+survey returns we received.
+
+METHODOLOGY TO 
+ESTIMATE THE INDIRECT 
+AND INDUCED IMPACTS
+
+Estimating the music sector’s 
+wider (indirect and induced) 
+impact in the EU27 and the 
+UK required the use of an 
+input-output (I-O) model 
+of the European economy. 
+An I-O model is a detailed 
+representation of an economy, 
+showing the major interactions 
+and spending flows 
+
+between different industries, 
+households, government, and 
+the external sector. In essence, 
+an I-O model is a table which 
+shows who buys what, and 
+from whom, in the economy. 
+Economic impact assessments 
+utilise I-O models to describe 
+how activity spreads along 
+supply chains throughout 
+an economy, building on the 
+Nobel Prize winning work of 
+Wassily Leontief.42
+
+This study employed the 
+Oxford Economics Global 
+Economic Impact Model, 
+which enables supply chains 
+to be traced across countries. 
+The model used OECD (2018) 
+data on global economic 
+structures and trade as its 
+foundation.43 It allowed us 
+to model the music sector’s 
+supply chains as they crossed 
+national boundaries, both 
+inside and outside Europe, 
+stimulating economic activity 
+as orders were made and 
+goods and services produced.
+
+Using a global model is more 
+accurate than aggregating 
+national ones as it captures 
+the full extent of the supply 
+chain. National I-O models 
+for a single country treat 
+imports as a ‘leakage’ and the 
+expenditure is lost from the 
+model, providing no further 
+economic benefit (Fig. 12). 
+This approach can lead to 
+understating the economic 
+impact of a sector. In contrast, 
+using a global model allows 
+expenditure down the music 
+sector’s supply chains to exit 
+and re-enter the EU27 and the 
+UK economies multiple times.
+
+Fig. 11. Our Global Impact Model captures how the music sector’s contribution spans economies
+
+Standard approach …
+
+… plus global linkages
+
+esticsupplierspe
+
+DOMESTIC
+ECONOMY
+
+n
+d
+
+m
+o
+D
+
+D
+o
+m
+estic
+
+s
+t
+ﬁ
+o
+r
+p
+
+wages
+consumer spend
+
+tosupplychain abroad
+consumerspendabroad
+
+foreignsupplier
+
+REST OF
+WORLD
+
+sp
+e
+n
+d
+
+wages
+foreign consumer
+
+d
+n
+e
+sp
+
+p
+r
+o
+ﬁ
+t
+s
+
+Using the global I-O model to 
+calculate indirect and induced 
+impacts
+
+Using the model enables 
+the calculation of the music 
+sector’s indirect and induced 
+impacts. This involved 
+identifying the expenditure 
+that each segment of the 
+music sector made with 
+its suppliers outside of the 
+sector––both those based in 
+the EU27 and UK and those 
+in the rest of the world. We 
+excluded intra-music sector 
+procurement so as not to 
+double count music sector 
+firms both in the direct 
+channel and then again in the 
+supply chain (indirect channel) 
+and through wage spending 
+(the induced channel).
+
+The method used to collect 
+data on each segment of the 
+music sector’s procurement 
+by purchase type and location 
+of the suppliers are described 
+earlier in this Appendix. 
+Using the global I-O model, 
+this spending was aligned 
+to the industrial sectors in 
+each country from which 
+inputs were sourced. Where 
+relatively little industrial detail 
+was available from the data, 
+we drew upon patterns of 
+spending observed in similar 
+industrial sectors in the input-
+output model. 
+
+The model then calculated 
+the subsequent supply chain 
+purchases that occurred within 
+the global economy (through 
+the use of supply linkage 
+
+multipliers). The summation of 
+these purchases represented 
+the total production that 
+was generated by each 
+segment of the music sector’s 
+procurement. To calculate the 
+indirect contribution to GDP, 
+the gross output stimulated in 
+each industry in each country 
+was divided by sector-level 
+gross value added to gross 
+output ratios, sourced from 
+national statistical agencies 
+for each country in the EU27 
+and UK. The results were 
+then aggregated to produce 
+the total gross value added 
+stimulated by the music 
+sector’s procurement from its 
+supply chain located in the 
+EU27 and UK.
+
+46
+
+42 Wassily Leontief, Input-output economics (New York: Oxford University Press, 1986).
+43 OECD. 2018. OECD Inter-Country Input-Output (ICIO) Tables.
+
+47
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeThe employment supported 
+as a result of the indirect 
+contribution to GDP was 
+estimated by dividing the 
+value added stimulated in 
+each industry in each country 
+by labour productivity data 
+for that country and industrial 
+sector. These productivity data 
+were derived from national 
+statistical agencies. These 
+figures were them summed 
+to get the total employment 
+figure supported by the 
+sector’s procurement along its 
+EU27 and UK supply chain.
+
+The calculation of the induced 
+impact was a two-step 
+process. Data on employee 
+compensation paid to all 
+workers in each segment 
+of the music industry in the 
+EU27 and UK was inserted 
+into the model. Effective tax 
+rate (including income tax and 
+social security contributions) 
+data for each country was 
+used to derive the disposable 
+income of the workers in the 
+
+music sector. Further data 
+driven adjustments were 
+made to take into account 
+households’ propensity to 
+spend and save in each 
+country. The estimated 
+household spending in each 
+country was combined with 
+income multipliers to estimate 
+the gross output it stimulated 
+in each industry in the 28 
+countries.
+
+The second step involved 
+estimating the induced 
+impact that was generated 
+by people employed in each 
+segment of the music sector’s 
+supply chain. To generate this 
+result, the modelling used 
+for calculating the indirect 
+impact outlined above was 
+extended to incorporate 
+income multipliers. This gives 
+the induced expenditure 
+impact, which was translated 
+into value added, employment 
+and tax revenue impacts using 
+the same process used for the 
+indirect impact.
+
+Again, the results for each 
+segment were aggregated to 
+produce results for the whole 
+music sector.
+
+To calculate the impact of 
+the individual segments 
+we repeated the indirect 
+and induced methodology 
+but this time we included 
+all procurement (including 
+purchases from other 
+segments of the music 
+industry). We called these 
+results the gross estimates. 
+We presented the results on a 
+gross (including procurement 
+from other segments in 
+the music sector) and net 
+(excluding procurement from 
+the rest of the music sector) 
+for the record companies. This 
+was to demonstrate the scale 
+of their investment in the rest 
+of the music sector, and how 
+it impacted the estimated 
+multipliers.
+
+OXFORD ECONOMICS
+
+Oxford Economics was founded in 1981 as a 
+commercial venture with Oxford University’s 
+business college to provide economic 
+forecasting and modelling to UK companies 
+and financial institutions expanding abroad. 
+Since then, we have become one of the 
+world’s foremost independent global 
+advisory firms, providing reports, forecasts 
+and analytical tools on more than 200 
+countries, 250 industrial sectors, and 
+7,000 cities and regions. Our best-in-class 
+global economic and industry models and 
+analytical tools give us an unparalleled 
+ability to forecast external market trends 
+and assess their economic, social and 
+business impact.
+
+Headquartered in Oxford, England, with 
+regional centres in New York, London, 
+Frankfurt, and Singapore, Oxford Economics 
+has offices across the globe in Belfast, 
+Boston, Cape Town, Chicago, Dubai, Dublin, 
+Hong Kong, Los Angeles, Melbourne, Mexico 
+City, Milan, Paris, Philadelphia, Stockholm, 
+Sydney, Tokyo, and Toronto. We employ 
+400 full-time staff, including more than 
+250 professional economists, industry 
+experts, and business editors—one of the 
+largest teams of macroeconomists and 
+thought leadership specialists. Our global 
+team is highly skilled in a full range of 
+research techniques and thought leadership 
+capabilities from econometric modelling, 
+scenario framing, and economic impact 
+analysis to market surveys, case studies, 
+expert panels, and web analytics.
+
+Oxford Economics is a key adviser to 
+corporate, financial and government 
+decision-makers and thought leaders. Our 
+worldwide client base now comprises over 
+1,500 international organisations, including 
+leading multinational companies and 
+financial institutions; key government bodies 
+and trade associations; and top universities, 
+consultancies, and think tanks.
+
+November 2020
+
+All data shown in tables and charts are 
+Oxford Economics’ own data, except where 
+otherwise stated and cited in footnotes, and 
+are copyright © Oxford Economics Ltd.
+
+This report is confidential to IFPI and may 
+not be published or distributed without 
+their prior written permission. 
+
+The modelling and results presented here 
+are based on information provided by third 
+parties, upon which Oxford Economics has 
+relied in producing its report and forecasts 
+in good faith. Any subsequent revision 
+or update of those data will affect the 
+assessments and projections shown.
+
+To discuss the report further, please contact:
+
+Andrew Logan 
+alogan@oxfordeconomics.com
+
+Oxford Economics 
+4 Millbank 
+London 
+SW1P 3JA 
+United Kingdom
+
+Tel: +44 203 910 8000
+
+Photo credits
+Cover photos: Adobe Stock
+Inside-front: Shutterstock.com
+Frances Moore photo by Graham Flack
+Page 2: Shutterstock.com
+Page 6: Adobe Stock
+Page 9: Shutterstock.com
+Pages 10/11: Adobe Stock
+Page 17: Adobe Stock
+Page 21: Shutterstock.com
+Page 25: Adobe Stock
+Page 27: Adobe Stock
+Page 31: Shutterstock.com
+Page 33: Adobe Stock
+Page 35: Adobe Stock
+
+48
+
+49
+
+The Economic Impact of Music in EuropeThe Economic Impact of Music in EuropeGlobal headquarters
+Oxford Economics Ltd 
+Abbey House 
+121 St Aldates 
+Oxford, OX1 1HB
+UK
+Tel: +44 (0)1865 268900
+
+London
+4 Millbank
+London, SW1P 3JA 
+UK
+Tel: +44 (0)203 910 8000
+
+Frankfurt
+Marienstr. 15 
+60329 Frankfurt am Main 
+Germany
+Tel: +49 69 96 758 658
+
+New York
+5 Hanover Square, 8th Floor 
+New York, NY 10004
+USA
+Tel: +1 (646) 786 1879
+
+Singapore
+6 Battery Road
+#38-05
+Singapore 049909
+Tel: +65 6850 0110
+
+Europe, Middle East
+and Africa 
+
+Oxford
+London
+Belfast
+Dublin
+Frankfurt
+Paris
+Milan
+Stockholm
+Cape Town
+Dubai
+
+Americas
+
+New York
+Philadelphia
+Boston
+Chicago
+Los Angeles 
+Toronto
+Mexico City
+
+Asia Pacific
+
+Singapore
+Hong Kong
+Tokyo
+Sydney
+Melbourne
+
+Email:
+mailbox@oxfordeconomics.com
+
+Website:
+www.oxfordeconomics.com
+
+Further contact details:
+www.oxfordeconomics.com/
+about-us/worldwide-offices
+
+ 
+ 
+

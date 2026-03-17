@@ -1,0 +1,199 @@
+74B
+
+How to Make
+Statutory License Royalty
+Payments by ACH Credit
+
+This circular contains instructions
+
+on how to originate an ACH credit
+
+through a financial institution for
+
+statutory license royalty payments.1
+
+Under the copyright statutory licenses, cable systems, satellite carriers, and digital audio recording technology (DART)
+manufacturers and importers must pay royalty fees using
+electronic funds transfer (EFT). Cable systems and satellite carriers are also required to pay a filing fee for current, past, and
+future accounting periods. The EFT process benefits both the
+remitter and the Copyright Office as the agency responsible
+for collecting and distributing royalty fees. EFTs can be transmitted either as Automated Clearing House (ACH) credits or
+as Fedwire (wire) transactions, depending on how a transfer
+is arranged through a financial institution. Alternatively, they
+can be transmitted as ACH debits using the U. S. Treasury
+Department’s web-based remittance system, Pay.gov.
+
+For other options, see How to Make Statutory License Royalty Payments by Wire (Circular 74A), or How to Make Statutory License Royalty Payments Using Pay.gov (Circular 74C).
+
+Procedure to Pay by ACH Credit
+
+•  Contact your financial institution to determine if it is
+capable of originating ACH payments. Many financial institutions offer personal-computer-based ACH
+origination programs that allow you to input payment
+information directly into the prescribed format and to
+transmit the information to the financial institution.
+
+•  Do not send a prenotification.
+
+•  Settlement of the ACH must occur by the appropriate
+
+filing deadline. Settlement generally occurs the banking
+day after the ACH transmission. Check with your financial institution on timing to avoid interest payments.
+
+wcopyright.govCIRCULAR
+
+--- PAGE BREAK ---
+
+•  Provide your financial institution with the specific instructions below so that the ACH can be
+
+transmitted:
+
+Federal Reserve Bank of Richmond
+701 E. Byrd Street, Richmond, VA 23219
+
+Financial institution:
+Location:
+Receiving ABA number:  051036706
+Account number:
+Account name:
+Adenda record:
+
+303017
+See “Payment-Related Instructions”
+
+Payment-Related Instructions
+
+Provide accounting period; the number of statements of account; the type of royalty payment
+(cable, satellite, or DART); and the legal name of the owner of the cable system (and the first community and state served from one statement of account), the satellite carrier, or the DART manufacturer or importer covered by the electronic transfer.
+
+Example: APC-952/NSA-00001/TOF-Cable/LNR-ABC CABLE CO (ALBANY NY)/
+
+A description of subfields and their order for payment-related information follows.
+
+Subfield Description
+
+•  APC: A three-digit subfield indicating the accounting period covered by the electronic transfer.
+The second accounting period for the year is indicated by “102.” If the payment covers multiple
+accounting periods use “map” as the subfield and indicate on the cover letter the accounting
+period for each statement.
+
+•  NSA: A five-digit subfield with leading zeros representing the number of statements of account
+
+the transfer covers, “00001” for 1 statement and “00095” for 95 statements.
+
+•  TOF: Indicates the type of royalty fee payment (cable, satellite, or DART).
+
+•  LNR: The last subfield is for the legal name of the owner of the cable system or satellite carrier
+or the DART manufacturer or importer covered by the electronic transfer payment and one
+community served if a cable system.
+
+NOTE: All subfields in the payment-related information area must end with a “⁄ ”. The remitter
+should inform the financial institution that transmits the EFT to ensure that all information is
+provided in the prescribed format. Failure to provide the information in the prescribed format may
+cause a delay of the transfer.
+
+Procedures to File the Statement of Account
+
+Cable or Satellite
+
+•  Complete the Remittance Advice Form RA-1 if you are filing a cable or satellite statement of
+account. Send the completed form by email or fax to the Licensing Division indicating:
+
+--- PAGE BREAK ---
+
+1.  Remitter’s (company) name
+
+2.  Contact person
+
+3.  Telephone number and extension, and an email address
+
+4.  Date of EFT (actual or anticipated) and type of EFT
+
+5.  Type of royalty payment (cable or satellite)
+
+6.  Total amount of EFT
+
+7.  Legal name (See space B of statement of account)
+
+8.  Total amount to be paid by year, period, ID number, first community served (cable only),
+
+filing fees, and royalty fees
+
+DART
+
+•  Complete the Remittance Advice Form RA-2 if you are filing a DART statement.
+
+1.  Remitter’s (company) name
+
+2.  Contact person
+
+3.  Telephone number and email address
+
+4.  Date of EFT (actual or anticipated) and type of EFT
+
+5.  Total amount of EFT
+
+6.  Legal name (See space B of statement of account)
+
+7.  Year, period, ID number, and royalty amount paid per statement
+
+Important
+
+•  A remittance advice form must accompany statements of account.
+
+•  Royalty payments received after the filing deadline are subject to an interest assessment.
+
+Contact the Licensing Division at licensing@copyright.gov or visit our website at
+www.copyright.gov/licensing for interest rates.
+
+•  Failure to follow these instructions may result in return of the royalty fees to the remitter’s
+
+account.
+
+•  The Library of Congress, U.S. Copyright Office, Licensing Division, is an agency of the U.S. government and is exempt from backup withholding (taxpayer identification number: 53-6002532).
+
+NOTE: See Copyright Office Licensing Division Service Fees (Circular 76).
+
+NOTE
+1. This circular is intended as an overview of how to make statutory license royalty payments by ACH
+credit. The authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 of the
+United States Code. Copyright regulations are codified in Title 37 of the Code of Federal Regulations.
+Copyright Office practices and procedures are summarized in the third edition of the Compendium
+of U.S. Copyright Office Practices, cited as the Compendium. The copyright law, regulations, and the
+Compendium are available on the Copyright Office website at www.copyright.gov.
+
+--- PAGE BREAK ---
+
+For Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, and related materials
+are available from the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send a licensing related inquiry, e-mail licensing@copyright.gov. To send a general email inquiry,
+click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For licensing related information, call the Licensing Division at (202) 707-8150. For general information about copyright, call the Copyright Public Information Office at (202) 707-3000 or 1-877-
+476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, Monday
+through Friday, except federal holidays. To request paper application forms or circulars by postal
+mail, call (202) 707-9100 or 1-877-476-0778 (toll free) and leave a recorded message.
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+Licensing Division
+101 Independence Avenue, SE #6400
+Washington, DC 20557-6400
+
+CIRCULAR 74B  REVISED: 09 /2017
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

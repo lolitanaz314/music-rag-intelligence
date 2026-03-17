@@ -1,0 +1,417 @@
+50
+
+Copyright Registration for
+Musical Compositions
+
+This circular provides information 
+
+about registering musical 
+
+compositions with the U.S. Copyright 
+
+Office. It introduces the difference 
+
+between a musical composition and a 
+
+sound recording under copyright law 
+
+and offers guidance about
+
+•  Completing a copyright application
+
+•  Submitting a deposit
+
+•  Registering multiple unpublished 
+
+musical compositions
+
+This circular is intended as a guide to registering musical 
+compositions with the U.S. Copyright Office. For specific 
+information, see chapter 800 of the Compendium of U.S. 
+Copyright Practices.1
+
+Musical Compositions
+
+The Copyright Act provides in section 102(a)(2) for copy-
+right protection in “musical works, including any accom-
+panying words,” that are fixed in some tangible medium of 
+expression. Musical works include original compositions 
+and original arrangements or other new versions of earlier 
+compositions to which new copyrightable authorship has 
+been added.
+
+Copyright protection gives the owner of copyright in a 
+musical composition the exclusive right to make copies, pre-
+pare derivative works, sell or distribute copies, and perform 
+or display the work publicly. The owner of copyright may 
+also authorize others to exercise the exclusive rights.
+
+The copyright in a musical work includes the right to 
+make and distribute, or to authorize, the first sound record-
+ing of a performance of the musical composition. Once a 
+musical composition is published in the United States on 
+phonorecords, others are permitted to make subsequent 
+sound recordings of the musical composition subject to a 
+compulsory licensing provision in the copyright law.2 For 
+more information, see Compulsory License for Making and 
+Distributing Phonorecords (Circular 73A).
+
+Musical Compositions Versus Sound Recordings
+
+A musical composition and a sound recording are two sepa-
+rate works. A registration for a musical composition covers the 
+music and lyrics, if any, embodied in that composition, but it 
+does not cover a recorded performance of that composition. 
+
+wcopyright.govCIRCULAR For example, the song “Rolling in the Deep” and a recording of Aretha Franklin singing “Rolling in 
+the Deep” are two distinct works. The song itself (i.e., the music and the lyrics) is a musical composi-
+tion, and a recording of an artist performing that song is a sound recording.
+
+In most cases, a musical composition and a sound recording must be registered separately with 
+
+the Copyright Office. However, in limited circumstances, a sound recording and the underlying 
+musical composition can be registered with one application, filing fee, and deposit. For information 
+about registering a sound recording, see Circular 56. For information about registering a musical 
+composition together with a sound recording, see Circular 56A.
+
+Copyright Registration
+
+To register a claim to copyright in a musical composition, you must submit the following to the 
+Copyright Office: (1) a completed application form; (2) a nonrefundable filing fee; and (3) the required 
+“deposit copies” of your work. This circular highlights issues common to registrations of musical 
+compositions. For more guidance on registering a musical composition, see chapter 800, section 802.9, 
+of the Compendium. For general registration information, see Copyright Registration (Circular 2).
+
+note: Copyright Office fees are subject to change. For current fees, see Copyright Office Fees  
+(Circular 4), available on the Office’s website at www.copyright.gov or call the Office at (202) 707-3000 
+or 1-877-476-0778 (toll free).
+
+Mistakes in applications lead to delays in registration, so it is important to complete the appli-
+cation accurately. Instructions for completing an online application appear in the “help” text that 
+accompanies the application. Here are some tips regarding common points of confusion.
+
+Type of Work
+
+•  At the beginning of the application, select “Work of the Performing Arts” on the “Type of Work” 
+screen. The questions in the application are based on the type of work you select. If you select 
+the wrong option, you will need to start over.
+
+Title
+
+•  Provide the title of the musical composition you are registering exactly as it appears on the 
+
+work itself.
+
+Publication
+
+“Publication” occurs when copies or phonorecords of a work are distributed to the public by sale or 
+other transfer of ownership or by rental, lease, or lending. Publication also occurs when a copyright 
+owner offers to distribute copies or phonorecords of a work to a group of persons for the purpose 
+of further distribution, public performance, or public display. A public performance or display of a 
+musical composition does not, in and of itself, constitute publication.
+
+•  If the work has not been published, state that the work is “unpublished.” 
+
+•  If the work has been published, give the month, day, and year that the copies or phonorecords 
+were first distributed to the public or first offered to a group of persons for further distribu-
+tion, public performance, or public display.
+
+2
+
+Copyright Registration for Musical CompositionsYear of Completion
+
+The year of completion is the year in which the version of the work you are registering was first fixed 
+in writing or recorded in any other tangible form.
+
+•  If you are registering a work that was written or recorded over a period of time, or a work that 
+constitutes a new version of an earlier work, give the year of completion of the final work or 
+new version.
+
+Author
+
+The author of a musical composition is the person who wrote or created the music and lyrics, if any, 
+unless the work is a work made for hire.
+
+•  If the music was created as a work made for hire, give the name of the employer, not the 
+
+person who actually created the music.
+
+note: Check “Made for Hire” only if the work was prepared by an employee within the scope of his 
+or her employment or commissioned by a third party (1) as a contribution to a compilation or a 
+collective work, (2) as part of a motion picture or other audiovisual work, or (3) as a musical arrange-
+ment with an express written agreement signed by both parties that the work would be considered 
+a work made for hire. For more information, see Works Made for Hire (Circular 30).
+
+Type of Authorship 
+
+•  Specify what the author created in the copy or phonorecord that accompanies the application. 
+
+•  If you are registering a musical composition, you can describe authorship in terms of the lyrics, 
+
+the music, and/or the musical arrangement.
+
+•  If you are also registering artwork, photographs, or liner notes that appear on the copy or pho-
+
+norecord, include a brief statement to that effect in the “Other” field.
+
+•  If you are registering a compilation or a collective work, such as an album, describe the 
+
+authorship and the material included in the claim by stating “Compilation of Musical Compo-
+sitions” in the “Other” field.
+
+note: Do not include elements that are not present in the copy or phonorecord. Do not include ele-
+ments that are not protected by copyright, such as ideas, concepts, names, or titles.
+
+Limitation of Claim
+
+•  If you are registering a musical work that contains preexisting material, identify that material 
+in the “Material Excluded” field, and identify the new material in the “New Material Included” 
+field. If the preexisting material has been registered with the Copyright Office, include the reg-
+istration number and year. Complete this space only if the work being registered contains an 
+appreciable amount of material that 
+
+ » was previously published;
+
+ » was previously registered in the U.S. Copyright Office;
+
+ » is in the public domain; or
+
+ » is not owned by the claimant named in the application. 
+
+3
+
+Copyright Registration for Musical CompositionsLeave this space blank if the work does not contain an appreciable amount of any of this kind of 
+
+material. For more information, see chapter 500, section 507 of the Compendium.
+
+Deposit Requirements
+
+To register your musical composition, you must send a deposit of the work to the Copyright Office. 
+This deposit should be a complete copy of the work being registered. A complete copy means that 
+the deposit is legible, is assembled in orderly form, is labeled with the title of the work, and includes 
+everything to be covered by the registration. 
+
+Where possible, the Copyright Office encourages you to upload the deposit in an acceptable file 
+format through the online registration system. Deposits may also be mailed to the Office following 
+the directions in the shipping slip generated from the “Submit Your Work” screen. Once a deposit 
+has been submitted, it becomes part of the public record and cannot be returned.
+
+How you submit your deposit depends on the format in which the musical composition is pro-
+duced and whether and where it is published. The table below provides the deposit requirements of 
+some common formats for musical compositions. If you are registering a work first published out-
+side the United States, you can generally submit one complete copy of the score as first published.
+
+Format of Musical 
+Composition
+
+                       Unpublished                                  Published in the United States
+
+Publication Status of the Work
+
+Print copies only
+
+Upload one complete copy
+
+Send one complete copy of the 
+best edition of the printed work
+
+Digital copies only
+
+Upload one complete copy of the digital work
+
+Physical and digital 
+sheet music
+
+Physical recording 
+only
+
+Digital recording 
+only
+
+Upload one complete copy
+
+Send one complete copy of the 
+best edition of the physical format
+
+Upload one complete phonorecord2 Upload or send one complete 
+
+Upload one complete phonorecord
+
+phonorecord
+
+Upload one complete 
+phonorecord
+
+Both print copies 
+and recordings
+
+Upload one complete copy or 
+phonorecord
+
+Send one complete copy of the 
+best edition of the printed work
+
+Both digital copies 
+and recordings
+
+Upload one complete copy or 
+phonorecord
+
+Upload one complete copy of the 
+best edition of the digital work
+
+Solely in a motion 
+picture
+
+Provide a transcription of the entire musical work or a phonorecord  
+with the entire musical work and reproductions of the title, credits for  
+the soundtrack, and copyright notice for the soundtrack
+
+4
+
+Copyright Registration for Musical CompositionsBest Edition
+
+A “best edition” is the edition published in the United States at any time before the date of deposit 
+that the Library of Congress determines most suitable for its purposes. In the case of musical 
+compositions, the Office has set forth best edition requirements only for works published in print 
+formats, such as sheet music. Compositions published only as sound recordings or as part of a 
+motion picture are not subject to the best edition requirement. If there are multiple printed formats, 
+you must decide which format constitutes the “best edition.” Use the following criteria to identify 
+the highest-quality edition. For more information, see Best Edition of Published Copyrighted Works 
+for the Collections of the Library of Congress (Circular 7B).  
+
+A. Fullness of Score
+
+1.  Vocal music
+
+a.  With orchestral accompaniment—
+
+i.  Full score and parts, if any, rather than conductor’s score and parts, if any. (In 
+
+cases of compositions published only by rental, lease, or lending, this requirement 
+is reduced to full score only.)
+
+ii.  Conductor’s score and parts, if any, rather than condensed score and parts, if any. 
+(In cases of compositions published only by rental, lease, or lending, this require-
+ment is reduced to conductor’s score only.)
+
+b.  Unaccompanied: Open score (each part on separate staff) rather than closed score (all 
+
+parts condensed to two staves)
+
+2.  Instrumental music
+
+a.  Full score and parts, if any, rather than conductor’s score and parts, if any. (In cases of 
+compositions published only by rental, lease, or lending, this requirement is reduced 
+to full score only.)
+
+b.  Conductor’s score and parts, if any, rather than condensed score and parts, if any. (In 
+cases of compositions published only by rental, lease, or lending, this requirement is 
+reduced to conductor’s score only.)
+
+B.  Printing and Paper
+
+1.  Archival-quality rather than less-permanent paper
+
+C. Binding and Packaging
+
+1.  Special limited editions rather than trade editions
+
+2.  Bound rather than unbound
+
+3.  If editions have different binding, apply the criteria in I.A.2–I.A.12, in Circular 7B.
+
+4.  With protective folders rather than without
+
+5
+
+Copyright Registration for Musical CompositionsMultiple Musical Compositions
+
+As a general rule, you must submit a separate application, filing fee, and deposit for each work you 
+want to register. However, the Copyright Office offers an accommodation for group registration 
+of unpublished works. You can use the online registration system to register up to ten unpublished 
+songs, song lyrics, or other musical works with one application and fee if you satisfy certain require-
+ments: all works must be created by the same author or authors, all of the authors must be named as 
+copyright claimants, and the authorship claim for all authors must be the same. 
+
+note: You may register up to ten unpublished sound recordings along with the musical works 
+embodied in those recordings if both works are unpublished, if the copyright claimant(s) for both 
+works is the same, and if the applicant chooses “Sound Recording” at the beginning of the application.
+
+In the following examples, Al can register unpublished musical works using one application.
+
+1.  Al wrote the music, and Sue wrote the lyrics to each of eight songs. Al must list Sue as an 
+
+author and claimant on the application.
+
+2.  Sue wrote the music, and Al and Larry wrote the lyrics to each of four songs. Al must list 
+
+Sue and Larry as authors and claimants on the application.
+
+In the following examples, Al cannot register unpublished musical works using one application.
+
+1.  Al wrote the lyrics and music to three songs and co-wrote lyrics and music to four songs 
+with Sue. Al would submit two applications: one for the songs he wrote by himself and 
+another for the songs he co-wrote with Sue.
+
+2.  Sue wrote the music for six songs. Al wrote the lyrics to two of the songs, and Larry wrote 
+the lyrics to four of the songs Sue would submit two applications: one for the four songs 
+co-written with Larry and another for the two songs co-written with Al.
+
+When completing a group registration application that covers multiple unpublished musical com-
+
+positions, give titles for each of the individual musical compositions. In addition, name all the indi-
+viduals who contributed authorship to the musical works included in the group. If the authors are 
+members of a performing group, you may state this after each name. Naming a performing group as 
+the author without naming the individual members who created the works is not sufficient. For more 
+information about group registration of unpublished works, see Multiple Works (Circular 34).
+
+6
+
+Copyright Registration for Musical Compositionsnotes
+1. This circular is intended as an overview of copyright registration for musical compositions. The 
+authoritative source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United 
+States Code. Copyright Office regulations are codified in Title 37 of the Code of Federal Regulations. 
+Copyright Office practices and procedures are summarized in the third edition of the Compendium 
+of U.S. Copyright Office Practices, cited as the Compendium. The copyright law, regulations, and the 
+Compendium are available on the Copyright Office website at www.copyright.gov.
+2. A “phonorecord” is a material object in which sounds are fixed and from which the sounds can be 
+perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or 
+device. Examples include a cassette tape, a vinyl disc, an mp3, or a compact disc. A phonorecord does 
+not include sounds accompanying a motion picture or other audiovisual work.
+
+7
+
+Copyright Registration for Musical CompositionsFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 50  REVISED: 08/2023 
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

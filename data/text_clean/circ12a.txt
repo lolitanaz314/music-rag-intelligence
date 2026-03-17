@@ -1,0 +1,356 @@
+Calculating Fees for
+Recording Documents
+and Notices of Termination
+in the Copyright Office (Fees in effect as of March 20, 2020)
+
+ 12A
+
+Copyright Office fees for recording
+
+documents and notices of termination
+
+vary depending on the number of legal
+
+transactions and works and alternate
+
+identifiers contained in the document
+
+The information below explains how to calculate fees for
+recording documents via paper filing under Title 17 of the
+United States Code sections 205 (transfers of copyright ownership and other documents pertaining to a copyright), 903
+(mask works), and 1320 (vessel hulls), as well as notices of
+termination under sections 203 and 304.1
+
+For more information about recordation, please visit the
+
+as well as how the works and alternate
+
+Office’s website.
+
+identifiers are submitted to the Office.
+
+This circular describes how to calculate
+
+these fees.
+
+Fee for Recording a Document or Notice of
+Termination
+
+The proper fee for recording a document or notice of
+termination depends on the number of legal transactions
+and works and alternate identifiers (titles and/or registration numbers) contained in the document and whether the
+document is accompanied by an electronic title list. The first
+title and/or registration number provided for a particular
+work constitutes a work. If a work is identified by more than
+one title or registration number, every additional title and
+registration number provided beyond the first counts as an
+alternate identifier.
+
+1.  The basic recordation fee is $125 if only one legal
+
+transaction and one title and/or registration number
+provided for a particular work are involved.
+
+2.
+
+If more than one legal transaction is contained in the
+document, then the fee is $95 for each transaction.
+
+3.  The $125 fee covers the first work contained in a document. There is a charge of $60 for each group of one
+to ten additional works and alternate identifiers  provided beyond the first work. However, if the document
+is accompanied by an electronic title list, a generally
+discounted charge for additional works and alternate
+identifiers is assessed as follows:
+
+wcopyright.govCIRCULAR
+
+--- PAGE BREAK ---
+
+•  1 to 50 additional works and alternate identifiers are charged a flat fee of $60
+
+•  51 to 500 additional works and alternate identifiers are charged a flat fee of $225
+
+•  501 to 1,000 additional works and alternate identifiers are charged a flat fee of $390
+
+•  1,001 to 10,000 additional works and alternate identifiers are charged a flat fee of $555
+
+•  10,001 or more additional works and alternate identifiers are charged a flat fee of $5,550
+
+note: To submit an electronic title list, the document must be a transfer of copyright ownership
+or other document pertaining to a copyright that is recordable with the Copyright Office under
+section 205. Notices of termination are ineligible. For more information about electronic title lists,
+please visit the Office’s website.
+
+For documents not accompanied by an electronic title list, additional works and alternate identifiers are counted by groups of ten. If there are fewer than ten titles in a group, the fee for the group
+still applies.
+
+Examples:
+
+•  A document or termination notice containing 1 transaction and 1 work is $ 125.
+
+•  A document containing 2 transactions and 1 work is $ 220 ($ 125 + $ 95).
+
+•  A document containing 1 transaction and 2-11 works and alternate identifiers is $ 185 ($ 125 + $ 60).
+
+ » If the document is submitted with an electronic title list, the fee is $185 ($125 + $60).
+
+note: Fee savings are realized where documents have more than eleven titles.
+
+•  A document containing 1 transaction and 12 works and alternate identifiers is $ 245 ($ 125 + $ 60 +
+
+$ 60).
+
+ » If the document is submitted with an electronic title list, the fee is $185 ($125 + $60).
+
+•  A document containing 1 transaction and 501 works and alternate identifiers is $3,125 ($125 +
+
+($60 x 50)).
+
+ » If the document is submitted with an electronic title list, the fee is $350 ($125 + $225).
+
+•  A termination notice containing 65 titles is $ 545 ($ 125 + $ 60 + $ 60 + $ 60 + $60 + $60 + $60 +
+
+$60).
+
+For more information about how to calculate the total number of titles for multiple-title documents,
+review the instructions for completing Item 2 on Form DCS or Form TCS.
+
+Fee for Special Handling
+
+The fee for special handling of recordation of a document or a notice of termination is $550 in
+addition to regular recordation fees. Special handling is a request for expedited service to meet
+contractual deadlines or for pending litigation. See chapter 2300, section 2307 of the Compendium of
+U.S. Copyright Office Practices for more information.
+
+--- PAGE BREAK ---
+
+Fee for Correcting the Public Catalog Due to an Erroneous Electronic Title List
+
+The fee to correct online public catalog data due to an erroneous electronic title list submission is $7
+per title. For more information about this process, please visit the Office’s website.
+
+note: Copyright Office fees are subject to change. For current fees, please check the Copyright
+Office website at www.copyright.gov, write the Copyright Office, or call (202) 707-3000 or
+1-877-476-0778 (toll free).
+
+--- PAGE BREAK ---
+
+Fee Calculation for Multiple Work Alternate Identifier Documents
+Effective as of March 20, 2020
+
+Basic Fee (document with one transaction and no more than one work): $ 125
+
+2-11
+12-21
+22-31
+32-41
+42-51
+52-61
+62-71
+72-81
+82-91
+92-101
+102-111
+112-121
+122-131
+132-141
+142-151
+152-161
+162-171
+172-181
+182-191
+192-201
+202-211
+212-221
+222-231
+232-241
+242-251
+252-261
+262-271
+272-281
+282-291
+292-301
+302-311
+312-321
+322-331
+332-341
+342-351
+352-361
+362-371
+372-381
+382-391
+392-401
+
+Without Electronic Title List
+$60
+$120
+$180
+$240
+$300
+$360
+$420
+$480
+$540
+$600
+$660
+$720
+$780
+$840
+$900
+$960
+$1,020
+$1,080
+$1,140
+$1,200
+$1,260
+$1,320
+$1,380
+$1,440
+$1,500
+$1,560
+$1,620
+$1,680
+$1,740
+$1,800
+$1,860
+$1,920
+$1,980
+$2,040
+$2,100
+$2,160
+$2,220
+$2,280
+$2,340
+$2,400
+
+$185
+$245
+$305
+$365
+$425
+$485
+$545
+$605
+$665
+$725
+$785
+$845
+$905
+$965
+$1,025
+$1,085
+$1,145
+$1,205
+$1,265
+$1,325
+$1,385
+$1,445
+$1,505
+$1,565
+$1,625
+$1,685
+$1,745
+$1,805
+$1,865
+$1,925
+$1,985
+$2,045
+$2,105
+$2,165
+$2,225
+$2,285
+$2,345
+$2,405
+$2,465
+
+With Electronic Title List
+$60
+$60
+$60
+$60
+$60
+
+$185
+$185
+$185
+$185
+$185
+
+--- PAGE BREAK ---
+
+Calculating More Than 401 works and alternate identifiers
+
+For more than 401 works and alternate identifiers without an electronic title list, calculate the fee
+using combinations of the fees above.
+
+Example:
+ If a document has 730 works and alternate identifiers, the total fee is $4,505. This fee is calculated
+as follows:
+ +  $1,980
+  $4,505
+
+(the basic fee of $125 plus the cost for 400 works and alternate identifiers, which is $2,400)
+(the cost for 330 works and alternate identifiers) equals
+total
+
+For more than 401 works and alternate identifiers with an electronic title list, the fee is as follows
+
+402-501
+502-1,001
+1,002-10,001
+10,002+
+
+$390
+$555
+$5,550
+
+$515
+$680
+$5,675
+
+--- PAGE BREAK ---
+
+note
+1. This circular is intended as an overview of calculating fees for recording documents and notices of
+termination in the Copyright Office. The authoritative source for U.S. copyright law is the Copyright
+Act, codified in Title 17 of the United States Code. Copyright Office regulations are codified in Title
+37 of the Code of Federal Regulations. Copyright Office practices and procedures are summarized in
+the third edition of the Compendium of U.S. Copyright Office Practices, cited as the Compendium. The
+copyright law, regulations, and the Compendium are available on the Copyright Office website at
+www.copyright.gov.
+
+--- PAGE BREAK ---
+
+For Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time,
+Monday through Friday, except federal holidays. To request application forms or circulars by
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message.
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 12A  REVISED: 03 /2021
+
+PRINT: 00 /0000 — 0,000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov

@@ -1,0 +1,256 @@
+3
+
+Copyright Notice
+
+Copyright notice provides information 
+
+to the public regarding copyright 
+
+ownership. Notice is optional for 
+
+works created after March 1, 1989, 
+
+but is generally required for works 
+
+created before that date. This circular 
+introduces the concept of notice.1  
+It covers
+
+•  The elements of notice
+
+•  Where notice is required and  
+
+where it is optional
+
+•  The legal formalities of notice  
+
+when it is required
+
+•  The advantages of including  
+
+notice on a work
+
+Copyright notice is a statement placed on copies or phonore-
+cords of a work to inform the public that a copyright owner 
+is claiming ownership of it.2 A notice consists of three ele-
+ments that generally appear as a single continuous statement:
+
+•  The copyright symbol © (or for phonorecords, the 
+
+symbol ℗ ); the word “copyright”; or the abbreviation 
+“copr.”;
+
+•  The year of first publication of the work; and
+
+•  The name of the copyright owner.
+
+Example: © 2017 John Doe
+
+The use of a copyright notice is the responsibility of the 
+copyright owner and does not require permission from, or 
+registration with, the Copyright Office.
+
+Copyright notice was required for all works first published 
+
+before March 1, 1989, subject to some exceptions discussed 
+below. If the notice was omitted or a mistake was made in 
+using copyright notice, the work generally lost copyright 
+protection in the United States. Copyright notice is optional 
+for works published on or after March 1, 1989, unpublished 
+works, and foreign works; however, there are legal benefits for 
+including notice on your work.
+
+Works Requiring Notice
+
+Different laws govern works first published before January 1, 
+1978, and works first published between January 1, 1978, and 
+February 28, 1989. The discussion in this circular applies to 
+works first published between January 1, 1978, and Febru-
+ary 28, 1989. For information about notice for works first 
+published before January 1, 1978, see chapter 2100 of the 
+Compendium of U.S. Copyright Office Practices.
+
+wcopyright.govCIRCULAR Copies That Must Display Notice
+
+In general, for works first published before March 1, 1989, the copyright owner was required to place 
+an effective notice on all publicly distributed “visually perceptible” copies. A visually perceptible copy 
+is one that can be seen or read, either directly or with the aid of a machine. Examples of visually per-
+ceptible copies include a book, sheet music, a photograph, or film. A visually perceptible copy does not 
+include a CD, a vinyl record, or an .MP3 recording of a literary, dramatic, or musical work.
+
+When a copyright owner published a phonorecord that embodied a sound recording, an effective 
+notice had to appear on all publicly distributed phonorecords. The phonorecord symbol— ℗—was 
+needed only for publicly distributed copies of a sound recording embodied in a phonorecord.
+
+Form of Notice
+
+An effective notice includes three general elements, as described above, as a single continuous state-
+ment. It was permissible to omit the year of publication for works reproduced on greeting cards, 
+postcards, stationary, jewelry, dolls, toys, or any useful article. See the following sections of chapter 
+2200 of the Compendium for specific issues regarding the elements of notice:
+
+•  Section 2204.4 for variations on the © or ℗ symbol, or the word “copyright”
+
+•  Section 2205.1 for variations on the year of publication
+
+•  Section 2205.2 for variations on the name of the copyright owner
+
+Placement of Notice
+
+The copyright notice had to be placed on copies or phonorecords in a way that was permanently 
+legible to an ordinary user of the work and could not be concealed from view upon reasonable 
+examination. The Office adopted specific regulations for the placement of notice on the following 
+types of works:
+
+•  Literary works
+
+•  Contributions to collective works
+
+•  Musical works
+
+•  Sound recordings
+
+•  Dramatic works
+
+•  Motion pictures and other audiovisual works
+
+•  Pictorial, graphic, and sculptural works
+
+•  Multipart works
+
+•  Works published in machine-readable copies
+
+For more information, see chapter 2200, section 2207, of the Compendium.
+
+Omission of Notice and Errors of Notice
+
+An omission or mistake in using a copyright notice may not have invalidated the copyright to works 
+published between January 1, 1978 and March 1, 1989, if
+
+•  The notice was omitted from no more than a relatively small number of copies or phonore-
+
+cords distributed to the public; 
+
+2
+
+Copyright Notice•  The work was registered before or within five years after the publication without notice and 
+a reasonable effort was made to add notice to all copies or phonorecords distributed in the 
+United States after the omission was discovered;
+
+•  The omission violated an express written agreement to include proper notice as a condition of 
+
+public distribution of copies or phonorecords; or,
+
+•  The notice was removed from the copies or phonorecords without the authorization of the 
+
+copyright owner.
+
+When Notice Is Optional
+
+Copyright notice is optional for unpublished works, foreign works, or works published on or after 
+March 1, 1989. When notice is optional, copyright owners can use any form of notice they wish. How-
+ever, works first published after March 1, 1989, may need to comply with statutory formalities to pre-
+vent a defendant from invoking an innocent infringement defense in a copyright infringement action.
+
+Unpublished Works
+
+A copyright notice has never been required for unpublished works. The Copyright Office will 
+register an unpublished work that does not bear a notice, regardless of whether the work was cre-
+ated before or after March 1, 1989. Nonetheless, because the dividing line between a preliminary 
+distribution and actual publication is sometimes difficult to determine, copyright owners may want 
+to place copyright notices on copies or phonorecords that leave their control to indicate that rights 
+are claimed in a work. For example, an appropriate notice for an unpublished work is “Unpublished 
+Letters of John Doe © 2017 John Doe,” where 2017 refers to the year the work was created.
+
+Foreign Works and the Uruguay Round Agreements Act
+
+For certain foreign works, the Uruguay Round Agreements Act (URAA) of 1994 modifies the effect 
+of publication without notice. The URAA restored copyrights for foreign works that lost copyright 
+protection in the United States for failure to comply with notice requirements prior to March 1, 1989. 
+They include (a) works created by an author who, at the time of the work’s creation, was a citizen of, 
+or domiciled in, a country that had entered into a copyright treaty with the United States, and (b) 
+works first published, or sound recordings first fixed, in a country that had entered into a copyright 
+treaty with the United States. Although restoration is automatic in eligible works, the URAA directs 
+the owner of a restored work to notify reliance parties if the owner plans to enforce his or her rights 
+in the work.3 For more information, see Copyright Restoration Under the URAA (Circular 38B).
+
+Advantages to Using a Copyright Notice
+
+Although notice is optional for unpublished works, foreign works, or works published on or after 
+March 1, 1989, using a copyright notice carries the following benefits:
+
+•  Notice makes potential users aware that copyright is claimed in the work.
+
+•  In the case of a published work, a notice may prevent a defendant in a copyright infringement 
+action from attempting to limit his or her liability for damages or injunctive relief based on an 
+innocent infringement defense.
+
+3
+
+Copyright Notice•  Notice identifies the copyright owner at the time the work was first published for parties seek-
+
+ing permission to use the work.
+
+•  Notice identifies the year of first publication, which may be used to determine the term of 
+copyright protection in the case of an anonymous work, a pseudonymous work, or a work 
+made for hire.
+
+•  Notice may prevent the work from becoming an orphan work by identifying the copyright 
+
+owner and specifying the term of the copyright. 
+
+4
+
+Copyright Noticenotes
+1. This circular is intended as an overview of the basic concepts of copyright notice. The authoritative 
+source for U.S. copyright law is the Copyright Act, codified in Title 17 of the United States Code. Copy-
+right Office regulations are codified in Title 37 of the Code of Federal Regulations. Copyright Office 
+practices and procedures are summarized in the third edition of the Compendium of U.S. Copyright 
+Office Practices, cited as the Compendium. The copyright law, regulations, and the Compendium are 
+available on the Copyright Office website at www.copyright.gov.
+2. A “phonorecord” is a material object in which sounds are fixed and from which the sounds can 
+be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine 
+or device. Examples include a cassette tape, a vinyl disc, or a compact disc. A phonorecord does not 
+include sounds accompanying a motion picture or other audiovisual work.
+3. A reliance party is typically a business or individual who, relying on the public domain status of 
+a work, was using it before the enactment of the URAA on December 8, 1994. For works from any 
+country that was not eligible under the URAA as of December 8, 1994, reliance parties are those 
+using the work before the date on which the country becomes eligible by joining the World Trade 
+Agreement or the Berne Convention for the Protection of Literary and Artistic Works or as a result of 
+a presidential proclamation.
+
+5
+
+Copyright NoticeFor Further Information
+
+By Internet
+
+The copyright law, the Compendium, electronic registration, application forms, regulations,  
+and related materials are available on the Copyright Office website at www.copyright.gov.
+
+By Email
+
+To send an email inquiry, click the Contact Us link on the Copyright Office website.
+
+By Telephone
+
+For general information, call the Copyright Public Information Office at (202) 707-3000 or  
+1-877-476-0778 (toll free). Staff members are on duty from 8:30 am to 5:00 pm, eastern time, 
+Monday through Friday, except federal holidays. To request application forms or circulars by 
+postal mail, call (202) 707-9100 or 1-877-476-0778 and leave a recorded message. 
+
+By Regular Mail
+
+Write to
+
+Library of Congress
+U.S. Copyright Office 
+Outreach and Education Section
+101 Independence Avenue, SE #6304
+Washington, DC 20559-6304
+
+CIRCULAR 3  REVISED: 03/2021 
+
+PRINT: 00/0000 — 0000
+
+1   U. S. Copyright Office · Library of Congress · 101 Independence Avenue SE · Washington, DC 20559 · copyright.gov
