@@ -1,4 +1,29 @@
+cat > .gitignore <<'EOF'
+
 .env
 .env.*
+*.pem
+*.key
+__pycache__/
+.pytest_cache/
+logs/
+
 .venv/
 __pycache__/
+*.pyc
+.DS_Store
+
+# RAG artifacts / data
+data/
+vectorstore/
+
+# databases / indexes
+*.sqlite
+*.db
+*.faiss
+*.index
+
+# documents (optional - if you don't want to store them)
+*.pdf
+*.docx
+EOF

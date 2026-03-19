@@ -1,0 +1,12 @@
+numpy<2
+
+faiss-cpu
+faiss-cpu==1.8.0
+uvicorn
+fastapi
+openai
+sentence-transformers
+pypdf
+pdf2image
+pytesseract
+pillow
