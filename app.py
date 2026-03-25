@@ -3,6 +3,37 @@ import requests
 import streamlit as st
 import os
 
+st.markdown("""
+<style>
+:root {
+    color-scheme: light;
+}
+
+/* Main app background */
+.stApp {
+    background-color: white !important;
+    color: #111111 !important;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #f7f7f7 !important;
+}
+
+/* Text */
+html, body, [class*="css"]  {
+    color: #111111 !important;
+}
+
+/* Chat / containers */
+section[data-testid="stChatMessage"] {
+    background-color: white !important;
+    border: 1px solid #eaeaea;
+    border-radius: 12px;
+}
+</style>
+""", unsafe_allow_html=True)
+
 st.set_page_config(page_title="Music RAG Intelligence Engine", layout="wide")
 st.title("Music Industry RAG Intelligence Engine")
 st.caption("Ask questions over your ingested contracts / royalty docs. Answers are grounded with citations.")
