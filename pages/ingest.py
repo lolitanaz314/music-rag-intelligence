@@ -5,13 +5,17 @@ import streamlit as st
 
 try:
     from pypdf import PdfReader
-except Exception:
+    PDF_IMPORT_ERROR = None
+except Exception as e:
     PdfReader = None
+    PDF_IMPORT_ERROR = str(e)
 
 try:
     from docx import Document
-except Exception:
+    DOCX_IMPORT_ERROR = None
+except Exception as e:
     Document = None
+    DOCX_IMPORT_ERROR = str(e)
 
 from src.config.paths import TEXT_DIR, MANIFEST_PATH
 from src.policies.domain_labeler import label_domain
@@ -20,7 +24,7 @@ from src.storage.manifest import append_manifest
 
 def extract_pdf(file) -> str:
     if PdfReader is None:
-        st.error("PDF support not installed. Run: python -m pip install pypdf")
+        st.error(f"PDF support not installed. Import error: {PDF_IMPORT_ERROR}")
         return ""
     reader = PdfReader(file)
     return "\n".join((page.extract_text() or "") for page in reader.pages)
@@ -28,7 +32,7 @@ def extract_pdf(file) -> str:
 
 def extract_docx(file) -> str:
     if Document is None:
-        st.error("DOCX support not installed. Run: python -m pip install python-docx")
+        st.error(f"DOCX support not installed. Import error: {DOCX_IMPORT_ERROR}")
         return ""
     doc = Document(file)
     return "\n".join(p.text for p in doc.paragraphs)
@@ -45,24 +49,31 @@ uploaded_file = st.file_uploader(
     type=["pdf", "txt", "docx"],
 )
 
-# Upload-only ingestion
 text = ""
 source_type = "upload"
 source_ref = None
+extraction_failed = False
 
 if uploaded_file:
     source_ref = uploaded_file.name
+    suffix = Path(uploaded_file.name).suffix.lower()
 
-    if uploaded_file.type == "application/pdf":
+    if uploaded_file.type == "application/pdf" or suffix == ".pdf":
         text = extract_pdf(uploaded_file)
-    elif uploaded_file.type == "text/plain":
+    elif uploaded_file.type == "text/plain" or suffix == ".txt":
         text = uploaded_file.read().decode("utf-8", errors="ignore")
-    elif uploaded_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document":
+    elif (
+        uploaded_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        or suffix == ".docx"
+    ):
         text = extract_docx(uploaded_file)
-
-    if not text.strip():
-        st.warning("⚠️ No extractable text found in this file (it may be scanned/image-only).")
     else:
+        extraction_failed = True
+        st.error(f"Unsupported file type: {uploaded_file.type} ({suffix})")
+
+    if not text.strip() and not extraction_failed:
+        st.warning("⚠️ No extractable text found in this file.")
+    elif text.strip():
         with st.expander("Preview extracted text", expanded=False):
             st.text_area(
                 "Extracted text (read-only)",
@@ -88,8 +99,7 @@ domain = st.selectbox(
 TEXT = Path(TEXT_DIR)
 MANIFEST = Path(MANIFEST_PATH)
 
-# Require an upload AND successful text extraction
-save_disabled = (uploaded_file is None) or (not text.strip())
+save_disabled = (uploaded_file is None) or extraction_failed or (not text.strip())
 
 if st.button("Save document", type="primary", disabled=save_disabled):
     doc_id = f"doc_{int(time.time() * 1000)}"
@@ -105,8 +115,8 @@ if st.button("Save document", type="primary", disabled=save_disabled):
             "domain": domain,
             "title": title.strip() or doc_id,
             "tags": [t.strip() for t in tags.split(",") if t.strip()],
-            "source_type": source_type,          # always "upload"
-            "source_ref": source_ref or str(out_txt),  # filename if available
+            "source_type": source_type,
+            "source_ref": source_ref or str(out_txt),
         },
     )
 
