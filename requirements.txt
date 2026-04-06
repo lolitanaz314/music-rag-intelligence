@@ -5,6 +5,7 @@ uvicorn
 fastapi
 openai
 sentence-transformers
+streamlit
 pypdf
 pdf2image
 pytesseract
