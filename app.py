@@ -7,7 +7,7 @@ st.set_page_config(page_title="Music RAG Intelligence Engine", layout="wide")
 st.title("Music Industry RAG Intelligence Engine")
 st.caption("Ask questions over your ingested contracts / royalty docs. Answers are grounded with citations.")
 
-DEFAULT_API_BASE = os.getenv("API_BASE_URL", "http://api:8000").rstrip("/")
+DEFAULT_API_BASE = os.getenv("API_BASE_URL", "http://127.0.0.1:8000").rstrip("/")
 API_BASE = st.sidebar.text_input("API base URL", value=DEFAULT_API_BASE).rstrip("/")
 
 if st.sidebar.button("Reset API URL"):
