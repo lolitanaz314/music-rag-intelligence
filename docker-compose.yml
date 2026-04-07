@@ -5,7 +5,6 @@ services:
     build:
       context: .
       dockerfile: deploy/api.Dockerfile
-    container_name: music-iq-api
     restart: unless-stopped
     volumes:
       - ./vectorstore:/app/vectorstore
@@ -28,7 +27,6 @@ services:
     build:
       context: .
       dockerfile: deploy/streamlit.Dockerfile
-    container_name: music-iq-streamlit
     restart: unless-stopped
     volumes:
       - ./data:/app/data
@@ -50,7 +48,6 @@ services:
 
   nginx:
     image: nginx:stable
-    container_name: music-iq-nginx
     restart: unless-stopped
     ports:
       - "80:80"
