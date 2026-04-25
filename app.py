@@ -3,7 +3,6 @@ import requests
 import streamlit as st
 import os
 
-
 st.set_page_config(page_title="Music RAG Intelligence Engine", layout="wide")
 st.title("Music Industry RAG Intelligence Engine")
 st.caption("Ask questions over your ingested contracts / royalty docs. Answers are grounded with citations.")
@@ -12,11 +11,9 @@ st.caption("Ask questions over your ingested contracts / royalty docs. Answers a
 DEFAULT_API_BASE = os.getenv("API_BASE_URL", "http://127.0.0.1:8000").rstrip("/")
 API_BASE = st.sidebar.text_input("API base URL", value=DEFAULT_API_BASE).rstrip("/")
 
-
 if st.sidebar.button("Reset API URL"):
    st.session_state.api_base = DEFAULT_API_BASE
    st.rerun()
-
 
 with st.sidebar:
    st.subheader("Retrieval settings")
@@ -43,7 +40,6 @@ with colA:
 with colB:
    st.write("")
 
-
 def call_answer_api(q: str):
    url = f"{API_BASE.rstrip('/')}/answer"
    payload = {
@@ -57,12 +53,10 @@ def call_answer_api(q: str):
    r.raise_for_status()
    return r.json()
 
-
 if ask:
    if not query.strip():
        st.warning("Type a question first.")
        st.stop()
-
 
    with st.spinner("Retrieving + reranking + generating grounded answer..."):
        try:
@@ -75,7 +69,6 @@ if ask:
    st.subheader("Answer")
    st.write(out.get("answer", ""))
 
-
    with st.expander("Retrieval details"):
        m1, m2, m3, m4 = st.columns(4)
        m1.metric("Top-N", top_n)
@@ -86,7 +79,6 @@ if ask:
 
        st.markdown("**Rewritten query**")
        st.code(out.get("final_query", ""), language="text")
-
 
    st.subheader("Sources")
    sources = out.get("sources", [])
@@ -100,10 +92,8 @@ if ask:
            chunk_id = s.get("chunk_id", "")
            st.markdown(f"**[{cite}]** `{doc}` — chunk `{chunk_index}` — id `{chunk_id}`")
 
-
    with st.expander("Raw JSON (debug)"):
        st.code(json.dumps(out, indent=2), language="json")
-
 
 st.divider()
 st.caption("UI: Streamlit client → FastAPI /answer → RAG pipeline (rewrite → retrieve → rerank → grounded generation).")

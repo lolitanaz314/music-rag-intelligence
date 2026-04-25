@@ -1,23 +1,17 @@
-CONTRACT_FEATURES = [
-    "doc_id",
-    "artist_name",
-    "label_name",
-    "contract_type",
-    "effective_date",
-    "territory",
-    "term_length_years",
-    "num_albums_required",
-    "royalty_rate",
-    "advance_amount",
-    "recoupable",
-    "master_ownership",
-    "publishing_split",
-    "has_360_clause",
-    "includes_merch_rights",
-    "includes_touring_rights",
-    "includes_sync_rights",
-    "exclusivity",
-    "renewal_option_count",
-    "termination_clause_present",
-    "mechanical_royalty_terms",
-]
+from pydantic import BaseModel
+from typing import Optional, List
+
+
+class ContractFeatures(BaseModel):
+    document_name: str
+    royalty_rate: Optional[float] = None
+    advance_amount: Optional[float] = None
+    recoupable: Optional[bool] = None
+    territory: Optional[str] = None
+    term_years: Optional[float] = None
+    ownership: Optional[str] = None
+    audit_rights: Optional[bool] = None
+    exclusivity: Optional[bool] = None
+    termination_clause: Optional[str] = None
+    red_flags: List[str] = []
+    summary: Optional[str] = None
